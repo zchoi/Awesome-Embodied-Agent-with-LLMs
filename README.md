@@ -5,6 +5,7 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 - [Vision and Language Navigation](#vision-and-language-navigation)
 - [Detection](#detection)
 - [Embodied Question Answering](#emboided-question-answering)
+- [Benchmark](benchmark)
 
 ## Methods
 
@@ -14,6 +15,16 @@ Navigation with Large Language Models**](https://arxiv.org/pdf/2305.16986.pdf) [
 Gengze Zhou<sup>1</sup> Yicong Hong<sup>2</sup> Qi Wu<sup>1</sup> <br>
 <sup>1</sup>The University of Adelaide <sup>2</sup>The Australian National University
 
+* [**React: Synergizing reasoning and acting in language models**](https://arxiv.org/pdf/2210.03629.pdf) [**ICLR 2023**] <br>
+Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du<sup>2</sup>, Izhak Shafran<sup>2</sup>, Karthik Narasimhan<sup>1</sup>, Yuan Cao<sup>2</sup> <br>
+<sup>1</sup>Department of Computer Science, Princeton University <sup>2</sup>, Google Research, Brain team
+
+* [**Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**](https://arxiv.org/pdf/2305.14078.pdf) [**Arxiv 2023**] <br>
+Zirui Zhao Wee Sun Lee David Hsu <br>
+School of Computing National University of Singapore
+
+
+
 > ### Detection
 * [**DetGPT: Detect What You Need via Reasoning**](https://arxiv.org/pdf/2305.14167.pdf) [**Arxiv 2023**] <br>
 Renjie Pi<sup>1∗</sup> Jiahui Gao<sup>2*</sup> Shizhe Diao<sup>1∗</sup> Rui Pan<sup>1</sup> Hanze Dong<sup>1</sup> Jipeng Zhang<sup>1</sup> Lewei Yao<sup>1</sup> Jianhua Han<sup>3</sup> Hang Xu<sup>2</sup>
@@ -22,4 +33,8 @@ Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 
 > ### Embodied Question Answering
 
+> ### Benchmark
+* [**SQA3D: Situated Question Answering in 3D Scenes**](https://arxiv.org/pdf/2210.07474.pdf) [**ICLR 2023**] [[**Project page**](https://sqa3d.github.io/)] [[**Slides**](http://web.cs.ucla.edu/~xm/file/sqa3d_iclr23_slides.pdf)] [[**Github**](https://github.com/SilongYong/SQA3D)]<br> 
 
+Xiaojian Ma<sup>2</sup> Silong Yong<sup>1,3*</sup> Zilong Zheng<sup>1</sup> Qing Li<sup>1</sup> Yitao Liang<sup>1,4</sup> Song-Chun Zhu<sup>1,2,3,4</sup> Siyuan Huang<sup>1</sup><br>
+<sup>1</sup>Beijing Institute for General Artificial Intelligence (BIGAI) <sup>2</sup>UCLA <sup>3</sup>Tsinghua University <sup>4</sup>Peking University
