@@ -6,6 +6,7 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 - [Detection](#detection)
 - [Embodied Question Answering](#emboided-question-answering)
 - [Benchmark](benchmark)
+- [Others](others)
 
 ## Methods
 
@@ -38,3 +39,8 @@ Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 
 Xiaojian Ma<sup>2</sup> Silong Yong<sup>1,3*</sup> Zilong Zheng<sup>1</sup> Qing Li<sup>1</sup> Yitao Liang<sup>1,4</sup> Song-Chun Zhu<sup>1,2,3,4</sup> Siyuan Huang<sup>1</sup><br>
 <sup>1</sup>Beijing Institute for General Artificial Intelligence (BIGAI) <sup>2</sup>UCLA <sup>3</sup>Tsinghua University <sup>4</sup>Peking University
+
+### Others
+* [**Distilling Internet-Scale Vision-Language Models into Embodied Agents**](https://openreview.net/pdf?id=6vVkGnEpP7) [**ICML 2023**] <br>
+Theodore Sumers<sup>1∗</sup> Kenneth Marino<sup>2</sup> Arun Ahuja<sup>2</sup> Rob Fergus<sup>2</sup> Ishita Dasgupta<sup>2</sup> <br>
+
