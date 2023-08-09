@@ -25,7 +25,6 @@ Zirui Zhao Wee Sun Lee David Hsu <br>
 School of Computing National University of Singapore
 
 
-
 > ### Detection
 * [**DetGPT: Detect What You Need via Reasoning**](https://arxiv.org/pdf/2305.14167.pdf) [**Arxiv 2023**] <br>
 Renjie Pi<sup>1∗</sup> Jiahui Gao<sup>2*</sup> Shizhe Diao<sup>1∗</sup> Rui Pan<sup>1</sup> Hanze Dong<sup>1</sup> Jipeng Zhang<sup>1</sup> Lewei Yao<sup>1</sup> Jianhua Han<sup>3</sup> Hang Xu<sup>2</sup>
@@ -36,9 +35,13 @@ Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 
 > ### Benchmark
 * [**SQA3D: Situated Question Answering in 3D Scenes**](https://arxiv.org/pdf/2210.07474.pdf) [**ICLR 2023**] [[**Project page**](https://sqa3d.github.io/)] [[**Slides**](http://web.cs.ucla.edu/~xm/file/sqa3d_iclr23_slides.pdf)] [[**Github**](https://github.com/SilongYong/SQA3D)]<br> 
-
 Xiaojian Ma<sup>2</sup> Silong Yong<sup>1,3*</sup> Zilong Zheng<sup>1</sup> Qing Li<sup>1</sup> Yitao Liang<sup>1,4</sup> Song-Chun Zhu<sup>1,2,3,4</sup> Siyuan Huang<sup>1</sup><br>
 <sup>1</sup>Beijing Institute for General Artificial Intelligence (BIGAI) <sup>2</sup>UCLA <sup>3</sup>Tsinghua University <sup>4</sup>Peking University
+
+* [**IQA: Visual Question Answering in Interactive Environments**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_IQA_Visual_Question_CVPR_2018_paper.pdf) [**CVPR 2018**] [[**Github**](https://github.com/danielgordon10/thor-iqa-cvpr-2018)] [[**Demo video (YouTube)**](https://www.youtube.com/watch?v=pXd3C-1jr98&feature=youtu.be)]<br>
+Danie<sup>1</sup> Gordon1 Aniruddha Kembhavi<sup>2</sup> Mohammad Rastegari<sup>2,4</sup> Joseph Redmon<sup>1</sup> Dieter Fox<sup>1,3</sup> Ali Farhadi<sup>1,2</sup> <br>
+<sup>1</sup>Paul G. Allen School of Computer Science, University of Washington <sup>2</sup>Allen Institute for Artificial Intelligence <sup>3</sup>Nvidia <sup>4</sup>Xnor.ai
+
 
 ### Others
 * [**Distilling Internet-Scale Vision-Language Models into Embodied Agents**](https://openreview.net/pdf?id=6vVkGnEpP7) [**ICML 2023**] <br>
