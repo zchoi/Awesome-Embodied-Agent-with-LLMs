@@ -21,7 +21,7 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 Wenlong Huang<sup>1</sup>, Chen Wang<sup>1</sup>, Ruohan Zhang<sup>1</sup>, Yunzhu Li<sup>1,2</sup>, Jiajun Wu<sup>1</sup>, Li Fei-Fei<sup>1</sup> <br>
 <sup>1</sup>Stanford University <sup>2</sup>University of Illinois Urbana-Champaign
 
-* [**Palm-e: An embodied multimodal language mode**](https://arxiv.org/pdf/2303.03378.pdf) [**Arxiv 2023**] [[**Project page**]([https://voxposer.github.io/](https://palm-e.github.io))]<br>
+* [**Palm-e: An embodied multimodal language mode**](https://arxiv.org/pdf/2303.03378.pdf) [**Arxiv 2023**] [[**Project page**](https://palm-e.github.io)]<br>
 <sup>1</sup>Robotics at Google <sup>2</sup>TU Berlin 3Google Research    
 
 * [**Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**](https://arxiv.org/pdf/2305.14078.pdf) [**Arxiv 2023**] <br>
