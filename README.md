@@ -6,8 +6,8 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 - [Vision and Language Navigation](#vision-and-language-navigation)
 - [Detection](#detection)
 - [Embodied Question Answering](#embodied-question-answering)
-- [Benchmark](benchmark)
-- [Others](others)
+- [Benchmark](#benchmark)
+- [Others](#others)
 
 ## Methods
 
@@ -79,8 +79,7 @@ Danie<sup>1</sup> Gordon1 Aniruddha Kembhavi<sup>2</sup> Mohammad Rastegari<sup>
 Difei Gao<sup>1,2</sup>, Ruiping Wang<sup>1,2,3</sup>, Ziyi Bai<sup>1,2</sup>, Xilin Chen<sup>1</sup>, <br>
 <sup>1</sup>Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS),
 Institute of Computing Technology, CAS,
-<sup>2</sup>University of Chinese Academy of Sciences, 
-<sup>3</sup>Beijing Academy of Artificial Intelligence
+<sup>2</sup>University of Chinese Academy of Sciences, <sup>3</sup>Beijing Academy of Artificial Intelligence
 
 > ### Others
 
