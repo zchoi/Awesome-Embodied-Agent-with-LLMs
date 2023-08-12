@@ -2,13 +2,31 @@
 This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates!
 
 ## Table of Contents 🍃
+- [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
 - [Vision and Language Navigation](#vision-and-language-navigation)
 - [Detection](#detection)
-- [Embodied Question Answering](#emboided-question-answering)
+- [Embodied Question Answering](#embodied-question-answering)
 - [Benchmark](benchmark)
 - [Others](others)
 
 ## Methods
+
+> ### Planning and Manipulation or Pretraining
+
+* [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) [**Arxiv 2023**] [[**Github**](https://github.com/UMass-Foundation-Model/3D-LLM)] [[**Project page**](https://vis-www.cs.umass.edu/3dllm/)]<br>
+<sup>1</sup>Yining Hong, <sup>2</sup>Haoyu Zhen, <sup>3</sup>Peihao Chen, <sup>4</sup>Shuhong Zheng, <sup>5</sup>Yilun Du, <sup>6</sup>Zhenfang Chen, <sup>6,7</sup>Chuang Gan <br>
+<sup>1</sup>UCLA       <sup>2</sup> SJTU       <sup>3</sup> SCUT       <sup>4</sup> UIUC       <sup>5</sup> MIT       <sup>6</sup>MIT-IBM Watson AI Lab       <sup>7</sup> Umass Amherst
+
+* [**VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**](https://arxiv.org/abs/2307.05973) [**Arxiv 2023**] [[**Project page**](https://voxposer.github.io/)] [**Online Demo**](https://www.youtube.com/watch?v=Yvn4eR05A3M)]<br>
+Wenlong Huang<sup>1</sup>, Chen Wang<sup>1</sup>, Ruohan Zhang<sup>1</sup>, Yunzhu Li<sup>1,2</sup>, Jiajun Wu<sup>1</sup>, Li Fei-Fei<sup>1</sup> <br>
+<sup>1</sup>Stanford University <sup>2</sup>University of Illinois Urbana-Champaign
+
+* [**Palm-e: An embodied multimodal language mode**](https://arxiv.org/pdf/2303.03378.pdf) [**Arxiv 2023**] [[**Project page**]([https://voxposer.github.io/](https://palm-e.github.io))]<br>
+<sup>1</sup>Robotics at Google <sup>2</sup>TU Berlin 3Google Research    
+
+* [**Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**](https://arxiv.org/pdf/2305.14078.pdf) [**Arxiv 2023**] <br>
+Zirui Zhao Wee Sun Lee David Hsu <br>
+School of Computing National University of Singapore
 
 > ### Vision and Language Navigation
 * [**NavGPT: Explicit Reasoning in Vision-and-Language
@@ -16,14 +34,11 @@ Navigation with Large Language Models**](https://arxiv.org/pdf/2305.16986.pdf) [
 Gengze Zhou<sup>1</sup> Yicong Hong<sup>2</sup> Qi Wu<sup>1</sup> <br>
 <sup>1</sup>The University of Adelaide <sup>2</sup>The Australian National University
 
-* [**React: Synergizing reasoning and acting in language models**](https://arxiv.org/pdf/2210.03629.pdf) [**ICLR 2023**] <br>
-Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du<sup>2</sup>, Izhak Shafran<sup>2</sup>, Karthik Narasimhan<sup>1</sup>, Yuan Cao<sup>2</sup> <br>
-<sup>1</sup>Department of Computer Science, Princeton University <sup>2</sup>, Google Research, Brain team
 
-* [**Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**](https://arxiv.org/pdf/2305.14078.pdf) [**Arxiv 2023**] <br>
-Zirui Zhao Wee Sun Lee David Hsu <br>
-School of Computing National University of Singapore
-
+* [**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**](https://arxiv.org/pdf/2305.11176.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/OpenGVLab/Instruct2Act)]    
+Siyuan Huang<sup>1,2</sup> Zhengkai Jiang<sup>4</sup> Hao Dong<sup>3</sup> Yu Qiao<sup>2</sup> Peng Gao<sup>2</sup> Hongsheng Li<sup>5</sup> <br>
+<sup>1</sup>Shanghai Jiao Tong University, <sup>2</sup>Shanghai AI Laboratory, <sup>3</sup>CFCS, School of CS, PKU,
+<sup>4</sup>University of Chinese Academy of Sciences, <sup>5</sup>The Chinese University of Hong Kong
 
 > ### Detection
 * [**DetGPT: Detect What You Need via Reasoning**](https://arxiv.org/pdf/2305.14167.pdf) [**Arxiv 2023**] <br>
@@ -32,6 +47,23 @@ Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 <sup>1</sup>The Hong Kong University of Science and Technology <sup>2</sup>The University of Hong Kong 3Shanghai Jiao Tong University
 
 > ### Embodied Question Answering
+
+* [**Embodied Question Answering in Photorealistic Environments with Point Cloud Perception**](https://arxiv.org/abs/1904.03461) [**CVPR 2019 (oral)**] [[**Slides**](https://embodiedqa.org/slides/eqa_matterport.slides.pdf)]<br>
+Erik Wijmans<sup>1†</sup>, Samyak Datta<sup>1</sup>, Oleksandr Maksymets<sup>2†</sup>, Abhishek Das<sup>1</sup>, Georgia Gkioxari<sup>2</sup>, Stefan Lee<sup>1</sup>, Irfan Essa<sup>1</sup>, Devi Parikh<sup>1,2</sup>, Dhruv Batra<sup>1,2</sup> <br>
+<sup>1</sup>Georgia Institute of Technology, <sup>2</sup>Facebook AI Research
+
+* [**Multi-Target Embodied Question Answering**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Multi-Target_Embodied_Question_Answering_CVPR_2019_paper.pdf) [**CVPR 2019**] <br>
+Licheng Yu<sup>1</sup>, Xinlei Chen<sup>3</sup>, Georgia Gkioxari<sup>3</sup>, Mohit Bansal<sup>1</sup>, Tamara L. Berg<sup>1,3</sup>, Dhruv Batra<sup>2,3</sup><br>
+<sup>1</sup>University of North Carolina at Chapel Hill <sup>2</sup>Georgia Tech 3Facebook AI
+
+* [**Neural Modular Control for Embodied Question Answering**](https://arxiv.org/abs/1810.11181) [**CoRL 2018 (Spotlight)**] [[**Project page**](https://embodiedqa.org/)] [[**Github**](https://github.com/facebookresearch/EmbodiedQA)]<br>
+Abhishek Das<sup>1</sup>,Georgia Gkioxari<sup>2</sup>, Stefan Lee<sup>1</sup>, Devi Parikh<sup>1,2</sup>, Dhruv Batra<sup>1,2</sup><br>
+<sup>1</sup>Georgia Institute of Technology <sup>2</sup>Facebook AI Research
+
+* [**Embodied Question Answering**](https://embodiedqa.org/paper.pdf) [**CVPR 2018 (oral)**] [[**Project page**](https://embodiedqa.org/)] [[**Github**](https://github.com/facebookresearch/EmbodiedQA)]<br>
+Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup>, Stefan Lee<sup>1</sup>, Devi Parikh<sup>2,1</sup>, Dhruv Batra<sup>2</sup> <br>
+<sup>1</sup>Georgia Institute of Technology, <sup>2</sup>Facebook AI Research
+
 
 > ### Benchmark
 * [**SQA3D: Situated Question Answering in 3D Scenes**](https://arxiv.org/pdf/2210.07474.pdf) [**ICLR 2023**] [[**Project page**](https://sqa3d.github.io/)] [[**Slides**](http://web.cs.ucla.edu/~xm/file/sqa3d_iclr23_slides.pdf)] [[**Github**](https://github.com/SilongYong/SQA3D)]<br> 
@@ -49,9 +81,15 @@ Institute of Computing Technology, CAS,
 <sup>2</sup>University of Chinese Academy of Sciences, 
 <sup>3</sup>Beijing Academy of Artificial Intelligence
 
-
-
-### Others
+> ### Others
 * [**Distilling Internet-Scale Vision-Language Models into Embodied Agents**](https://openreview.net/pdf?id=6vVkGnEpP7) [**ICML 2023**] <br>
 Theodore Sumers<sup>1∗</sup> Kenneth Marino<sup>2</sup> Arun Ahuja<sup>2</sup> Rob Fergus<sup>2</sup> Ishita Dasgupta<sup>2</sup> <br>
+
+* [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/dvlab-research/LISA)] [[**Huggingface Models**](https://huggingface.co/xinlai)] [[**Dataset**](https://drive.google.com/drive/folders/125mewyg5Ao6tZ3ZdJ-1-E3n04LGVELqy?usp=sharing)] [[**Online Demo**](http://103.170.5.190:7860/)]     
+TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<sup>1</sup> Yuhui Yuan<sup>3</sup> Shu Liu<sup>2</sup> Jiaya Jia<sup>1,2</sup> <br>
+<sup>1</sup>The Chinese University of Hong Kong <sup>2</sup>SmartMore <sup>3</sup>MSRA<br>
+
+* [**React: Synergizing reasoning and acting in language models**](https://arxiv.org/pdf/2210.03629.pdf) [**ICLR 2023**] <br>
+Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du<sup>2</sup>, Izhak Shafran<sup>2</sup>, Karthik Narasimhan<sup>1</sup>, Yuan Cao<sup>2</sup> <br>
+<sup>1</sup>Department of Computer Science, Princeton University <sup>2</sup>, Google Research, Brain team
 
