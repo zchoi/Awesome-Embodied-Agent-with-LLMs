@@ -13,6 +13,19 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 
 > ### Planning and Manipulation or Pretraining
 
+* [**AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation**](https://arxiv.org/pdf/2305.18898.pdf) [**Arxiv 2023**] [[**Video**](https://www.youtube.com/watch?v=ayAzID1_qQk)]<br>
+Chuhao Jin<sup>1*</sup>
+, Wenhui Tan<sup>1*</sup>
+, Jiange Yang<sup>2*</sup>
+, Bei Liu3<sup>†</sup>
+, Ruihua Song<sup>1</sup>
+, Limin Wang<sup>2</sup>
+, Jianlong Fu<sup>3†</sup><br>
+<sup>1</sup>Renmin University of China, <sup>2</sup>Nanjing University,
+<sup>3</sup>Microsoft Research
+
+
+
 * [**A Persistent Spatial Semantic Representation for High-level Natural Language Instruction Execution**](https://openreview.net/pdf?id=NeGDZeyjcKa) [**CoRL 2021**] [[**Project page**](https://hlsm-alfred.github.io/)] [[**Github**](https://github.com/valtsblukis/hlsm)] [[**Poster**](https://openreview.net/attachment?id=NeGDZeyjcKa&name=poster)]<br>
 Valts Blukis<sup>1,2</sup>, Chris Paxton<sup>1</sup>, Dieter Fox<sup>1,3</sup>, Animesh Garg<sup>1,4</sup>, Yoav Artzi<sup>2</sup><br>
 <sup>1</sup>NVIDIA <sup>2</sup>Cornell University <sup>3</sup>University of Washington <sup>4</sup>University of Toronto, Vector Institute
