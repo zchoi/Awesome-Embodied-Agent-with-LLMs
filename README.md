@@ -13,6 +13,11 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 
 > ### Planning and Manipulation or Pretraining
 
+* [**LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**](https://arxiv.org/pdf/2212.04088.pdf) [**ICCV 2023**] [[**Project page**](https://dki-lab.github.io/LLM-Planner/)] [[**Github**](https://github.com/OSU-NLP-Group/LLM-Planner)]<br>
+Chan Hee Song<sup>1</sup>, Jiaman Wu<sup>1</sup>, Clayton Washington<sup>1</sup>, Brian M. Sadler<sup>2</sup>, Wei-Lun Chao<sup>1</sup>, Yu Su<sup>1</sup>,<br>
+<sup>1</sup>The Ohio State University, <sup>2</sup>DEVCOM ARL
+
+
 * [**Code as Policies: Language Model Programs for Embodied Control**](https://arxiv.org/pdf/2209.07753) [**Arxiv 2023**] [[**Project page**](https://code-as-policies.github.io/)] [[**Github**](https://code-as-policies.github.io)] [[**Blog**](https://ai.googleblog.com/2022/11/robots-that-write-their-own-code.html)] [[**Colab**](https://colab.research.google.com/drive/124TE4TsGYyrvduzeDclufyvwcc2qbbrE)]<br>
 Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng<br>
 Robotics at Google
