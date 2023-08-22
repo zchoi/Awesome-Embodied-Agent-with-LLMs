@@ -12,6 +12,11 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 ## Methods
 
 > ### Planning and Manipulation or Pretraining
+* [**Language Models Meet World Models: Embodied Experiences Enhance Language Models**](https://arxiv.org/pdf/2305.10626.pdf) [**Arxiv 2023**] [![](https://img.shields.io/github/stars/szxiangjn/world-model-for-language-model?style=social&label=Code+Stars)](https://github.com/valtsblukis/hlsm) [[**Twitter**](https://twitter.com/szxiangjn/status/1659399771126370304)]<br>
+Jiannan Xiang<sup>∗♠</sup>, Tianhua Tao<sup>∗♠</sup>, Yi Gu<sup>♠</sup>, Tianmin Shu<sup>♢</sup>,
+Zirui Wang<sup>♠</sup>, Zichao Yang<sup>♡</sup>, Zhiting Hu<sup>♠</sup><br>
+<sup>♠</sup>UC San Diego, <sup>♣</sup>UIUC, <sup>♢</sup>MIT, <sup>♡</sup>Carnegie Mellon University
+
 
 * [**AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation**](https://arxiv.org/pdf/2305.18898.pdf) [**Arxiv 2023**] [[**Video**](https://www.youtube.com/watch?v=ayAzID1_qQk)]<br>
 Chuhao Jin<sup>1*</sup>
@@ -24,9 +29,7 @@ Chuhao Jin<sup>1*</sup>
 <sup>1</sup>Renmin University of China, <sup>2</sup>Nanjing University,
 <sup>3</sup>Microsoft Research
 
-
-
-* [**A Persistent Spatial Semantic Representation for High-level Natural Language Instruction Execution**](https://openreview.net/pdf?id=NeGDZeyjcKa) [**CoRL 2021**] [[**Project page**](https://hlsm-alfred.github.io/)] [![](https://img.shields.io/github/stars/valtsblukis/hlsm?style=social&label=Code+Stars)](https://github.com/valtsblukis/hlsm) [[**Poster**](https://openreview.net/attachment?id=NeGDZeyjcKa&name=poster)]<br>
+* [**A Persistent Spatial Semantic Representation for High-level Natural Language Instruction Execution**](https://openreview.net/pdf?id=NeGDZeyjcKa) [**CoRL 2021**] [![](https://img.shields.io/github/stars/valtsblukis/hlsm?style=social&label=Code+Stars)](https://github.com/valtsblukis/hlsm)  [[**Project page**](https://hlsm-alfred.github.io/)] [[**Poster**](https://openreview.net/attachment?id=NeGDZeyjcKa&name=poster)]<br>
 Valts Blukis<sup>1,2</sup>, Chris Paxton<sup>1</sup>, Dieter Fox<sup>1,3</sup>, Animesh Garg<sup>1,4</sup>, Yoav Artzi<sup>2</sup><br>
 <sup>1</sup>NVIDIA <sup>2</sup>Cornell University <sup>3</sup>University of Washington <sup>4</sup>University of Toronto, Vector Institute
 
