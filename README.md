@@ -14,6 +14,10 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 > ### Planning and Manipulation or Pretraining
 
 
+* [**Adaptive Coordination in Social Embodied Rearrangement**](https://openreview.net/attachment?id=BYEsw113sz&name=pdf) [**ICML 2023**]<br>
+Andrew Szot<sup>1,2</sup> Unnat Jain<sup>1</sup> Dhruv Batra<sup>1,2</sup> Zsolt Kira<sup>2</sup> Ruta Desai<sup>1</sup> Akshara Rai<sup>1</sup><br>
+<sup>1</sup>Meta AI <sup>2</sup>Georgia Institute of Technology.
+
 * [**Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents**](https://arxiv.org/pdf/2308.07241v2.pdf) [**ICCV 2023**]<br>
 Byeonghwi Kim Jinyeon Kim Yuyeong Kim<sup>1,*</sup> Cheolhong Min Jonghyun Choi<sup>†</sup><br>
 Yonsei University <sup>1</sup>Gwangju Institute of Science and Technology
