@@ -112,6 +112,14 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 
 > ### Benchmark
 
+
+* [**ALFWorld: Aligning Text and Embodied Environments for Interactive Learning**](https://openreview.net/pdf?id=0IOX0YcCdTn) [**ICLR 2021**] [[**Project page**](https://alfworld.github.io/)] [[**Github**](https://github.com/alfworld/alfworld)] <br> 
+Mohit Shridhar<sup>†</sup> Xingdi Yuan<sup>♡</sup> Marc-Alexandre Côté<sup>♡</sup>
+Yonatan Bisk<sup>‡</sup> Adam Trischler<sup>♡</sup> Matthew Hausknecht<sup>♣</sup><br>
+<sup>‡</sup>University of Washington <sup>♡</sup>Microsoft Research, Montréal
+<sup>‡</sup>Carnegie Mellon University <sup>♣</sup>Microsoft Research
+
+
 * [**ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks**](https://arxiv.org/pdf/1912.01734.pdf) [**CVPR 2020**] [[**Project page**](https://askforalfred.com/)] [[**Github**](https://github.com/askforalfred/alfred)] <br> 
 Mohit Shridhar<sup>1</sup>
 Jesse Thomason<sup>1</sup> Daniel Gordon<sup>1</sup> Yonatan Bisk<sup>1,2,3</sup>
