@@ -3,6 +3,7 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 
 ## Table of Contents 🍃
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
+- [Multi-Agent Learning and Coordination](#multi-agent-learning-and-coordination)
 - [Vision and Language Navigation](#vision-and-language-navigation)
 - [Detection](#detection)
 - [Interactive Embodied Learning](#interactive-embodied-learning)
@@ -12,11 +13,6 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 ## Methods
 
 > ### Planning and Manipulation or Pretraining
-
-
-* [**Adaptive Coordination in Social Embodied Rearrangement**](https://openreview.net/attachment?id=BYEsw113sz&name=pdf) [**ICML 2023**]<br>
-Andrew Szot<sup>1,2</sup> Unnat Jain<sup>1</sup> Dhruv Batra<sup>1,2</sup> Zsolt Kira<sup>2</sup> Ruta Desai<sup>1</sup> Akshara Rai<sup>1</sup><br>
-<sup>1</sup>Meta AI <sup>2</sup>Georgia Institute of Technology.
 
 * [**Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents**](https://arxiv.org/pdf/2308.07241v2.pdf) [**ICCV 2023**]<br>
 Byeonghwi Kim Jinyeon Kim Yuyeong Kim<sup>1,*</sup> Cheolhong Min Jonghyun Choi<sup>†</sup><br>
@@ -29,7 +25,6 @@ Robotics at Google
 Jiannan Xiang<sup>∗♠</sup>, Tianhua Tao<sup>∗♠</sup>, Yi Gu<sup>♠</sup>, Tianmin Shu<sup>♢</sup>,
 Zirui Wang<sup>♠</sup>, Zichao Yang<sup>♡</sup>, Zhiting Hu<sup>♠</sup><br>
 <sup>♠</sup>UC San Diego, <sup>♣</sup>UIUC, <sup>♢</sup>MIT, <sup>♡</sup>Carnegie Mellon University
-
 
 * [**AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation**](https://arxiv.org/pdf/2305.18898.pdf) [**Arxiv 2023**] [[**Video**](https://www.youtube.com/watch?v=ayAzID1_qQk)]<br>
 Chuhao Jin<sup>1*</sup>
@@ -71,6 +66,13 @@ Wenlong Huang<sup>1</sup>, Chen Wang<sup>1</sup>, Ruohan Zhang<sup>1</sup>, Yunz
 * [**Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**](https://arxiv.org/pdf/2305.14078.pdf) [**Arxiv 2023**] <br>
 Zirui Zhao Wee Sun Lee David Hsu <br>
 School of Computing National University of Singapore
+
+
+> ###  Multi-Agent Learning and Coordination
+
+* [**Adaptive Coordination in Social Embodied Rearrangement**](https://openreview.net/attachment?id=BYEsw113sz&name=pdf) [**ICML 2023**]<br>
+Andrew Szot<sup>1,2</sup> Unnat Jain<sup>1</sup> Dhruv Batra<sup>1,2</sup> Zsolt Kira<sup>2</sup> Ruta Desai<sup>1</sup> Akshara Rai<sup>1</sup><br>
+<sup>1</sup>Meta AI <sup>2</sup>Georgia Institute of Technology.
 
 > ### Vision and Language Navigation
 * [**NavGPT: Explicit Reasoning in Vision-and-Language
