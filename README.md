@@ -180,10 +180,8 @@ Bokui Shen*, Fei Xia* et al.<br>
 
 > ### Others
 
-* [**Simple Embodied Language Learning as a Byproduct of Meta-Reinforcement Learning**](https://openreview.net/attachment?id=OUicoKgvtc&name=pdf) [**ICML 2023**] <br>
-Evan Zheran Liu<sup>1</sup> Sahaana Suri<sup>1</sup> Tong Mu<sup>1</sup> Allan Zhou<sup>1</sup> Chelsea Finn<sup>1</sup><br>
-<sup>1</sup>Department of Computer Science, Stanford University, Stanford, CA.
-
+* [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**Arxiv 2023**] <br>
+Gaoling School of Artificial Intelligence, Renmin University of China
 
 * [**Distilling Internet-Scale Vision-Language Models into Embodied Agents**](https://openreview.net/pdf?id=6vVkGnEpP7) [**ICML 2023**] <br>
 Theodore Sumers<sup>1∗</sup> Kenneth Marino<sup>2</sup> Arun Ahuja<sup>2</sup> Rob Fergus<sup>2</sup> Ishita Dasgupta<sup>2</sup> <br>
