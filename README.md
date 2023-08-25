@@ -1,6 +1,12 @@
 # Embodied-Agent-with-LLMs 🤖
 This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates!
 
+## Trend of LLM-based Embodied Agent
+<p align="center">
+    <img src=pic/introduction.png  width="45%">
+    <span><b>Figure 1. Left: Motivation. Right: Visualization of semantic space of candidate answers by t-SNE.</b></span>
+</p>
+
 ## Table of Contents 🍃
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
 - [Multi-Agent Learning and Coordination](#multi-agent-learning-and-coordination)
