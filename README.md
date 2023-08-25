@@ -1,11 +1,6 @@
 # Embodied-Agent-with-LLMs 🤖
 This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates!
 
-## Trend of LLM-based Embodied Agent
-<p align="center">
-    <img src=pic/introduction.png  width="45%">
-    <span><b>Figure 1. Left: Motivation. Right: Visualization of semantic space of candidate answers by t-SNE.</b></span>
-</p>
 
 ## Table of Contents 🍃
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
@@ -15,6 +10,12 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 - [Interactive Embodied Learning](#interactive-embodied-learning)
 - [Benchmark](#benchmark)
 - [Others](#others)
+  
+## Trend of LLM-based Embodied Agent
+<p align="center">
+    <img src=trend.png >
+    <span><b>Figure 1. Growth Development of Embodied Agent with Large Language Models.<sup>[1]</sup></b></span>
+</p>
 
 ## Methods
 
@@ -195,3 +196,6 @@ TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<
 Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du<sup>2</sup>, Izhak Shafran<sup>2</sup>, Karthik Narasimhan<sup>1</sup>, Yuan Cao<sup>2</sup> <br>
 <sup>1</sup>Department of Computer Science, Princeton University <sup>2</sup>, Google Research, Brain team
 
+> ### Acknowledge
+
+[1] Trend pic from this repo: [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main)
