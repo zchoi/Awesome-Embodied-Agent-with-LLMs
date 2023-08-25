@@ -14,7 +14,6 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 
 > ### Planning and Manipulation or Pretraining
 
-
 * [**Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**](https://openreview.net/attachment?id=Rm5Qi57C5I&name=pdf) [**ICML 2023**]<br>
 Kolby Nottingham<sup>1</sup> Prithviraj Ammanabrolu<sup>2</sup> Alane Suhr<sup>2</sup>
 Yejin Choi<sup>3,2</sup> Hannaneh Hajishirzi<sup>3,2</sup> Sameer Singh<sup>1,2</sup> Roy Fox<sup>1</sup><br>
@@ -23,7 +22,6 @@ Irvine <sup>2</sup>Allen Institute for Artificial
 Intelligence
 <sup>3</sup>Paul G. Allen School of
 Computer Science
-
 
 * [**Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents**](https://arxiv.org/pdf/2308.07241v2.pdf) [**ICCV 2023**]<br>
 Byeonghwi Kim Jinyeon Kim Yuyeong Kim<sup>1,*</sup> Cheolhong Min Jonghyun Choi<sup>†</sup><br>
@@ -80,6 +78,11 @@ School of Computing National University of Singapore
 
 
 > ###  Multi-Agent Learning and Coordination
+
+* [**Demonstration-free Autonomous Reinforcement Learning via Implicit and Bidirectional Curriculum**](https://openreview.net/attachment?id=BMO1vLKq7D&name=pdf) [**ICML 2023**]<br>
+Jigang Kim<sup>*1,2</sup> Daesol Cho<sup>*1,2</sup> H. Jin Kim<sup>1,3</sup><br>
+<sup>1</sup>Seoul National University, <sup>2</sup>Artificial Intelligence Institute of Seoul National University (AIIS), <sup>3</sup>Automation and Systems Research Institute (ASRI).<br>
+***Note: This paper mainly focuses on reinforcement learning for Embodied AI.***
 
 * [**Adaptive Coordination in Social Embodied Rearrangement**](https://openreview.net/attachment?id=BYEsw113sz&name=pdf) [**ICML 2023**]<br>
 Andrew Szot<sup>1,2</sup> Unnat Jain<sup>1</sup> Dhruv Batra<sup>1,2</sup> Zsolt Kira<sup>2</sup> Ruta Desai<sup>1</sup> Akshara Rai<sup>1</sup><br>
