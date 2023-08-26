@@ -39,7 +39,7 @@ Yonsei University <sup>1</sup>Gwangju Institute of Science and Technology
 * [**Inner Monologue: Embodied Reasoning through Planning with Language Models**](https://openreview.net/pdf?id=3R3Pz5i0tye) [**CoRL 2022**] [[**Project page**](https://innermonologue.github.io/)]<br>
 Robotics at Google
 
-* [**Language Models Meet World Models: Embodied Experiences Enhance Language Models**](https://arxiv.org/pdf/2305.10626.pdf) [**Arxiv 2023**] [![](https://img.shields.io/github/stars/szxiangjn/world-model-for-language-model?style=social&label=Code+Stars)](https://github.com/valtsblukis/hlsm) [[**Twitter**](https://twitter.com/szxiangjn/status/1659399771126370304)]<br>
+* [**Language Models Meet World Models: Embodied Experiences Enhance Language Models**](https://arxiv.org/pdf/2305.10626.pdf) [**Arxiv 2023**] [![](https://img.shields.io/github/stars/szxiangjn/world-model-for-language-model?style=social&label=Code+Stars)](https://github.com/szxiangjn/world-model-for-language-model) [[**Twitter**](https://twitter.com/szxiangjn/status/1659399771126370304)]<br>
 Jiannan Xiang<sup>∗♠</sup>, Tianhua Tao<sup>∗♠</sup>, Yi Gu<sup>♠</sup>, Tianmin Shu<sup>♢</sup>,
 Zirui Wang<sup>♠</sup>, Zichao Yang<sup>♡</sup>, Zhiting Hu<sup>♠</sup><br>
 <sup>♠</sup>UC San Diego, <sup>♣</sup>UIUC, <sup>♢</sup>MIT, <sup>♡</sup>Carnegie Mellon University
@@ -182,7 +182,7 @@ Bokui Shen*, Fei Xia* et al.<br>
 
 > ### Others
 
-* [**MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) [**NeurIPS 2022**] [[Github](https://github.com/MineDojo/MineDojo)] [![](https://img.shields.io/github/stars/MineDojo/MineDojo?style=social&label=Code+Stars)](https://github.com/valtsblukis/hlsm) [[Project page](https://minedojo.org/)] [[Knowledge Base](https://minedojo.org/knowledge_base.html)] <br>
+* [**MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) [**NeurIPS 2022**] [[Github](https://github.com/MineDojo/MineDojo)] [![](https://img.shields.io/github/stars/MineDojo/MineDojo?style=social&label=Code+Stars)](https://github.com/MineDojo/MineDojo) [[Project page](https://minedojo.org/)] [[Knowledge Base](https://minedojo.org/knowledge_base.html)] <br>
 Linxi Fan<sup>1</sup>
 , Guanzhi Wang<sup>2∗</sup>
 , Yunfan Jiang<sup>3*</sup>
