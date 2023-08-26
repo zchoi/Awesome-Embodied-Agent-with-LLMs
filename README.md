@@ -1,7 +1,6 @@
 # Embodied-Agent-with-LLMs 🤖
 This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates!
 
-
 ## Table of Contents 🍃
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
 - [Multi-Agent Learning and Coordination](#multi-agent-learning-and-coordination)
@@ -182,6 +181,20 @@ Institute of Computing Technology, CAS,
 Bokui Shen*, Fei Xia* et al.<br>
 
 > ### Others
+
+* [**MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) [**NeurIPS 2022**] [[Github](https://github.com/MineDojo/MineDojo)] [[Project page](https://minedojo.org/)] [[Knowledge Base](https://minedojo.org/knowledge_base.html)] <br>
+Linxi Fan<sup>1</sup>
+, Guanzhi Wang<sup>2∗</sup>
+, Yunfan Jiang<sup>3*</sup>
+, Ajay Mandlekar<sup>1</sup>
+, Yuncong Yang<sup>4</sup>
+,
+Haoyi Zhu<sup>5</sup>
+, Andrew Tang<sup>4</sup>
+, De-An Huang<sup>1</sup>
+, Yuke Zhu<sup>1,6†</sup>
+, Anima Anandkumar<sup>1,2†</sup><br>
+<sup>1</sup>NVIDIA, <sup>2</sup>Caltech, <sup>3</sup>Stanford, <sup>4</sup>Columbia, <sup>5</sup>SJTU, <sup>6</sup>UT Austin
 
 * [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**Arxiv 2023**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
