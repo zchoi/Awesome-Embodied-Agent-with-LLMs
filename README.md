@@ -182,7 +182,7 @@ Bokui Shen*, Fei Xia* et al.<br>
 
 > ### Others
 
-* [**MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) [**NeurIPS 2022**] [[Github](https://github.com/MineDojo/MineDojo)] [[Project page](https://minedojo.org/)] [[Knowledge Base](https://minedojo.org/knowledge_base.html)] <br>
+* [**MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) [**NeurIPS 2022**] [[Github](https://github.com/MineDojo/MineDojo)] [![](https://img.shields.io/github/stars/MineDojo/MineDojo?style=social&label=Code+Stars)](https://github.com/valtsblukis/hlsm) [[Project page](https://minedojo.org/)] [[Knowledge Base](https://minedojo.org/knowledge_base.html)] <br>
 Linxi Fan<sup>1</sup>
 , Guanzhi Wang<sup>2∗</sup>
 , Yunfan Jiang<sup>3*</sup>
