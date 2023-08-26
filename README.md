@@ -21,6 +21,9 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 
 > ### Planning and Manipulation or Pretraining
 
+* [**Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**](https://arxiv.org/pdf/2204.01691.pdf) [**Arxiv 2022**]<br>
+Robotics at Google, Everyday Robots
+
 * [**Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**](https://openreview.net/attachment?id=Rm5Qi57C5I&name=pdf) [**ICML 2023**]<br>
 Kolby Nottingham<sup>1</sup> Prithviraj Ammanabrolu<sup>2</sup> Alane Suhr<sup>2</sup>
 Yejin Choi<sup>3,2</sup> Hannaneh Hajishirzi<sup>3,2</sup> Sameer Singh<sup>1,2</sup> Roy Fox<sup>1</sup><br>
