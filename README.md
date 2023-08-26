@@ -20,6 +20,12 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 
 > ### Planning and Manipulation or Pretraining
 
+* [**Reasoning with Language Model is Planning with World Model**](https://arxiv.org/pdf/2305.14992.pdf) [**Arxiv 2023**] <br>
+Shibo Hao<sup>∗♣</sup>, Yi Gu<sup>∗♣</sup>, Haodi Ma<sup>♢</sup>, Joshua Jiahua Hong<sup>♣</sup>, Zhen Wang<sup>♣ ♠</sup>,
+Daisy Zhe Wang<sup>♢</sup>, Zhiting Hu<sup>♣</sup><br>
+<sup>♣</sup>UC San Diego, <sup>♢</sup>University of Florida,
+<sup>♠</sup>Mohamed bin Zayed University of Artificial Intelligence
+
 * [**Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**](https://arxiv.org/pdf/2204.01691.pdf) [**Arxiv 2022**]<br>
 Robotics at Google, Everyday Robots
 
