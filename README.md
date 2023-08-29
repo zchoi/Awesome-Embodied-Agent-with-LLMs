@@ -8,6 +8,7 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 - [Detection](#detection)
 - [Interactive Embodied Learning](#interactive-embodied-learning)
 - [Benchmark](#benchmark)
+- [Simulator](#simulator)
 - [Others](#others)
   
 ## Trend of LLM-based Embodied Agent
@@ -164,7 +165,6 @@ Winson Han<sup>3</sup> Roozbeh Mottaghi<sup>1,3</sup> Luke Zettlemoyer<sup>1</su
 <sup>3</sup>Allen Institute for AI,
 <sup>4</sup>NVIDIA<br>
 
-
 * [**VIMA: Robot Manipulation with Multimodal Prompts**](https://vimalabs.github.io/assets/vima_paper.pdf) [**ICML 2023**] [[**Project page**](https://vimalabs.github.io/)] [[**Github**](https://github.com/vimalabs/VIMA)] [[**VIMA-Bench**](https://github.com/vimalabs/VimaBench)] <br> 
 Yunfan Jiang<sup>1</sup> Agrim Gupta<sup>1†</sup> Zichen Zhang<sup>2†</sup> Guanzhi Wang<sup>3,4†</sup> Yongqiang Dou<sup>5</sup> Yanjun Chen<sup>1</sup>
 Li Fei-Fei<sup>1</sup> Anima Anandkumar<sup>3,4</sup> Yuke Zhu<sup>3,6‡</sup> Linxi Fan<sup>3‡</sup><br>
@@ -183,8 +183,18 @@ Difei Gao<sup>1,2</sup>, Ruiping Wang<sup>1,2,3</sup>, Ziyi Bai<sup>1,2</sup>, X
 Institute of Computing Technology, CAS,
 <sup>2</sup>University of Chinese Academy of Sciences, <sup>3</sup>Beijing Academy of Artificial Intelligence
 
+> ### Simulator
+* [**AI2-THOR: An Interactive 3D Environment for Visual AI**](https://arxiv.org/abs/1712.05474) [**Arxiv 2022**] [[**Project page**](http://ai2thor.allenai.org/)] [[**Github**](https://github.com/allenai/ai2thor)]<br> 
+Allen Institute for AI, University of Washington, Stanford University, Carnegie Mellon University<br>
+
 * [**iGibson, a Simulation Environment for Interactive Tasks in Large Realistic Scenes**](https://ieeexplore.ieee.org/document/9636667) [**IROS 2021**] [[**Project page**](https://svl.stanford.edu/igibson/)] [[**Github**](https://link.zhihu.com/?target=https%3A//github.com/StanfordVL/iGibson/releases/tag/1.0.0)]<br> 
 Bokui Shen*, Fei Xia* et al.<br>
+
+* [**Habitat: A Platform for Embodied AI Research**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf) [**ICCV 2019**] [[**Project page**](https://aihabitat.org/)] [[**Habitat-Sim**](https://github.com/facebookresearch/habitat-sim)] [[**Habitat-Lab**](https://github.com/facebookresearch/habitat-lab)] [[**Habitat Challenge**](https://github.com/facebookresearch/habitat-challenge)]<br> 
+Facebook AI Research, Facebook Reality Labs, Georgia Institute of Technology, Simon Fraser University, Intel Labs, UC Berkeley<br>
+
+* [**Habitat 2.0: Training Home Assistants to Rearrange their Habitat**](https://scontent.fhkg4-2.fna.fbcdn.net/v/t39.8562-6/10000000_254710466627524_1145871437139214759_n.pdf?_nc_cat=106&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=ui4K7s8ek_sAX8DLtW0&_nc_ht=scontent.fhkg4-2.fna&oh=00_AfCXUgrrxo_0G2trCUecPU_JeiF0ZwkxGGpiPPUHHk3XCw&oe=64F38AD0) [**NeurIPS 2021**] [[**Project page**](https://research.facebook.com/publications/habitat-2-0-training-home-assistants-to-rearrange-their-habitat/#:~:text=Habitat%202.0%3A%20Training%20Home%20Assistants%20to%20Rearrange%20their,AI%20stack%20%E2%80%93%20data%2C%20simulation%2C%20and%20benchmark%20tasks.)]<br> 
+Facebook AI Research, Georgia Tech, Intel Research, Simon Fraser University, UC Berkeley
 
 > ### Others
 
