@@ -105,6 +105,12 @@ Andrew Szot<sup>1,2</sup> Unnat Jain<sup>1</sup> Dhruv Batra<sup>1,2</sup> Zsolt
 <sup>1</sup>Meta AI <sup>2</sup>Georgia Institute of Technology.
 
 > ### Vision and Language Navigation
+
+* [**ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**](https://openreview.net/attachment?id=GydFM0ZEXY&name=pdf) [**ICML 2023**] <br>
+Kaiwen Zhou<sup>1</sup>, Kaizhi Zheng<sup>1</sup>, Connor Pryor<sup>1</sup>, Yilin Shen<sup>2</sup>, Hongxia Jin<sup>2</sup>, Lise Getoor<sup>1</sup>, Xin Eric Wang<sup>1</sup>
+<sup>1</sup>University of California, Santa Cruz <sup>2</sup>Samsung Research America.
+
+
 * [**NavGPT: Explicit Reasoning in Vision-and-Language
 Navigation with Large Language Models**](https://arxiv.org/pdf/2305.16986.pdf) [**Arxiv 2023**] <br>
 Gengze Zhou<sup>1</sup> Yicong Hong<sup>2</sup> Qi Wu<sup>1</sup> <br>
