@@ -21,8 +21,15 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 
 > ### Planning and Manipulation or Pretraining
 
+
+* [**Moving Forward by Moving Backward: Embedding Action Impact over Action Semantics**](https://openreview.net/pdf?id=vmjctNUSWI) [**ICLR 2023**] [[**Project page**](https://prior.allenai.org/projects/action-adaptive-policy)] [[**Github**](https://github.com/KuoHaoZeng/AAP)] <br>
+Kuo-Hao Zeng<sup>1</sup>, Luca Weihs<sup>2</sup>, Roozbeh Mottaghi<sup>1</sup>, Ali Farhadi<sup>1</sup><br>
+<sup>1</sup>Paul G. Allen School of Computer Science & Engineering, University of Washington,
+<sup>2</sup>PRIOR @ Allen Institute for AI
+
+
 * [**Modeling Dynamic Environments with Scene Graph Memory**](https://openreview.net/attachment?id=NiUxS1cAI4&name=pdf) [**ICML 2023**] <br>
-Andrey Kurenkov<sup>1</sup>, Michael Lingelbach<sup>1</sup>, Tanmay Agarwal<sup>1</sup>, Emily Jin<sup>1</sup>, Chengshu Li<sup>1</sup>, Ruohan Zhang<sup>1</sup>, Li Fei-Fei<sup>1</sup>, Jiajun Wu<sup>1</sup>, Silvio Savarese<sup>2</sup>, Roberto Mart´ın-Mart´ın<sup>3</sup>,<br>
+Andrey Kurenkov<sup>1</sup>, Michael Lingelbach<sup>1</sup>, Tanmay Agarwal<sup>1</sup>, Emily Jin<sup>1</sup>, Chengshu Li<sup>1</sup>, Ruohan Zhang<sup>1</sup>, Li Fei-Fei<sup>1</sup>, Jiajun Wu<sup>1</sup>, Silvio Savarese<sup>2</sup>, Roberto Mart´ın-Mart´ın<sup>3</sup><br>
 <sup>1</sup>Department of Computer Science, Stanford University
 <sup>2</sup>Salesforce AI Research <sup>3</sup>Department of Computer Science, University of Texas at Austin.
 
