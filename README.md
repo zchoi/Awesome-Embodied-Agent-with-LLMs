@@ -7,6 +7,7 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 - [Vision and Language Navigation](#vision-and-language-navigation)
 - [Detection](#detection)
 - [Interactive Embodied Learning](#interactive-embodied-learning)
+- [Rearrangement](#rearrangement)
 - [Benchmark](#benchmark)
 - [Simulator](#simulator)
 - [Others](#others)
@@ -163,6 +164,10 @@ Abhishek Das<sup>1</sup>,Georgia Gkioxari<sup>2</sup>, Stefan Lee<sup>1</sup>, D
 Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup>, Stefan Lee<sup>1</sup>, Devi Parikh<sup>2,1</sup>, Dhruv Batra<sup>2</sup> <br>
 <sup>1</sup>Georgia Institute of Technology, <sup>2</sup>Facebook AI Research
 
+> ### Rearrangement
+* [**A Simple Approach for Visual Room Rearrangement: 3D Mapping and Semantic Search**](https://openreview.net/pdf?id=fGG6vHp3W9W) [**ICLR 2023**] [[**Project page**](https://alfworld.github.io/)] [[**Github**](https://github.com/alfworld/alfworld)] <br> 
+<sup>1</sup>Brandon Trabucco, <sup>2</sup>Gunnar A Sigurdsson, <sup>2</sup>Robinson Piramuthu, <sup>2,3</sup>Gaurav S. Sukhatme, <sup>1</sup>Ruslan Salakhutdinov<br>
+<sup>1</sup>CMU, <sup>2</sup>Amazon Alexa AI, <sup>3</sup>University of Southern California
 
 > ### Benchmark
 
