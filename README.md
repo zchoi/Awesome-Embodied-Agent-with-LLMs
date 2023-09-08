@@ -2,6 +2,7 @@
 This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates!
 
 ## Table of Contents 🍃
+- [LLMs with RL](#llms-with-rl)
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
 - [Multi-Agent Learning and Coordination](#multi-agent-learning-and-coordination)
 - [Vision and Language Navigation](#vision-and-language-navigation)
@@ -19,6 +20,12 @@ This is a curated list of "Embodied AI or robot with Large Language Models" rese
 </p>
 
 ## Methods
+
+> ### LLMs with RL
+* [**Guiding Pretraining in Reinforcement Learning with Large Language Models**](https://openreview.net/attachment?id=63704LH4v5&name=pdf) [**ICML 2023**] <br>
+Yuqing Du<sup>1*</sup>, Olivia Watkins<sup>1*</sup>, Zihan Wang<sup>2</sup>, Cedric Colas ´<sup>3,4</sup>, Trevor Darrell<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Abhishek Gupta<sup>2</sup>, Jacob Andreas<sup>3</sup><br>
+<sup>1</sup>Department of Electrical Engineering and Computer Science, University of California, Berkeley, USA <sup>2</sup>University of Washington, Seattle <sup>3</sup>Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory <sup>4</sup>
+Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
