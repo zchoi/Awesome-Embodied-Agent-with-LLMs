@@ -1,5 +1,5 @@
 # Embodied-Agent-with-LLMs 🤖
-This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates!
+> This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates and feel free to raise pull requests!
 
 ## Table of Contents 🍃
 - [LLMs with RL](#llms-with-rl)
