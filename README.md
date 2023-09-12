@@ -29,6 +29,12 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**PONI: Potential Functions for ObjectGoal Navigation
+with Interaction-free Learning**](https://openaccess.thecvf.com/content/CVPR2022/papers/Ramakrishnan_PONI_Potential_Functions_for_ObjectGoal_Navigation_With_Interaction-Free_Learning_CVPR_2022_paper.pdf) [**CVPR 2022 (Oral)**] [[**Project page**](https://vision.cs.utexas.edu/projects/poni/)] [[**Github**](https://github.com/srama2512/PONI)] <br>
+Santhosh Kumar Ramakrishnan<sup>1,2</sup>, Devendra Singh Chaplot<sup>1</sup>, Ziad Al-Halah<sup>2</sup>
+Jitendra Malik<sup>1,3</sup>, Kristen Grauman<sup>1,2</sup><br>
+<sup>1</sup>Facebook AI Research, <sup>2</sup>UT Austin, <sup>3</sup>UC Berkeley
+
 
 * [**Moving Forward by Moving Backward: Embedding Action Impact over Action Semantics**](https://openreview.net/pdf?id=vmjctNUSWI) [**ICLR 2023**] [[**Project page**](https://prior.allenai.org/projects/action-adaptive-policy)] [[**Github**](https://github.com/KuoHaoZeng/AAP)] <br>
 Kuo-Hao Zeng<sup>1</sup>, Luca Weihs<sup>2</sup>, Roozbeh Mottaghi<sup>1</sup>, Ali Farhadi<sup>1</sup><br>
