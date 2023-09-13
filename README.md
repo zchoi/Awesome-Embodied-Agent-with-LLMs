@@ -22,6 +22,7 @@
 ## Methods
 
 > ### LLMs with RL
+
 * [**Guiding Pretraining in Reinforcement Learning with Large Language Models**](https://openreview.net/attachment?id=63704LH4v5&name=pdf) [**ICML 2023**] <br>
 Yuqing Du<sup>1*</sup>, Olivia Watkins<sup>1*</sup>, Zihan Wang<sup>2</sup>, Cedric Colas ´<sup>3,4</sup>, Trevor Darrell<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Abhishek Gupta<sup>2</sup>, Jacob Andreas<sup>3</sup><br>
 <sup>1</sup>Department of Electrical Engineering and Computer Science, University of California, Berkeley, USA <sup>2</sup>University of Washington, Seattle <sup>3</sup>Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory <sup>4</sup>
@@ -29,18 +30,27 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf) [**Arxiv 2023**] <br>
+Yue Wu<sup>1,4*</sup>
+, Shrimai Prabhumoye<sup>2</sup>
+, So Yeon Min<sup>1</sup>
+, Yonatan Bisk<sup>1</sup>
+, Ruslan Salakhutdinov<sup>1</sup>
+,Amos Azaria<sup>3</sup>
+, Tom Mitchell<sup>1</sup>
+, Yuanzhi Li<sup>1,4</sup><br>
+<sup>1</sup>Carnegie Mellon University, <sup>2</sup>NVIDIA, <sup>3</sup>Ariel University, <sup>4</sup>Microsoft Research
+
 * [**PONI: Potential Functions for ObjectGoal Navigation
 with Interaction-free Learning**](https://openaccess.thecvf.com/content/CVPR2022/papers/Ramakrishnan_PONI_Potential_Functions_for_ObjectGoal_Navigation_With_Interaction-Free_Learning_CVPR_2022_paper.pdf) [**CVPR 2022 (Oral)**] [[**Project page**](https://vision.cs.utexas.edu/projects/poni/)] [[**Github**](https://github.com/srama2512/PONI)] <br>
 Santhosh Kumar Ramakrishnan<sup>1,2</sup>, Devendra Singh Chaplot<sup>1</sup>, Ziad Al-Halah<sup>2</sup>
 Jitendra Malik<sup>1,3</sup>, Kristen Grauman<sup>1,2</sup><br>
 <sup>1</sup>Facebook AI Research, <sup>2</sup>UT Austin, <sup>3</sup>UC Berkeley
 
-
 * [**Moving Forward by Moving Backward: Embedding Action Impact over Action Semantics**](https://openreview.net/pdf?id=vmjctNUSWI) [**ICLR 2023**] [[**Project page**](https://prior.allenai.org/projects/action-adaptive-policy)] [[**Github**](https://github.com/KuoHaoZeng/AAP)] <br>
 Kuo-Hao Zeng<sup>1</sup>, Luca Weihs<sup>2</sup>, Roozbeh Mottaghi<sup>1</sup>, Ali Farhadi<sup>1</sup><br>
 <sup>1</sup>Paul G. Allen School of Computer Science & Engineering, University of Washington,
 <sup>2</sup>PRIOR @ Allen Institute for AI
-
 
 * [**Modeling Dynamic Environments with Scene Graph Memory**](https://openreview.net/attachment?id=NiUxS1cAI4&name=pdf) [**ICML 2023**] <br>
 Andrey Kurenkov<sup>1</sup>, Michael Lingelbach<sup>1</sup>, Tanmay Agarwal<sup>1</sup>, Emily Jin<sup>1</sup>, Chengshu Li<sup>1</sup>, Ruohan Zhang<sup>1</sup>, Li Fei-Fei<sup>1</sup>, Jiajun Wu<sup>1</sup>, Silvio Savarese<sup>2</sup>, Roberto Mart´ın-Mart´ın<sup>3</sup><br>
@@ -97,11 +107,9 @@ Valts Blukis<sup>1,2</sup>, Chris Paxton<sup>1</sup>, Dieter Fox<sup>1,3</sup>, 
 Chan Hee Song<sup>1</sup>, Jiaman Wu<sup>1</sup>, Clayton Washington<sup>1</sup>, Brian M. Sadler<sup>2</sup>, Wei-Lun Chao<sup>1</sup>, Yu Su<sup>1</sup><br>
 <sup>1</sup>The Ohio State University, <sup>2</sup>DEVCOM ARL
 
-
 * [**Code as Policies: Language Model Programs for Embodied Control**](https://arxiv.org/pdf/2209.07753) [**Arxiv 2023**] [[**Project page**](https://code-as-policies.github.io/)] [[**Github**](https://code-as-policies.github.io)] [[**Blog**](https://ai.googleblog.com/2022/11/robots-that-write-their-own-code.html)] [[**Colab**](https://colab.research.google.com/drive/124TE4TsGYyrvduzeDclufyvwcc2qbbrE)]<br>
 Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng<br>
 Robotics at Google
-
 
 * [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) [**Arxiv 2023**] [![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Code+Stars)](https://github.com/UMass-Foundation-Model/3D-LLM) <br>
 <sup>1</sup>Yining Hong, <sup>2</sup>Haoyu Zhen, <sup>3</sup>Peihao Chen, <sup>4</sup>Shuhong Zheng, <sup>5</sup>Yilun Du, <sup>6</sup>Zhenfang Chen, <sup>6,7</sup>Chuang Gan <br>
@@ -155,7 +163,6 @@ Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 <sup>1</sup>The Hong Kong University of Science and Technology <sup>2</sup>The University of Hong Kong 3Shanghai Jiao Tong University
 
 > ### Interactive Embodied Learning
-
 
 * [**Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning**](https://openreview.net/attachment?id=feXm8GbxWU&name=pdf) [**ICML 2023**]  <br>
 Thomas Carta<sup>1*</sup>, Clement Romac ´<sup>1,2</sup>, Thomas Wolf<sup>2</sup>, Sylvain Lamprier<sup>3</sup>, Olivier Sigaud<sup>4</sup>, Pierre-Yves Oudeyer<sup>1</sup><br>
