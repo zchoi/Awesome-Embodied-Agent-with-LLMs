@@ -1,5 +1,7 @@
 # 🤖 Awesome-Embodied-Agent-with-LLMs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates and feel free to raise pull requests!
+> [![Stargazers repo roster for @zchoi/Awesome-Embodied-Agent-with-LLMs](https://reporoster.com/stars/zchoi/Awesome-Embodied-Agent-with-LLMs)](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs/stargazers)
+
 
 ## Table of Contents 🍃
 - [LLMs with RL](#llms-with-rl)
