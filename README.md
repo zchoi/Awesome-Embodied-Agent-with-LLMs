@@ -278,4 +278,5 @@ Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du
 > ### Acknowledge
 
 [1] Trend pic from this repo: [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main)
+
 [![Stargazers repo roster for @zchoi/Awesome-Embodied-Agent-with-LLMs](https://reporoster.com/stars/zchoi/Awesome-Embodied-Agent-with-LLMs)](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs/stargazers)
