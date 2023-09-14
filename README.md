@@ -1,6 +1,12 @@
 # 🤖 Awesome-Embodied-Agent-with-LLMs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates and feel free to raise pull requests!
 
+<p align="left">
+    <a href="https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs/stargazers">
+        <img src="https://reporoster.com/stars/zchoi/Awesome-Embodied-Agent-with-LLMs" width="40%" height="25%">
+    </a>
+</p>
+
 ## Table of Contents 🍃
 - [LLMs with RL](#llms-with-rl)
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
@@ -278,5 +284,3 @@ Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du
 > ### Acknowledge
 
 [1] Trend pic from this repo: [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main)
-
-[![Stargazers repo roster for @zchoi/Awesome-Embodied-Agent-with-LLMs](https://reporoster.com/stars/zchoi/Awesome-Embodied-Agent-with-LLMs)](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs/stargazers)
