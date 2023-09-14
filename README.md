@@ -3,7 +3,7 @@
 
 <p align="left">
     <a href="https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs/stargazers">
-        <img src="https://reporoster.com/stars/zchoi/Awesome-Embodied-Agent-with-LLMs" width="40%" height="25%">
+        <img src="https://reporoster.com/stars/zchoi/Awesome-Embodied-Agent-with-LLMs" width="50%" height="40%">
     </a>
 </p>
 
