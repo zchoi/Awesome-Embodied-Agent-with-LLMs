@@ -8,6 +8,7 @@
 </p>
 
 ## Table of Contents 🍃
+- [Survey](#survey)
 - [LLMs with RL](#llms-with-rl)
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
 - [Multi-Agent Learning and Coordination](#multi-agent-learning-and-coordination)
@@ -26,6 +27,10 @@
 </p>
 
 ## Methods
+
+> ### Survey
+* [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**Arxiv 2023**] <br>
+Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### LLMs with RL
 
@@ -260,6 +265,25 @@ Facebook AI Research, Georgia Tech, Intel Research, Simon Fraser University, UC 
 
 > ### Others
 
+* [**React: Synergizing reasoning and acting in language models**](https://arxiv.org/pdf/2210.03629.pdf) [**ICLR 2023**] [![](https://img.shields.io/github/stars/ysymyth/ReAct?style=social&label=Code+Stars)](https://github.com/ysymyth/ReAct) <br>
+Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du<sup>2</sup>, Izhak Shafran<sup>2</sup>, Karthik Narasimhan<sup>1</sup>, Yuan Cao<sup>2</sup> <br>
+<sup>1</sup>Department of Computer Science, Princeton University <sup>2</sup>, Google Research, Brain team
+
+* [**Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models**](https://arxiv.org/pdf/2308.10379.pdf) [**Arxiv 2023**] <br>
+Virginia Tech, Microsoft
+
+* [**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**](https://arxiv.org/abs/2308.09687.pdf) [**Arxiv 2023**] <br>
+ETH Zurich, Cledar, Warsaw University of Technology
+
+* [**Tree of Thoughts: Deliberate Problem Solving with Large Language Models**](https://arxiv.org/pdf/2305.10601.pdf) [**Arxiv 2023**] <br>
+Shunyu Yao<sup>1</sup>, Dian Yu<sup>2</sup>, Jeffrey Zhao<sup>2</sup>, Izhak Shafran<sup>2</sup>, Thomas L. Griffiths<sup>1</sup>, Yuan Cao<sup>2</sup>, Karthik Narasimhan<sup>1</sup> <br>
+<sup>1</sup>Princeton University, <sup>2</sup>Google DeepMind
+
+* [**Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**](https://arxiv.org/pdf/2201.11903.pdf) [**NeurIPS 2022**] <br>
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma,
+Brian Ichter, Fei Xia, Ed H. Chi, Quoc V. Le, Denny Zhou<br>
+Google Research, Brain Team
+
 * [**MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) [**NeurIPS 2022**] [[Github](https://github.com/MineDojo/MineDojo)] [![](https://img.shields.io/github/stars/MineDojo/MineDojo?style=social&label=Code+Stars)](https://github.com/MineDojo/MineDojo) [[Project page](https://minedojo.org/)] [[Knowledge Base](https://minedojo.org/knowledge_base.html)] <br>
 Linxi Fan<sup>1</sup>
 , Guanzhi Wang<sup>2∗</sup>
@@ -274,9 +298,6 @@ Haoyi Zhu<sup>5</sup>
 , Anima Anandkumar<sup>1,2†</sup><br>
 <sup>1</sup>NVIDIA, <sup>2</sup>Caltech, <sup>3</sup>Stanford, <sup>4</sup>Columbia, <sup>5</sup>SJTU, <sup>6</sup>UT Austin
 
-* [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**Arxiv 2023**] <br>
-Gaoling School of Artificial Intelligence, Renmin University of China
-
 * [**Distilling Internet-Scale Vision-Language Models into Embodied Agents**](https://openreview.net/pdf?id=6vVkGnEpP7) [**ICML 2023**] <br>
 Theodore Sumers<sup>1∗</sup> Kenneth Marino<sup>2</sup> Arun Ahuja<sup>2</sup> Rob Fergus<sup>2</sup> Ishita Dasgupta<sup>2</sup> <br>
 
@@ -284,9 +305,6 @@ Theodore Sumers<sup>1∗</sup> Kenneth Marino<sup>2</sup> Arun Ahuja<sup>2</sup>
 TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<sup>1</sup> Yuhui Yuan<sup>3</sup> Shu Liu<sup>2</sup> Jiaya Jia<sup>1,2</sup> <br>
 <sup>1</sup>The Chinese University of Hong Kong <sup>2</sup>SmartMore <sup>3</sup>MSRA<br>
 
-* [**React: Synergizing reasoning and acting in language models**](https://arxiv.org/pdf/2210.03629.pdf) [**ICLR 2023**] [![](https://img.shields.io/github/stars/ysymyth/ReAct?style=social&label=Code+Stars)](https://github.com/ysymyth/ReAct) <br>
-Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du<sup>2</sup>, Izhak Shafran<sup>2</sup>, Karthik Narasimhan<sup>1</sup>, Yuan Cao<sup>2</sup> <br>
-<sup>1</sup>Department of Computer Science, Princeton University <sup>2</sup>, Google Research, Brain team
 
 > ### Acknowledge
 
