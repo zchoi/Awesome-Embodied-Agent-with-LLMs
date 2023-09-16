@@ -36,6 +36,13 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**Embodied Task Planning with Large Language Models**](https://arxiv.org/pdf/2307.01848.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/Gary3410/TaPA)] [[**Project page**](https://gary3410.github.io/TaPA/)] [[**Demo**](https://huggingface.co/spaces/xuxw98/TAPA)] [[**Huggingface Model**](https://huggingface.co/Gary3410/pretrain_lit_llama)] <br>
+Zhenyu Wu<sup>1</sup>, Ziwei Wang<sup>2,3</sup>, Xiuwei Xu<sup>2,3</sup>, Jiwen Lu<sup>2,3</sup>, Haibin Yan<sup>1*</sup><br>
+<sup>1</sup>School of Automation, Beijing University of Posts and Telecommunications,
+<sup>2</sup>Department of Automation, Tsinghua University,
+<sup>3</sup>Beijing National Research Center for Information Science and Technology
+
+
 * [**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf) [**Arxiv 2023**] <br>
 Yue Wu<sup>1,4*</sup>
 , Shrimai Prabhumoye<sup>2</sup>
