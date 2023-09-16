@@ -265,6 +265,9 @@ Facebook AI Research, Georgia Tech, Intel Research, Simon Fraser University, UC 
 
 > ### Others
 
+* [**Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**](https://arxiv.org/pdf/2205.10625) [**ICLR 2023**] <br>
+Google Research, Brain Team
+
 * [**React: Synergizing reasoning and acting in language models**](https://arxiv.org/pdf/2210.03629.pdf) [**ICLR 2023**] [![](https://img.shields.io/github/stars/ysymyth/ReAct?style=social&label=Code+Stars)](https://github.com/ysymyth/ReAct) <br>
 Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du<sup>2</sup>, Izhak Shafran<sup>2</sup>, Karthik Narasimhan<sup>1</sup>, Yuan Cao<sup>2</sup> <br>
 <sup>1</sup>Department of Computer Science, Princeton University <sup>2</sup>, Google Research, Brain team
