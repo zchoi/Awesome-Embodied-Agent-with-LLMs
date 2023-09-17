@@ -320,5 +320,5 @@ TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<
 
 > ### Acknowledge
 
-[1] Trend pic from this [repo](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main)<br>
-[2] Figure from this paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
+[1] Trend pic from this [repo](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main).<br>
+[2] Figure from this paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf).
