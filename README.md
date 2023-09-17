@@ -25,12 +25,9 @@
     <img src="trend.png" width="54%">
     <img src="Genshin.jpg" width="43%">
     <span><b>Figure 1. Trend of Embodied Agent with LLMs.<sup>[1]</sup></b></span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 这里添加了四个空格字符作为间距 -->
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 这里添加了四个空格字符作为间距 -->
     <span><b>Figure 2. An envisioned Agent society.<sup>[2]</sup></b></span>
 </p>
-
-
-
 
 
 
@@ -323,4 +320,5 @@ TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<
 
 > ### Acknowledge
 
-[1] Trend pic from this repo: [A Survey on LLM-based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main)
+[1] Trend pic from this [repo](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main)<br>
+[2] Figure from this paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
