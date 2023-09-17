@@ -31,7 +31,12 @@
 > ### Survey
 
 * [**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://arxiv.org/pdf/2309.07864.pdf) [**Arxiv 2023**] [原神启动！]<br>
-Fudan NLP Group, ‡miHoYo Inc
+Fudan NLP Group, miHoYo Inc
+
+<p align="center">
+    <img src=Genshin.jpg >
+    <span><b>Figure 2. An Envisioned Agent Society.<sup>[2]</sup></b></span>
+</p>
 
 * [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**Arxiv 2023**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
