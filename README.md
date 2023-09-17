@@ -1,4 +1,4 @@
-# 🤖 Awesome-Embodied-Agent-with-LLMs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![image](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs/assets/30498168/5ce66902-fd5f-4ff1-af55-4d5213edf988)# 🤖 Awesome-Embodied-Agent-with-LLMs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a curated list of "Embodied AI or robot with Large Language Models" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates and feel free to raise pull requests!
 
 <p align="left">
@@ -29,6 +29,10 @@
 ## Methods
 
 > ### Survey
+
+* [**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://arxiv.org/pdf/2309.07864.pdf) [**Arxiv 2023**] [原神启动！]<br>
+Fudan NLP Group, ‡miHoYo Inc
+
 * [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**Arxiv 2023**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
 
