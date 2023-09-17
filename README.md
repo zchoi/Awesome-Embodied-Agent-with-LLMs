@@ -20,7 +20,7 @@
 - [Simulator](#simulator)
 - [Others](#others)
 
-## Trend of LLM-based Embodied Agent
+## Trend and Imagination of LLM-based Embodied Agent
 <p align="center">
     <img src="trend.png" width="54%">
     <img src="Genshin.jpg" width="43%">
