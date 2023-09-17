@@ -22,9 +22,17 @@
 
 ## Trend of LLM-based Embodied Agent
 <p align="center">
-    <img src=Genshin.jpg>
-    <span><b>Figure 1. An envisioned Agent society.<sup>[1]</sup></b></span>
+    <img src="trend.png" width="54%">
+    <img src="Genshin.jpg" width="43%">
+    <span><b>Figure 1. Trend of Embodied Agent with Large Language Models.<sup>[1]</sup></b></span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 这里添加了四个空格字符作为间距 -->
+    <span><b>Figure 2. An envisioned Agent society.<sup>[2]</sup></b></span>
 </p>
+
+
+
+
+
 
 ## Methods
 
