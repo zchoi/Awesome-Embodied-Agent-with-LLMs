@@ -29,8 +29,6 @@
     <span><b>Figure 2. An envisioned Agent society.<sup>[2]</sup></b></span>
 </p>
 
-
-
 ## Methods
 
 > ### Survey
@@ -49,6 +47,11 @@ Yuqing Du<sup>1*</sup>, Olivia Watkins<sup>1*</sup>, Zihan Wang<sup>2</sup>, Ced
 Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
+
+* [**FILM: Following Instructions in Language with Modular Methods**](https://openreview.net/pdf?id=qI4542Y2s1D) [**ICLR 2022**] [[**Github**](https://github.com/soyeonm/FILM)] [[**Project page**](https://gary3410.github.io/TaPA/)] <br>
+So Yeon Min<sup>1</sup>, Devendra Singh Chaplot<sup>2</sup>, Pradeep Ravikumar<sup>1</sup>, Yonatan Bisk<sup>1</sup>, Ruslan Salakhutdinov<sup>1</sup><br>
+<sup>1</sup>Carnegie Mellon University <sup>2</sup>Facebook AI Research
+
 
 * [**Embodied Task Planning with Large Language Models**](https://arxiv.org/pdf/2307.01848.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/Gary3410/TaPA)] [[**Project page**](https://gary3410.github.io/TaPA/)] [[**Demo**](https://huggingface.co/spaces/xuxw98/TAPA)] [[**Huggingface Model**](https://huggingface.co/Gary3410/pretrain_lit_llama)] <br>
 Zhenyu Wu<sup>1</sup>, Ziwei Wang<sup>2,3</sup>, Xiuwei Xu<sup>2,3</sup>, Jiwen Lu<sup>2,3</sup>, Haibin Yan<sup>1*</sup><br>
