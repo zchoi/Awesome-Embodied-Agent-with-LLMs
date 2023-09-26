@@ -48,6 +48,10 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**](https://arxiv.org/pdf/2201.07207.pdf) [**Arxiv 2022**] [[**Github**](https://github.com/huangwl18/language-planner)] [[**Project page**](https://wenlong.page/language-planner/)] <br>
+Wenlong Huang<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Deepak Pathak<sup>2</sup>, Igor Mordatch<sup>3</sup>
+<sup>1</sup>UC Berkeley, <sup>2</sup>Carnegie Mellon University, <sup>3</sup>Google
+
 * [**FILM: Following Instructions in Language with Modular Methods**](https://openreview.net/pdf?id=qI4542Y2s1D) [**ICLR 2022**] [[**Github**](https://github.com/soyeonm/FILM)] [[**Project page**](https://gary3410.github.io/TaPA/)] <br>
 So Yeon Min<sup>1</sup>, Devendra Singh Chaplot<sup>2</sup>, Pradeep Ravikumar<sup>1</sup>, Yonatan Bisk<sup>1</sup>, Ruslan Salakhutdinov<sup>1</sup><br>
 <sup>1</sup>Carnegie Mellon University <sup>2</sup>Facebook AI Research
