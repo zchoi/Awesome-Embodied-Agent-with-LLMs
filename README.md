@@ -14,6 +14,7 @@
 - [Multi-Agent Learning and Coordination](#multi-agent-learning-and-coordination)
 - [Vision and Language Navigation](#vision-and-language-navigation)
 - [Detection](#detection)
+- [3D Grounding](#3d-grounding)
 - [Interactive Embodied Learning](#interactive-embodied-learning)
 - [Rearrangement](#rearrangement)
 - [Benchmark](#benchmark)
@@ -196,12 +197,20 @@ Renjie Pi<sup>1∗</sup> Jiahui Gao<sup>2*</sup> Shizhe Diao<sup>1∗</sup> Rui 
 Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 <sup>1</sup>The Hong Kong University of Science and Technology <sup>2</sup>The University of Hong Kong 3Shanghai Jiao Tong University
 
+> ### 3D Grounding
+* [**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**](https://arxiv.org/pdf/2309.12311.pdf) [**Arxiv 2023**]  <br>
+Jianing Yang<sup>1,*</sup>, Xuweiyi Chen<sup>1,*</sup>, Shengyi Qian<sup>1</sup>, Nikhil Madaan, Madhavan Iyengar<sup>1</sup>
+David F. Fouhey<sup>1,2</sup>
+Joyce Chai<sup>1</sup>
+<br>
+<sup>1</sup>University of Michigan, <sup>2</sup>New York University
+
 > ### Interactive Embodied Learning
 
 * [**Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning**](https://openreview.net/attachment?id=feXm8GbxWU&name=pdf) [**ICML 2023**]  <br>
 Thomas Carta<sup>1*</sup>, Clement Romac ´<sup>1,2</sup>, Thomas Wolf<sup>2</sup>, Sylvain Lamprier<sup>3</sup>, Olivier Sigaud<sup>4</sup>, Pierre-Yves Oudeyer<sup>1</sup><br>
 <sup>1</sup>Inria (Flowers), University of Bordeaux, <sup>2</sup>Hugging Face, <sup>3</sup>Univ Angers, LERIA, SFR MATHSTIC,
-F-49000, <sup>4</sup> Sorbonne University, ISIR
+F-49000, <sup>4</sup>Sorbonne University, ISIR
 
 * [**Learning Affordance Landscapes for
 Interaction Exploration in 3D Environments**](https://arxiv.org/pdf/2008.09241.pdf) [**NeurIPS 2020**] [![](https://img.shields.io/github/stars/facebookresearch/interaction-exploration?style=social&label=Code+Stars)](https://github.com/facebookresearch/interaction-exploration) [[Project page](https://vision.cs.utexas.edu/projects/interaction-exploration/)] <br>
