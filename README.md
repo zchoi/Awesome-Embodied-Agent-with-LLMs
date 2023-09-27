@@ -199,10 +199,7 @@ Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 
 > ### 3D Grounding
 * [**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**](https://arxiv.org/pdf/2309.12311.pdf) [**Arxiv 2023**]  <br>
-Jianing Yang<sup>1,*</sup>, Xuweiyi Chen<sup>1,*</sup>, Shengyi Qian<sup>1</sup>, Nikhil Madaan, Madhavan Iyengar<sup>1</sup>
-David F. Fouhey<sup>1,2</sup>
-Joyce Chai<sup>1</sup>
-<br>
+Jianing Yang<sup>1,*</sup>, Xuweiyi Chen<sup>1,*</sup>, Shengyi Qian<sup>1</sup>, Nikhil Madaan, Madhavan Iyengar<sup>1</sup>, David F. Fouhey<sup>1,2</sup>, Joyce Chai<sup>1</sup><br>
 <sup>1</sup>University of Michigan, <sup>2</sup>New York University
 
 > ### Interactive Embodied Learning
