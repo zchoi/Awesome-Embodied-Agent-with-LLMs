@@ -49,6 +49,12 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+
+* [**CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society**](https://arxiv.org/pdf/2303.17760.pdf) [**NeurIPS 2023**] [[**Github**](https://link.zhihu.com/?target=https%3A//github.com/camel-ai/camel)] [[**Project page**](https://www.camel-ai.org/)]<br>
+Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem<br>
+<sup>1</sup>King Abdullah University of Science and Technology (KAUST)
+
+
 * [**Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**](https://arxiv.org/pdf/2201.07207.pdf) [**Arxiv 2022**] [[**Github**](https://github.com/huangwl18/language-planner)] [[**Project page**](https://wenlong.page/language-planner/)] <br>
 Wenlong Huang<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Deepak Pathak<sup>2</sup>, Igor Mordatch<sup>3</sup><br>
 <sup>1</sup>UC Berkeley, <sup>2</sup>Carnegie Mellon University, <sup>3</sup>Google
