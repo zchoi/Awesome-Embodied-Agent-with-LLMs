@@ -42,6 +42,11 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### LLMs with RL
 
+* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://arxiv.org/pdf/2308.12270.pdf) [**Arxiv 2023**] <br>
+Ademi Adeniji, Amber Xie, Carmelo Sferrazza, Younggyo Seo, Stephen James, Pieter Abbeel<br>
+<sup>1</sup>UC Berkeley
+
+
 * [**Guiding Pretraining in Reinforcement Learning with Large Language Models**](https://openreview.net/attachment?id=63704LH4v5&name=pdf) [**ICML 2023**] <br>
 Yuqing Du<sup>1*</sup>, Olivia Watkins<sup>1*</sup>, Zihan Wang<sup>2</sup>, Cedric Colas ´<sup>3,4</sup>, Trevor Darrell<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Abhishek Gupta<sup>2</sup>, Jacob Andreas<sup>3</sup><br>
 <sup>1</sup>Department of Electrical Engineering and Computer Science, University of California, Berkeley, USA <sup>2</sup>University of Washington, Seattle <sup>3</sup>Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory <sup>4</sup>
