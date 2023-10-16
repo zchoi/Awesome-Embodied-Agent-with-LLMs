@@ -54,6 +54,10 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**](https://arxiv.org/pdf/2310.03710.pdf) [**ICLR 2024 submit**] <br>
+Nicholas Crispino<sup>1</sup>, Kyle Montgomery<sup>1</sup>, Fankun Zeng<sup>1</sup>, Dawn Song<sup>2</sup>, Chenguang Wang<sup>1</sup><br>
+<sup>1</sup>Washington University in St. Louis, <sup>2</sup>UC Berkeley
+
 
 * [**CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society**](https://arxiv.org/pdf/2303.17760.pdf) [**NeurIPS 2023**] [[**Github**](https://link.zhihu.com/?target=https%3A//github.com/camel-ai/camel)] [[**Project page**](https://www.camel-ai.org/)]<br>
 Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem<br>
