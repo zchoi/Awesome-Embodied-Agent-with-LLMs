@@ -44,6 +44,9 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### LLMs with RL
 
+* [**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**](https://link.zhihu.com/?target=https%3A//openreview.net/forum%3Fid%3D1RE0H6mU7M) [**ICLR 2024 submission**] <br>
+
+
 * [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://arxiv.org/pdf/2308.12270.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/ademiadeniji/lamp)]<br>
 Ademi Adeniji, Amber Xie, Carmelo Sferrazza, Younggyo Seo, Stephen James, Pieter Abbeel<br>
 <sup>1</sup>UC Berkeley
