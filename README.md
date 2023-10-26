@@ -28,7 +28,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
     <img src="trend.png" width="54%">
     <img src="Genshin.jpg" width="43%">
     <span><b>Figure 1. Trend of Embodied Agent with LLMs.<sup>[1]</sup></b></span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 这里添加了四个空格字符作为间距 -->
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <span><b>Figure 2. An envisioned Agent society.<sup>[2]</sup></b></span>
 </p>
 
