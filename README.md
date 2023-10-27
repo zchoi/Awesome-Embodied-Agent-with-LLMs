@@ -11,7 +11,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 ## Table of Contents 🍃
 - [Survey](#survey)
-- [LLMs with RL](#llms-with-rl)
+- [LLMs with RL, World Model](#llms-with-rl-wm)
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
 - [Multi-Agent Learning and Coordination](#multi-agent-learning-and-coordination)
 - [Vision and Language Navigation](#vision-and-language-navigation)
@@ -42,9 +42,11 @@ Fudan NLP Group, miHoYo Inc
 * [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**Arxiv 2023**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
 
-> ### LLMs with RL
+> ### LLMs with RL, World Model
 
-* [**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**](https://link.zhihu.com/?target=https%3A//openreview.net/forum%3Fid%3D1RE0H6mU7M) [**ICLR 2024 submission**] <br>
+* [**Learning to Model the World with Language**](https://openreview.net/pdf?id=eWLOoaShEH) [**ICLR 2024 submission**] <br>
+
+* [**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**](https://openreview.net/pdf?id=1RE0H6mU7M) [**ICLR 2024 submission**] <br>
 
 
 * [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://arxiv.org/pdf/2308.12270.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/ademiadeniji/lamp)]<br>
