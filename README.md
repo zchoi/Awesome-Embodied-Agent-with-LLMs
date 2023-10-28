@@ -44,6 +44,10 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### LLMs with RL, World Model
 
+
+* [**Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes**](https://openreview.net/pdf?id=P4op21eju0) [**ICLR 2024 submission**] <br>
+
+
 * [**Learning to Model the World with Language**](https://openreview.net/pdf?id=eWLOoaShEH) [**ICLR 2024 submission**] <br>
 
 * [**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**](https://openreview.net/pdf?id=1RE0H6mU7M) [**ICLR 2024 submission**] <br>
