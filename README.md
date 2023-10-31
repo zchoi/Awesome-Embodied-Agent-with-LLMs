@@ -45,6 +45,14 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 > ### LLMs with RL, World Model
 
 
+* [**Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning**](https://openreview.net/pdf?id=1PPjf4wife) [**ICLR 2024 submission**] <be>
+
+* [**Online Continual Learning for Interactive Instruction Following Agents**](https://openreview.net/pdf?id=7M0EzjugaN) [**ICLR 2024 submission**] <be>
+
+* [**ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning**](https://openreview.net/pdf?id=LVp217SAtb) [**ICLR 2024 submission**] <be>
+
+* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://openreview.net/pdf?id=SWRFC2EupO) [**ICLR 2024 submission**] <br>
+
 * [**Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes**](https://openreview.net/pdf?id=P4op21eju0) [**ICLR 2024 submission**] <br>
 
 
