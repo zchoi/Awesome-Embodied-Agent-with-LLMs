@@ -39,12 +39,15 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### LLMs with RL, World Model
 
+* [**STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models**](https://openreview.net/pdf?id=LXiG2WqKXR) [**ICLR 2024 submission**] <br>
 
-* [**Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning**](https://openreview.net/pdf?id=1PPjf4wife) [**ICLR 2024 submission**] <be>
+* [**Text2Reward: Dense Reward Generation with Language Models for Reinforcement Learning**](https://openreview.net/pdf?id=tUM39YTRxH) [**ICLR 2024 submission**] <br>
 
-* [**Online Continual Learning for Interactive Instruction Following Agents**](https://openreview.net/pdf?id=7M0EzjugaN) [**ICLR 2024 submission**] <be>
+* [**Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning**](https://openreview.net/pdf?id=1PPjf4wife) [**ICLR 2024 submission**] <br>
 
-* [**ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning**](https://openreview.net/pdf?id=LVp217SAtb) [**ICLR 2024 submission**] <be>
+* [**Online Continual Learning for Interactive Instruction Following Agents**](https://openreview.net/pdf?id=7M0EzjugaN) [**ICLR 2024 submission**] <br>
+
+* [**ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning**](https://openreview.net/pdf?id=LVp217SAtb) [**ICLR 2024 submission**] <br>
 
 * [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://openreview.net/pdf?id=SWRFC2EupO) [**ICLR 2024 submission**] <br>
 
