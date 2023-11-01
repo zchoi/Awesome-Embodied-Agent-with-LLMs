@@ -3,11 +3,6 @@
 
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
-<p align="left">
-    <a href="https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs/stargazers">
-        <img src="https://reporoster.com/stars/zchoi/Awesome-Embodied-Agent-with-LLMs" width="50%" height="60%">
-    </a>
-</p>
 
 ## Table of Contents 🍃
 - [Survey](#survey)
