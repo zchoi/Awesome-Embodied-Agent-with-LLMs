@@ -207,8 +207,13 @@ Andrew Szot<sup>1,2</sup> Unnat Jain<sup>1</sup> Dhruv Batra<sup>1,2</sup> Zsolt
 
 > ### Vision and Language Navigation
 
+* [**IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without any Outdoor Experience**](http://arxiv.org/abs/2305.01098) [**Arxiv 2023**] <br>
+Joanne Truong<sup>1,2</sup>, April Zitkovich<sup>1</sup>, Sonia Chernova<sup>2</sup>, Dhruv Batra<sup>2,3</sup>, Tingnan Zhang<sup>1</sup>, Jie Tan<sup>1</sup>, Wenhao Yu<sup>1</sup><br>
+<sup>1</sup>Robotics at Google <sup>2</sup>Georgia Institute of Technology <sup>3</sup>Meta AI
+
+
 * [**ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**](https://openreview.net/attachment?id=GydFM0ZEXY&name=pdf) [**ICML 2023**] <br>
-Kaiwen Zhou<sup>1</sup>, Kaizhi Zheng<sup>1</sup>, Connor Pryor<sup>1</sup>, Yilin Shen<sup>2</sup>, Hongxia Jin<sup>2</sup>, Lise Getoor<sup>1</sup>, Xin Eric Wang<sup>1</sup>
+Kaiwen Zhou<sup>1</sup>, Kaizhi Zheng<sup>1</sup>, Connor Pryor<sup>1</sup>, Yilin Shen<sup>2</sup>, Hongxia Jin<sup>2</sup>, Lise Getoor<sup>1</sup>, Xin Eric Wang<sup>1</sup><br>
 <sup>1</sup>University of California, Santa Cruz <sup>2</sup>Samsung Research America.
 
 
