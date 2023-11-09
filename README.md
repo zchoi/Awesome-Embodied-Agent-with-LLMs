@@ -75,11 +75,12 @@ Inria, Flowers Laboratory.
 Nicholas Crispino<sup>1</sup>, Kyle Montgomery<sup>1</sup>, Fankun Zeng<sup>1</sup>, Dawn Song<sup>2</sup>, Chenguang Wang<sup>1</sup><br>
 <sup>1</sup>Washington University in St. Louis, <sup>2</sup>UC Berkeley
 
+* [**Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**](https://arxiv.org/abs/2302.01560) [**NeurIPS 2023**]<br>
+  Zihao Wang<sup>1,2</sup> Shaofei Cai<sup>1,2</sup> Guanzhou Chen<sup>3</sup> Anji Liu<sup>4</sup> Xiaojian Ma<sup>4</sup> Yitao Liang<sup>1,5†</sup><br><sup>1</sup>Institute for Artificial Intelligence, Peking University, <sup>2</sup>School of Intelligence Science and Technology, Peking University, <sup>3</sup>School of Computer Science, Beijing University of Posts and Telecommunications, <sup>4</sup>Computer Science Department, University of California, Los Angeles, <sup>5</sup>Beijing Institute for General Artificial Intelligence (BIGAI)
 
 * [**CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society**](https://arxiv.org/pdf/2303.17760.pdf) [**NeurIPS 2023**] [[**Github**](https://link.zhihu.com/?target=https%3A//github.com/camel-ai/camel)] [[**Project page**](https://www.camel-ai.org/)]<br>
 Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem<br>
 <sup>1</sup>King Abdullah University of Science and Technology (KAUST)
-
 
 * [**Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**](https://arxiv.org/pdf/2201.07207.pdf) [**Arxiv 2022**] [[**Github**](https://github.com/huangwl18/language-planner)] [[**Project page**](https://wenlong.page/language-planner/)] <br>
 Wenlong Huang<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Deepak Pathak<sup>2</sup>, Igor Mordatch<sup>3</sup><br>
@@ -195,6 +196,8 @@ School of Computing National University of Singapore
 
 
 > ###  Multi-Agent Learning and Coordination
+
+* [*MindAgent: Emergent Gaming Interaction**](https://arxiv.org/abs/2309.09971) [**arXiv 2023**]<br> Ran Gong<sup>*1†</sup> Qiuyuan Huang<sup>*2‡</sup> Xiaojian Ma<sup>*1</sup> Hoi Vo<sup>3</sup> Zane Durante<sup>†4</sup> Yusuke Noda<sup>3</sup> Zilong Zheng<sup>5</sup> Song-Chun Zhu<sup>15678</sup> Demetri Terzopoulos<sup>1</sup> Li Fei-Fei<sup>4</sup> Jianfeng Gao<sup>2</sup><br><sup>1</sup>UCLA; <sup>2</sup>Microsoft Research, Redmond; <sup>3</sup>Xbox Team, Microsoft; <sup>4</sup>Stanford; <sup>5</sup>BIGAI; <sup>6</sup>PKU; <sup>7</sup>THU; <sup>8</sup>UCLA
 
 * [**Demonstration-free Autonomous Reinforcement Learning via Implicit and Bidirectional Curriculum**](https://openreview.net/attachment?id=BMO1vLKq7D&name=pdf) [**ICML 2023**]<br>
 Jigang Kim<sup>*1,2</sup> Daesol Cho<sup>*1,2</sup> H. Jin Kim<sup>1,3</sup><br>
