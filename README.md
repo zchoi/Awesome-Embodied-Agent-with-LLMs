@@ -39,24 +39,26 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### LLMs with RL, World Model
 
-* [**STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models**](https://openreview.net/pdf?id=LXiG2WqKXR) [**ICLR 2024 submission**] <br>
+* [**AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents**](https://openreview.net/pdf?id=M6XWoEdmwf) [**ICLR 2024 submission (score: 6,6,8)**] <br>
 
-* [**Text2Reward: Dense Reward Generation with Language Models for Reinforcement Learning**](https://openreview.net/pdf?id=tUM39YTRxH) [**ICLR 2024 submission**] <br>
+* [**STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models**](https://openreview.net/pdf?id=LXiG2WqKXR) [**ICLR 2024 submission (score: 3,3,5,3)**] <br>
 
-* [**Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning**](https://openreview.net/pdf?id=1PPjf4wife) [**ICLR 2024 submission**] <br>
+* [**Text2Reward: Dense Reward Generation with Language Models for Reinforcement Learning**](https://openreview.net/pdf?id=tUM39YTRxH) [**ICLR 2024 submission (score: 6,6,5,5)**] <br>
 
-* [**Online Continual Learning for Interactive Instruction Following Agents**](https://openreview.net/pdf?id=7M0EzjugaN) [**ICLR 2024 submission**] <br>
+* [**Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning**](https://openreview.net/pdf?id=1PPjf4wife) [**ICLR 2024 submission (score: 5,3,6,3)**] <br>
 
-* [**ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning**](https://openreview.net/pdf?id=LVp217SAtb) [**ICLR 2024 submission**] <br>
+* [**Online Continual Learning for Interactive Instruction Following Agents**](https://openreview.net/pdf?id=7M0EzjugaN) [**ICLR 2024 submission (score: 6,6,5,5)**] <br>
 
-* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://openreview.net/pdf?id=SWRFC2EupO) [**ICLR 2024 submission**] <br>
+* [**ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning**](https://openreview.net/pdf?id=LVp217SAtb) [**ICLR 2024 submission (score: 3,3)**] <br>
 
-* [**Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes**](https://openreview.net/pdf?id=P4op21eju0) [**ICLR 2024 submission**] <br>
+* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://openreview.net/pdf?id=SWRFC2EupO) [**ICLR 2024 submission (score: 5,6,5,5)**] <br>
+
+* [**Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes**](https://openreview.net/pdf?id=P4op21eju0) [**ICLR 2024 submission (score: 3,3,3,3)**] <br>
 
 
-* [**Learning to Model the World with Language**](https://openreview.net/pdf?id=eWLOoaShEH) [**ICLR 2024 submission**] <br>
+* [**Learning to Model the World with Language**](https://openreview.net/pdf?id=eWLOoaShEH) [**ICLR 2024 submission (score:5,6,5)**] <br>
 
-* [**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**](https://openreview.net/pdf?id=1RE0H6mU7M) [**ICLR 2024 submission**] <br>
+* [**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**](https://openreview.net/pdf?id=1RE0H6mU7M) [**ICLR 2024 submission (score:5,6,5,6)**] <br>
 
 
 * [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://arxiv.org/pdf/2308.12270.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/ademiadeniji/lamp)]<br>
@@ -71,7 +73,7 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
-* [**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**](https://arxiv.org/pdf/2310.03710.pdf) [**ICLR 2024 submit**] <br>
+* [**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**](https://arxiv.org/pdf/2310.03710.pdf) [**ICLR 2024 submission (score:5,1,5)**] <br>
 Nicholas Crispino<sup>1</sup>, Kyle Montgomery<sup>1</sup>, Fankun Zeng<sup>1</sup>, Dawn Song<sup>2</sup>, Chenguang Wang<sup>1</sup><br>
 <sup>1</sup>Washington University in St. Louis, <sup>2</sup>UC Berkeley
 
