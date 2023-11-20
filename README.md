@@ -77,6 +77,10 @@ Inria, Flowers Laboratory.
 Nicholas Crispino<sup>1</sup>, Kyle Montgomery<sup>1</sup>, Fankun Zeng<sup>1</sup>, Dawn Song<sup>2</sup>, Chenguang Wang<sup>1</sup><br>
 <sup>1</sup>Washington University in St. Louis, <sup>2</sup>UC Berkeley
 
+* [**JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models**](https://arxiv.org/abs/2311.05997) [**arXiv 2023**]<br>
+  Zihao Wang<sup>1,2</sup> Shaofei Cai<sup>1,2</sup> Anji Liu<sup>3</sup> Yonggang Jin<sup>4</sup> Jinbing Hou<sup>4</sup> Bowei Zhang<sup>5</sup> Haowei Lin<sup>1,2</sup> Zhaofeng He<sup>4</sup> Zilong Zheng<sup>6</sup> Yaodong Yang<sup>1</sup> Xiaojian Ma<sup>6†</sup> Yitao Liang<sup>1†</sup><br>
+  <sup>1</sup>Institute for Artificial Intelligence, Peking University, <sup>2</sup>School of Intelligence Science and Technology, Peking University, <sup>3</sup>Computer Science Department, University of California, Los Angeles, <sup>4</sup>Beijing University of Posts and Telecommunications, <sup>5</sup>School of Electronics Engineering and Computer Science, Peking University, <sup>6</sup>Beijing Institute for General Artificial Intelligence (BIGAI)
+
 * [**Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**](https://arxiv.org/abs/2302.01560) [**NeurIPS 2023**]<br>
   Zihao Wang<sup>1,2</sup> Shaofei Cai<sup>1,2</sup> Guanzhou Chen<sup>3</sup> Anji Liu<sup>4</sup> Xiaojian Ma<sup>4</sup> Yitao Liang<sup>1,5†</sup><br><sup>1</sup>Institute for Artificial Intelligence, Peking University, <sup>2</sup>School of Intelligence Science and Technology, Peking University, <sup>3</sup>School of Computer Science, Beijing University of Posts and Telecommunications, <sup>4</sup>Computer Science Department, University of California, Los Angeles, <sup>5</sup>Beijing Institute for General Artificial Intelligence (BIGAI)
 
