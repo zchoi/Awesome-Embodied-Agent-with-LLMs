@@ -39,6 +39,8 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### LLMs with RL, World Model
 
+* [**Aligning Agents like Large Language Models**](https://openreview.net/pdf?id=kQqZVayz07) [**ICLR 2024 submission (score: 5,3,3,5)**] <br>
+
 * [**AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents**](https://openreview.net/pdf?id=M6XWoEdmwf) [**ICLR 2024 submission (score: 6,6,8)**] <br>
 
 * [**STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models**](https://openreview.net/pdf?id=LXiG2WqKXR) [**ICLR 2024 submission (score: 3,3,5,3)**] <br>
