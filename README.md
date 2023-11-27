@@ -41,7 +41,7 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 * [**RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds**](https://openreview.net/pdf?id=3s4fZTr1ce) [**ICLR 2024 submission (score: 3,3,3,5)**] <br>
 
-* [**Can Language Agents Approach the Performance of RL? An Empirical Study On OpenAI Gym**](https://openreview.net/pdf?id=F0q880yOgY) [**ICLR 2024 submission (score: 3,5,3,3,8)**] <br>
+* [**Can Language Agents Be Alternatives to PPO? A Preliminary Empirical Study on OpenAI Gym**](https://openreview.net/pdf?id=F0q880yOgY) [**ICLR 2024 submission (score: 3,5,3,3,8)**] <br>
 
 * [**RoboGPT : An intelligent agent of making embodied long-term decisions for daily instruction tasks**](https://openreview.net/pdf?id=x4fm4T2tjM) [**ICLR 2024 submission (score: 3,3,6,3)**] <br>
 
