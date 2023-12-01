@@ -31,6 +31,9 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 > ### Survey
 
+* [**Igniting Language Intelligence: The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents**](https://arxiv.org/pdf/2311.11797.pdf) [**Arxiv 2023**]<br>
+Shanghai Jiao Tong University, Amazon Web Services, Yale University
+
 * [**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://arxiv.org/pdf/2309.07864.pdf) [**Arxiv 2023**]<br>
 Fudan NLP Group, miHoYo Inc
 
