@@ -214,6 +214,11 @@ School of Computing National University of Singapore
 
 > ###  Multi-Agent Learning and Coordination
 
+
+* [**War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars**](https://arxiv.org/pdf/2311.17227.pdf) [**Arxiv 2023**]<br>
+Wenyue Hua<sup>1*</sup>, Lizhou Fan<sup>2*</sup>, Lingyao Li<sup>2</sup>, Kai Mei<sup>1</sup>, Jianchao Ji<sup>1</sup>, Yingqiang Ge<sup>1</sup>, Libby Hemphill<sup>2</sup>, Yongfeng Zhang<sup>1</sup><br>
+<sup>1</sup>Rutgers University, <sup>2</sup>University of Michigan
+
 * [*MindAgent: Emergent Gaming Interaction**](https://arxiv.org/abs/2309.09971) [**arXiv 2023**]<br> Ran Gong<sup>*1†</sup> Qiuyuan Huang<sup>*2‡</sup> Xiaojian Ma<sup>*1</sup> Hoi Vo<sup>3</sup> Zane Durante<sup>†4</sup> Yusuke Noda<sup>3</sup> Zilong Zheng<sup>5</sup> Song-Chun Zhu<sup>15678</sup> Demetri Terzopoulos<sup>1</sup> Li Fei-Fei<sup>4</sup> Jianfeng Gao<sup>2</sup><br><sup>1</sup>UCLA; <sup>2</sup>Microsoft Research, Redmond; <sup>3</sup>Xbox Team, Microsoft; <sup>4</sup>Stanford; <sup>5</sup>BIGAI; <sup>6</sup>PKU; <sup>7</sup>THU; <sup>8</sup>UCLA
 
 * [**Demonstration-free Autonomous Reinforcement Learning via Implicit and Bidirectional Curriculum**](https://openreview.net/attachment?id=BMO1vLKq7D&name=pdf) [**ICML 2023**]<br>
