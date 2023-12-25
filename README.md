@@ -42,6 +42,10 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### LLMs with RL, World Model
 
+* [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://eureka-research.github.io/assets/eureka_paper.pdf) [[**Project page**](https://eureka-research.github.io/)] [[**Github**](https://github.com/eureka-research/Eureka)] <br>
+Jason Ma<sup>1,2</sup>, William Liang<sup>2</sup>, Guanzhi Wang<sup>1,3</sup>, De-An Huang<sup>1</sup>, Osbert Bastani<sup>2</sup>, Dinesh Jayaraman<sup>2</sup>, Yuke Zhu<sup>1,4</sup>, Linxi "Jim" Fan<sup>1</sup>, Anima Anandkumar<sup>1</sup><br>
+<sup>1</sup>NVIDIA; <sup>2</sup>UPenn; <sup>3</sup>Caltech; <sup>4</sup>UT Austin
+
 * [**RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds**](https://openreview.net/pdf?id=3s4fZTr1ce) [**ICLR 2024 submission (score: 3,3,3,5)**] <br>
 
 * [**Can Language Agents Be Alternatives to PPO? A Preliminary Empirical Study on OpenAI Gym**](https://openreview.net/pdf?id=F0q880yOgY) [**ICLR 2024 submission (score: 3,5,3,3,8)**] <br>
