@@ -88,6 +88,10 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**See and Think: Embodied Agent in Virtual Environment**](https://arxiv.org/pdf/2311.15209.pdf) [**Arxiv 2023**] <br>
+ Zhonghan Zhao<sup>1*</sup>, Wenhao Chai<sup>2*</sup>, Xuan Wang<sup>1*</sup>, Li Boyi<sup>1</sup>, Shengyu Hao<sup>1</sup>, Shidong Cao<sup>1</sup>, Tian Ye<sup>3</sup>, Jenq-Neng Hwang<sup>2</sup>, Gaoang Wang<sup>1</sup><br>
+<sup>1</sup>Zhejiang University <sup>1</sup>University of Washington <sup>1</sup>Hong Kong University of Science and Technology (GZ)
+
 * [**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**](https://arxiv.org/pdf/2310.03710.pdf) [**ICLR 2024 submission (score:5,1,5)**] <br>
 Nicholas Crispino<sup>1</sup>, Kyle Montgomery<sup>1</sup>, Fankun Zeng<sup>1</sup>, Dawn Song<sup>2</sup>, Chenguang Wang<sup>1</sup><br>
 <sup>1</sup>Washington University in St. Louis, <sup>2</sup>UC Berkeley
