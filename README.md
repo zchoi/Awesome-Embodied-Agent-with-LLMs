@@ -6,6 +6,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 ## Table of Contents 🍃
 - [Survey](#survey)
+- [Advanced Agent Applications](#advanced-agent-applications)
 - [LLMs with RL, World Model](#llms-with-rl-wm)
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
 - [Multi-Agent Learning and Coordination](#multi-agent-learning-and-coordination)
@@ -39,6 +40,11 @@ Fudan NLP Group, miHoYo Inc
 
 * [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**Arxiv 2023**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
+
+> ### Advanced Agent Applications
+* [**AppAgent: Multimodal Agents as Smartphone Users**](https://arxiv.org/pdf/2312.13771.pdf) [[**Project page**](https://appagent-official.github.io/)] [[**Github**](https://github.com/mnotgod96/AppAgent)] <br>
+Chi Zhang∗ ZhaoYang∗ JiaxuanLiu∗ YuchengHan XinChen Zebiao Huang BinFu GangYu†<br>
+Tencent
 
 > ### LLMs with RL, World Model
 
