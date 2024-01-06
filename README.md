@@ -7,7 +7,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 ## Table of Contents 🍃
 - [Survey](#survey)
 - [Advanced Agent Applications](#advanced-agent-applications)
-- [LLMs with RL, World Model](#llms-with-rl-wm)
+- [LLMs with RL or World Model](#llms-with-rl-or-wm)
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
 - [Multi-Agent Learning and Coordination](#multi-agent-learning-and-coordination)
 - [Vision and Language Navigation](#vision-and-language-navigation)
