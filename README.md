@@ -3,8 +3,6 @@
 
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
-[![Stargazers repo roster for @zchoi/Awesome-Embodied-Agent-with-LLMs](https://reporoster.com/stars/zchoi/Awesome-Embodied-Agent-with-LLMs)](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs/stargazers)
-
 ## Table of Contents 🍃
 - [Survey](#survey)
 - [Advanced Agent Applications](#advanced-agent-applications)
