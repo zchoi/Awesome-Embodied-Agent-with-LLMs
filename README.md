@@ -52,34 +52,33 @@ Tencent
 Jason Ma<sup>1,2</sup>, William Liang<sup>2</sup>, Guanzhi Wang<sup>1,3</sup>, De-An Huang<sup>1</sup>, Osbert Bastani<sup>2</sup>, Dinesh Jayaraman<sup>2</sup>, Yuke Zhu<sup>1,4</sup>, Linxi "Jim" Fan<sup>1</sup>, Anima Anandkumar<sup>1</sup><br>
 <sup>1</sup>NVIDIA; <sup>2</sup>UPenn; <sup>3</sup>Caltech; <sup>4</sup>UT Austin
 
-* [**RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds**](https://openreview.net/pdf?id=3s4fZTr1ce) [**ICLR 2024 submission (score: 3,3,3,5)**] <br>
+* [**RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds**](https://openreview.net/pdf?id=3s4fZTr1ce) [**Arxiv**] <br>
 
-* [**Can Language Agents Be Alternatives to PPO? A Preliminary Empirical Study on OpenAI Gym**](https://openreview.net/pdf?id=F0q880yOgY) [**ICLR 2024 submission (score: 3,5,3,3,8)**] <br>
+* [**Can Language Agents Be Alternatives to PPO? A Preliminary Empirical Study on OpenAI Gym**](https://openreview.net/pdf?id=F0q880yOgY) [**Arxiv**] <br>
 
-* [**RoboGPT : An intelligent agent of making embodied long-term decisions for daily instruction tasks**](https://openreview.net/pdf?id=x4fm4T2tjM) [**ICLR 2024 submission (score: 3,3,6,3)**] <br>
+* [**RoboGPT : An intelligent agent of making embodied long-term decisions for daily instruction tasks**](https://openreview.net/pdf?id=x4fm4T2tjM) [**Arxiv**] <br>
 
-* [**Aligning Agents like Large Language Models**](https://openreview.net/pdf?id=kQqZVayz07) [**ICLR 2024 submission (score: 5,3,3,5)**] <br>
+* [**Aligning Agents like Large Language Models**](https://openreview.net/pdf?id=kQqZVayz07) [**Arxiv**] <br>
 
-* [**AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents**](https://openreview.net/pdf?id=M6XWoEdmwf) [**ICLR 2024 submission (score: 6,6,8)**] <br>
+* [**AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents**](https://openreview.net/pdf?id=M6XWoEdmwf) [**ICLR 2024 spotlight**] <br>
 
-* [**STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models**](https://openreview.net/pdf?id=LXiG2WqKXR) [**ICLR 2024 submission (score: 3,3,5,3)**] <br>
+* [**STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models**](https://openreview.net/pdf?id=LXiG2WqKXR) [**Arxiv**] <br>
 
-* [**Text2Reward: Dense Reward Generation with Language Models for Reinforcement Learning**](https://openreview.net/pdf?id=tUM39YTRxH) [**ICLR 2024 submission (score: 6,6,5,5)**] <br>
+* [**Text2Reward: Dense Reward Generation with Language Models for Reinforcement Learning**](https://openreview.net/pdf?id=tUM39YTRxH) [**ICLR 2024 spotlight**] <br>
 
 * [**Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning**](https://openreview.net/pdf?id=1PPjf4wife) [**ICLR 2024 submission (score: 5,3,6,3)**] <br>
 
-* [**Online Continual Learning for Interactive Instruction Following Agents**](https://openreview.net/pdf?id=7M0EzjugaN) [**ICLR 2024 submission (score: 6,6,5,5)**] <br>
+* [**Online Continual Learning for Interactive Instruction Following Agents**](https://openreview.net/pdf?id=7M0EzjugaN) [**ICLR 2024**] <br>
 
-* [**ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning**](https://openreview.net/pdf?id=LVp217SAtb) [**ICLR 2024 submission (score: 3,3)**] <br>
+* [**ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning**](https://openreview.net/pdf?id=LVp217SAtb) [**Arxiv**] <br>
 
-* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://openreview.net/pdf?id=SWRFC2EupO) [**ICLR 2024 submission (score: 5,6,5,5)**] <br>
+* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://openreview.net/pdf?id=SWRFC2EupO) [**Arxiv**] <br>
 
-* [**Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes**](https://openreview.net/pdf?id=P4op21eju0) [**ICLR 2024 submission (score: 3,3,3,3)**] <br>
+* [**Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes**](https://openreview.net/pdf?id=P4op21eju0) [**Arxiv**] <br>
 
+* [**Learning to Model the World with Language**](https://openreview.net/pdf?id=eWLOoaShEH) [**Arxiv**] <br>
 
-* [**Learning to Model the World with Language**](https://openreview.net/pdf?id=eWLOoaShEH) [**ICLR 2024 submission (score:5,6,5)**] <br>
-
-* [**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**](https://openreview.net/pdf?id=1RE0H6mU7M) [**ICLR 2024 submission (score:5,6,5,6)**] <br>
+* [**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**](https://openreview.net/pdf?id=1RE0H6mU7M) [**ICLR 2024**] <br>
 
 
 * [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://arxiv.org/pdf/2308.12270.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/ademiadeniji/lamp)]<br>
@@ -98,7 +97,7 @@ Inria, Flowers Laboratory.
  Zhonghan Zhao<sup>1*</sup>, Wenhao Chai<sup>2*</sup>, Xuan Wang<sup>1*</sup>, Li Boyi<sup>1</sup>, Shengyu Hao<sup>1</sup>, Shidong Cao<sup>1</sup>, Tian Ye<sup>3</sup>, Jenq-Neng Hwang<sup>2</sup>, Gaoang Wang<sup>1</sup><br>
 <sup>1</sup>Zhejiang University <sup>1</sup>University of Washington <sup>1</sup>Hong Kong University of Science and Technology (GZ)
 
-* [**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**](https://arxiv.org/pdf/2310.03710.pdf) [**ICLR 2024 submission (score:5,1,5)**] <br>
+* [**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**](https://arxiv.org/pdf/2310.03710.pdf) [**Arxiv**] <br>
 Nicholas Crispino<sup>1</sup>, Kyle Montgomery<sup>1</sup>, Fankun Zeng<sup>1</sup>, Dawn Song<sup>2</sup>, Chenguang Wang<sup>1</sup><br>
 <sup>1</sup>Washington University in St. Louis, <sup>2</sup>UC Berkeley
 
