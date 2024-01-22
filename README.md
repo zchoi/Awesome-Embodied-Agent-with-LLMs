@@ -32,13 +32,13 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 > ### Survey
 
-* [**Igniting Language Intelligence: The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents**](https://arxiv.org/pdf/2311.11797.pdf) [**Arxiv 2023**]<br>
+* [**Igniting Language Intelligence: The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents**](https://arxiv.org/pdf/2311.11797.pdf) [**arXiv 2023**]<br>
 Shanghai Jiao Tong University, Amazon Web Services, Yale University
 
-* [**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://arxiv.org/pdf/2309.07864.pdf) [**Arxiv 2023**]<br>
+* [**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://arxiv.org/pdf/2309.07864.pdf) [**arXiv 2023**]<br>
 Fudan NLP Group, miHoYo Inc
 
-* [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**Arxiv 2023**] <br>
+* [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**arXiv 2023**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Advanced Agent Applications
@@ -52,36 +52,36 @@ Tencent
 Jason Ma<sup>1,2</sup>, William Liang<sup>2</sup>, Guanzhi Wang<sup>1,3</sup>, De-An Huang<sup>1</sup>, Osbert Bastani<sup>2</sup>, Dinesh Jayaraman<sup>2</sup>, Yuke Zhu<sup>1,4</sup>, Linxi "Jim" Fan<sup>1</sup>, Anima Anandkumar<sup>1</sup><br>
 <sup>1</sup>NVIDIA; <sup>2</sup>UPenn; <sup>3</sup>Caltech; <sup>4</sup>UT Austin
 
-* [**RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds**](https://openreview.net/pdf?id=3s4fZTr1ce) [**Arxiv**] <br>
+* [**RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds**](https://openreview.net/pdf?id=3s4fZTr1ce) [**arXiv 2023**] <br>
 
-* [**Can Language Agents Be Alternatives to PPO? A Preliminary Empirical Study on OpenAI Gym**](https://openreview.net/pdf?id=F0q880yOgY) [**Arxiv**] <br>
+* [**Can Language Agents Be Alternatives to PPO? A Preliminary Empirical Study on OpenAI Gym**](https://openreview.net/pdf?id=F0q880yOgY) [**arXiv 2023**] <br>
 
-* [**RoboGPT : An intelligent agent of making embodied long-term decisions for daily instruction tasks**](https://openreview.net/pdf?id=x4fm4T2tjM) [**Arxiv**] <br>
+* [**RoboGPT: An intelligent agent of making embodied long-term decisions for daily instruction tasks**](https://openreview.net/pdf?id=x4fm4T2tjM) [**arXiv 2023**] <br>
 
-* [**Aligning Agents like Large Language Models**](https://openreview.net/pdf?id=kQqZVayz07) [**Arxiv**] <br>
+* [**Aligning Agents like Large Language Models**](https://openreview.net/pdf?id=kQqZVayz07) [**arXiv 2023**] <br>
 
 * [**AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents**](https://openreview.net/pdf?id=M6XWoEdmwf) [**ICLR 2024 spotlight**] <br>
 
-* [**STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models**](https://openreview.net/pdf?id=LXiG2WqKXR) [**Arxiv**] <br>
+* [**STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models**](https://openreview.net/pdf?id=LXiG2WqKXR) [**arXiv 2023**] <br>
 
 * [**Text2Reward: Dense Reward Generation with Language Models for Reinforcement Learning**](https://openreview.net/pdf?id=tUM39YTRxH) [**ICLR 2024 spotlight**] <br>
 
-* [**Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning**](https://openreview.net/pdf?id=1PPjf4wife) [**ICLR 2024 submission (score: 5,3,6,3)**] <br>
+* [**Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning**](https://openreview.net/pdf?id=1PPjf4wife) [**arXiv 2023**] <br>
 
 * [**Online Continual Learning for Interactive Instruction Following Agents**](https://openreview.net/pdf?id=7M0EzjugaN) [**ICLR 2024**] <br>
 
-* [**ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning**](https://openreview.net/pdf?id=LVp217SAtb) [**Arxiv**] <br>
+* [**ADAPTER-RL: Adaptation of Any Agent using Reinforcement Learning**](https://openreview.net/pdf?id=LVp217SAtb) [**arXiv 2023**] <br>
 
-* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://openreview.net/pdf?id=SWRFC2EupO) [**Arxiv**] <br>
+* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://openreview.net/pdf?id=SWRFC2EupO) [**arXiv 2023**] <br>
 
-* [**Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes**](https://openreview.net/pdf?id=P4op21eju0) [**Arxiv**] <br>
+* [**Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes**](https://openreview.net/pdf?id=P4op21eju0) [**arXiv 2023**] <br>
 
-* [**Learning to Model the World with Language**](https://openreview.net/pdf?id=eWLOoaShEH) [**Arxiv**] <br>
+* [**Learning to Model the World with Language**](https://openreview.net/pdf?id=eWLOoaShEH) [**arXiv 2023**] <br>
 
 * [**MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning**](https://openreview.net/pdf?id=1RE0H6mU7M) [**ICLR 2024**] <br>
 
 
-* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://arxiv.org/pdf/2308.12270.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/ademiadeniji/lamp)]<br>
+* [**Language Reward Modulation for Pretraining Reinforcement Learning**](https://arxiv.org/pdf/2308.12270.pdf) [**arXiv 2023**] [[**Github**](https://github.com/ademiadeniji/lamp)]<br>
 Ademi Adeniji, Amber Xie, Carmelo Sferrazza, Younggyo Seo, Stephen James, Pieter Abbeel<br>
 <sup>1</sup>UC Berkeley
 
@@ -93,11 +93,11 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
-* [**See and Think: Embodied Agent in Virtual Environment**](https://arxiv.org/pdf/2311.15209.pdf) [**Arxiv 2023**] <br>
+* [**See and Think: Embodied Agent in Virtual Environment**](https://arxiv.org/pdf/2311.15209.pdf) [**arXiv 2023**] <br>
  Zhonghan Zhao<sup>1*</sup>, Wenhao Chai<sup>2*</sup>, Xuan Wang<sup>1*</sup>, Li Boyi<sup>1</sup>, Shengyu Hao<sup>1</sup>, Shidong Cao<sup>1</sup>, Tian Ye<sup>3</sup>, Jenq-Neng Hwang<sup>2</sup>, Gaoang Wang<sup>1</sup><br>
 <sup>1</sup>Zhejiang University <sup>1</sup>University of Washington <sup>1</sup>Hong Kong University of Science and Technology (GZ)
 
-* [**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**](https://arxiv.org/pdf/2310.03710.pdf) [**Arxiv**] <br>
+* [**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**](https://arxiv.org/pdf/2310.03710.pdf) [**arXiv 2023**] <br>
 Nicholas Crispino<sup>1</sup>, Kyle Montgomery<sup>1</sup>, Fankun Zeng<sup>1</sup>, Dawn Song<sup>2</sup>, Chenguang Wang<sup>1</sup><br>
 <sup>1</sup>Washington University in St. Louis, <sup>2</sup>UC Berkeley
 
@@ -112,7 +112,7 @@ Nicholas Crispino<sup>1</sup>, Kyle Montgomery<sup>1</sup>, Fankun Zeng<sup>1</s
 Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem<br>
 <sup>1</sup>King Abdullah University of Science and Technology (KAUST)
 
-* [**Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**](https://arxiv.org/pdf/2201.07207.pdf) [**Arxiv 2022**] [[**Github**](https://github.com/huangwl18/language-planner)] [[**Project page**](https://wenlong.page/language-planner/)] <br>
+* [**Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**](https://arxiv.org/pdf/2201.07207.pdf) [**arXiv 2022**] [[**Github**](https://github.com/huangwl18/language-planner)] [[**Project page**](https://wenlong.page/language-planner/)] <br>
 Wenlong Huang<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Deepak Pathak<sup>2</sup>, Igor Mordatch<sup>3</sup><br>
 <sup>1</sup>UC Berkeley, <sup>2</sup>Carnegie Mellon University, <sup>3</sup>Google
 
@@ -121,14 +121,14 @@ So Yeon Min<sup>1</sup>, Devendra Singh Chaplot<sup>2</sup>, Pradeep Ravikumar<s
 <sup>1</sup>Carnegie Mellon University <sup>2</sup>Facebook AI Research
 
 
-* [**Embodied Task Planning with Large Language Models**](https://arxiv.org/pdf/2307.01848.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/Gary3410/TaPA)] [[**Project page**](https://gary3410.github.io/TaPA/)] [[**Demo**](https://huggingface.co/spaces/xuxw98/TAPA)] [[**Huggingface Model**](https://huggingface.co/Gary3410/pretrain_lit_llama)] <br>
+* [**Embodied Task Planning with Large Language Models**](https://arxiv.org/pdf/2307.01848.pdf) [**arXiv 2023**] [[**Github**](https://github.com/Gary3410/TaPA)] [[**Project page**](https://gary3410.github.io/TaPA/)] [[**Demo**](https://huggingface.co/spaces/xuxw98/TAPA)] [[**Huggingface Model**](https://huggingface.co/Gary3410/pretrain_lit_llama)] <br>
 Zhenyu Wu<sup>1</sup>, Ziwei Wang<sup>2,3</sup>, Xiuwei Xu<sup>2,3</sup>, Jiwen Lu<sup>2,3</sup>, Haibin Yan<sup>1*</sup><br>
 <sup>1</sup>School of Automation, Beijing University of Posts and Telecommunications,
 <sup>2</sup>Department of Automation, Tsinghua University,
 <sup>3</sup>Beijing National Research Center for Information Science and Technology
 
 
-* [**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf) [**Arxiv 2023**] <br>
+* [**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**](https://arxiv.org/pdf/2305.15486.pdf) [**arXiv 2023**] <br>
 Yue Wu<sup>1,4*</sup>
 , Shrimai Prabhumoye<sup>2</sup>
 , So Yeon Min<sup>1</sup>
@@ -155,13 +155,13 @@ Andrey Kurenkov<sup>1</sup>, Michael Lingelbach<sup>1</sup>, Tanmay Agarwal<sup>
 <sup>1</sup>Department of Computer Science, Stanford University
 <sup>2</sup>Salesforce AI Research <sup>3</sup>Department of Computer Science, University of Texas at Austin.
 
-* [**Reasoning with Language Model is Planning with World Model**](https://arxiv.org/pdf/2305.14992.pdf) [**Arxiv 2023**] <br>
+* [**Reasoning with Language Model is Planning with World Model**](https://arxiv.org/pdf/2305.14992.pdf) [**arXiv 2023**] <br>
 Shibo Hao<sup>∗♣</sup>, Yi Gu<sup>∗♣</sup>, Haodi Ma<sup>♢</sup>, Joshua Jiahua Hong<sup>♣</sup>, Zhen Wang<sup>♣ ♠</sup>,
 Daisy Zhe Wang<sup>♢</sup>, Zhiting Hu<sup>♣</sup><br>
 <sup>♣</sup>UC San Diego, <sup>♢</sup>University of Florida,
 <sup>♠</sup>Mohamed bin Zayed University of Artificial Intelligence
 
-* [**Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**](https://arxiv.org/pdf/2204.01691.pdf) [**Arxiv 2022**]<br>
+* [**Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**](https://arxiv.org/pdf/2204.01691.pdf) [**arXiv 2022**]<br>
 Robotics at Google, Everyday Robots
 
 * [**Do Embodied Agents Dream of Pixelated Sheep?: Embodied Decision Making using Language Guided World Modelling**](https://openreview.net/attachment?id=Rm5Qi57C5I&name=pdf) [**ICML 2023**]<br>
@@ -180,12 +180,12 @@ Yonsei University <sup>1</sup>Gwangju Institute of Science and Technology
 * [**Inner Monologue: Embodied Reasoning through Planning with Language Models**](https://openreview.net/pdf?id=3R3Pz5i0tye) [**CoRL 2022**] [[**Project page**](https://innermonologue.github.io/)]<br>
 Robotics at Google
 
-* [**Language Models Meet World Models: Embodied Experiences Enhance Language Models**](https://arxiv.org/pdf/2305.10626.pdf) [**Arxiv 2023**] [![](https://img.shields.io/github/stars/szxiangjn/world-model-for-language-model?style=social&label=Code+Stars)](https://github.com/szxiangjn/world-model-for-language-model) [[**Twitter**](https://twitter.com/szxiangjn/status/1659399771126370304)]<br>
+* [**Language Models Meet World Models: Embodied Experiences Enhance Language Models**](https://arxiv.org/pdf/2305.10626.pdf) [**arXiv 2023**] [![](https://img.shields.io/github/stars/szxiangjn/world-model-for-language-model?style=social&label=Code+Stars)](https://github.com/szxiangjn/world-model-for-language-model) [[**Twitter**](https://twitter.com/szxiangjn/status/1659399771126370304)]<br>
 Jiannan Xiang<sup>∗♠</sup>, Tianhua Tao<sup>∗♠</sup>, Yi Gu<sup>♠</sup>, Tianmin Shu<sup>♢</sup>,
 Zirui Wang<sup>♠</sup>, Zichao Yang<sup>♡</sup>, Zhiting Hu<sup>♠</sup><br>
 <sup>♠</sup>UC San Diego, <sup>♣</sup>UIUC, <sup>♢</sup>MIT, <sup>♡</sup>Carnegie Mellon University
 
-* [**AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation**](https://arxiv.org/pdf/2305.18898.pdf) [**Arxiv 2023**] [[**Video**](https://www.youtube.com/watch?v=ayAzID1_qQk)]<br>
+* [**AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation**](https://arxiv.org/pdf/2305.18898.pdf) [**arXiv 2023**] [[**Video**](https://www.youtube.com/watch?v=ayAzID1_qQk)]<br>
 Chuhao Jin<sup>1*</sup>
 , Wenhui Tan<sup>1*</sup>
 , Jiange Yang<sup>2*</sup>
@@ -205,22 +205,22 @@ Valts Blukis<sup>1,2</sup>, Chris Paxton<sup>1</sup>, Dieter Fox<sup>1,3</sup>, 
 Chan Hee Song<sup>1</sup>, Jiaman Wu<sup>1</sup>, Clayton Washington<sup>1</sup>, Brian M. Sadler<sup>2</sup>, Wei-Lun Chao<sup>1</sup>, Yu Su<sup>1</sup><br>
 <sup>1</sup>The Ohio State University, <sup>2</sup>DEVCOM ARL
 
-* [**Code as Policies: Language Model Programs for Embodied Control**](https://arxiv.org/pdf/2209.07753) [**Arxiv 2023**] [[**Project page**](https://code-as-policies.github.io/)] [[**Github**](https://code-as-policies.github.io)] [[**Blog**](https://ai.googleblog.com/2022/11/robots-that-write-their-own-code.html)] [[**Colab**](https://colab.research.google.com/drive/124TE4TsGYyrvduzeDclufyvwcc2qbbrE)]<br>
+* [**Code as Policies: Language Model Programs for Embodied Control**](https://arxiv.org/pdf/2209.07753) [**arXiv 2023**] [[**Project page**](https://code-as-policies.github.io/)] [[**Github**](https://code-as-policies.github.io)] [[**Blog**](https://ai.googleblog.com/2022/11/robots-that-write-their-own-code.html)] [[**Colab**](https://colab.research.google.com/drive/124TE4TsGYyrvduzeDclufyvwcc2qbbrE)]<br>
 Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng<br>
 Robotics at Google
 
-* [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) [**Arxiv 2023**] [![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Code+Stars)](https://github.com/UMass-Foundation-Model/3D-LLM) <br>
+* [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) [**arXiv 2023**] [![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Code+Stars)](https://github.com/UMass-Foundation-Model/3D-LLM) <br>
 <sup>1</sup>Yining Hong, <sup>2</sup>Haoyu Zhen, <sup>3</sup>Peihao Chen, <sup>4</sup>Shuhong Zheng, <sup>5</sup>Yilun Du, <sup>6</sup>Zhenfang Chen, <sup>6,7</sup>Chuang Gan <br>
 <sup>1</sup>UCLA       <sup>2</sup> SJTU       <sup>3</sup> SCUT       <sup>4</sup> UIUC       <sup>5</sup> MIT       <sup>6</sup>MIT-IBM Watson AI Lab       <sup>7</sup> Umass Amherst
 
-* [**VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**](https://arxiv.org/abs/2307.05973) [**Arxiv 2023**] [[**Project page**](https://voxposer.github.io/)] [[**Online Demo**](https://www.youtube.com/watch?v=Yvn4eR05A3M)]<br>
+* [**VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**](https://arxiv.org/abs/2307.05973) [**arXiv 2023**] [[**Project page**](https://voxposer.github.io/)] [[**Online Demo**](https://www.youtube.com/watch?v=Yvn4eR05A3M)]<br>
 Wenlong Huang<sup>1</sup>, Chen Wang<sup>1</sup>, Ruohan Zhang<sup>1</sup>, Yunzhu Li<sup>1,2</sup>, Jiajun Wu<sup>1</sup>, Li Fei-Fei<sup>1</sup> <br>
 <sup>1</sup>Stanford University <sup>2</sup>University of Illinois Urbana-Champaign
 
 * [**Palm-e: An embodied multimodal language mode**](https://arxiv.org/pdf/2303.03378.pdf) [**ICML 2023**] [[**Project page**](https://palm-e.github.io)]<br>
 <sup>1</sup>Robotics at Google <sup>2</sup>TU Berlin 3Google Research    
 
-* [**Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**](https://arxiv.org/pdf/2305.14078.pdf) [**Arxiv 2023**] <br>
+* [**Large Language Models as Commonsense Knowledge for Large-Scale Task Planning**](https://arxiv.org/pdf/2305.14078.pdf) [**arXiv 2023**] <br>
 Zirui Zhao Wee Sun Lee David Hsu <br>
 School of Computing National University of Singapore
 
@@ -228,7 +228,7 @@ School of Computing National University of Singapore
 > ###  Multi-Agent Learning and Coordination
 
 
-* [**War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars**](https://arxiv.org/pdf/2311.17227.pdf) [**Arxiv 2023**]<br>
+* [**War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars**](https://arxiv.org/pdf/2311.17227.pdf) [**arXiv 2023**]<br>
 Wenyue Hua<sup>1*</sup>, Lizhou Fan<sup>2*</sup>, Lingyao Li<sup>2</sup>, Kai Mei<sup>1</sup>, Jianchao Ji<sup>1</sup>, Yingqiang Ge<sup>1</sup>, Libby Hemphill<sup>2</sup>, Yongfeng Zhang<sup>1</sup><br>
 <sup>1</sup>Rutgers University, <sup>2</sup>University of Michigan
 
@@ -245,7 +245,7 @@ Andrew Szot<sup>1,2</sup> Unnat Jain<sup>1</sup> Dhruv Batra<sup>1,2</sup> Zsolt
 
 > ### Vision and Language Navigation
 
-* [**IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without any Outdoor Experience**](http://arxiv.org/abs/2305.01098) [**Arxiv 2023**] <br>
+* [**IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without any Outdoor Experience**](http://arxiv.org/abs/2305.01098) [**arXiv 2023**] <br>
 Joanne Truong<sup>1,2</sup>, April Zitkovich<sup>1</sup>, Sonia Chernova<sup>2</sup>, Dhruv Batra<sup>2,3</sup>, Tingnan Zhang<sup>1</sup>, Jie Tan<sup>1</sup>, Wenhao Yu<sup>1</sup><br>
 <sup>1</sup>Robotics at Google <sup>2</sup>Georgia Institute of Technology <sup>3</sup>Meta AI
 
@@ -256,24 +256,24 @@ Kaiwen Zhou<sup>1</sup>, Kaizhi Zheng<sup>1</sup>, Connor Pryor<sup>1</sup>, Yil
 
 
 * [**NavGPT: Explicit Reasoning in Vision-and-Language
-Navigation with Large Language Models**](https://arxiv.org/pdf/2305.16986.pdf) [**Arxiv 2023**] <br>
+Navigation with Large Language Models**](https://arxiv.org/pdf/2305.16986.pdf) [**arXiv 2023**] <br>
 Gengze Zhou<sup>1</sup> Yicong Hong<sup>2</sup> Qi Wu<sup>1</sup> <br>
 <sup>1</sup>The University of Adelaide <sup>2</sup>The Australian National University
 
 
-* [**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**](https://arxiv.org/pdf/2305.11176.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/OpenGVLab/Instruct2Act)]    
+* [**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**](https://arxiv.org/pdf/2305.11176.pdf) [**arXiv 2023**] [[**Github**](https://github.com/OpenGVLab/Instruct2Act)]    
 Siyuan Huang<sup>1,2</sup> Zhengkai Jiang<sup>4</sup> Hao Dong<sup>3</sup> Yu Qiao<sup>2</sup> Peng Gao<sup>2</sup> Hongsheng Li<sup>5</sup> <br>
 <sup>1</sup>Shanghai Jiao Tong University, <sup>2</sup>Shanghai AI Laboratory, <sup>3</sup>CFCS, School of CS, PKU,
 <sup>4</sup>University of Chinese Academy of Sciences, <sup>5</sup>The Chinese University of Hong Kong
 
 > ### Detection
-* [**DetGPT: Detect What You Need via Reasoning**](https://arxiv.org/pdf/2305.14167.pdf) [**Arxiv 2023**] <br>
+* [**DetGPT: Detect What You Need via Reasoning**](https://arxiv.org/pdf/2305.14167.pdf) [**arXiv 2023**] <br>
 Renjie Pi<sup>1∗</sup> Jiahui Gao<sup>2*</sup> Shizhe Diao<sup>1∗</sup> Rui Pan<sup>1</sup> Hanze Dong<sup>1</sup> Jipeng Zhang<sup>1</sup> Lewei Yao<sup>1</sup> Jianhua Han<sup>3</sup> Hang Xu<sup>2</sup>
 Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 <sup>1</sup>The Hong Kong University of Science and Technology <sup>2</sup>The University of Hong Kong 3Shanghai Jiao Tong University
 
 > ### 3D Grounding
-* [**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**](https://arxiv.org/pdf/2309.12311.pdf) [**Arxiv 2023**]  <br>
+* [**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**](https://arxiv.org/pdf/2309.12311.pdf) [**arXiv 2023**]  <br>
 Jianing Yang<sup>1,*</sup>, Xuweiyi Chen<sup>1,*</sup>, Shengyi Qian<sup>1</sup>, Nikhil Madaan, Madhavan Iyengar<sup>1</sup>, David F. Fouhey<sup>1,2</sup>, Joyce Chai<sup>1</sup><br>
 <sup>1</sup>University of Michigan, <sup>2</sup>New York University
 
@@ -313,7 +313,7 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 > ### Benchmark
 
 
-* [**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**](https://arxiv.org/pdf/2311.01455.pdf) [**Arxiv 2023**] [[**Project page**](https://robogen-ai.github.io/)] [[**Github**](https://github.com/Genesis-Embodied-AI/RoboGen)] <br> 
+* [**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**](https://arxiv.org/pdf/2311.01455.pdf) [**arXiv 2023**] [[**Project page**](https://robogen-ai.github.io/)] [[**Github**](https://github.com/Genesis-Embodied-AI/RoboGen)] <br> 
 Yufei Wang<sup>1</sup>, Zhou Xian<sup>1</sup>, Feng Chen<sup>2</sup>, Tsun-Hsuan Wang<sup>3</sup>, Yian Wang<sup>4</sup>, Katerina Fragkiadaki<sup>1</sup>, Zackory Erickson<sup>1</sup>, David Held<sup>1</sup>, Chuang Gan<sup>4,5</sup> <br>
 <sup>1</sup>CMU, <sup>2</sup>Tsinghua IIIS, <sup>3</sup>MIT CSAIL, <sup>4</sup>UMass Amherst, <sup>5</sup>MIT-IBM AI Lab
 
@@ -352,7 +352,7 @@ Institute of Computing Technology, CAS,
 <sup>2</sup>University of Chinese Academy of Sciences, <sup>3</sup>Beijing Academy of Artificial Intelligence
 
 > ### Simulator
-* [**AI2-THOR: An Interactive 3D Environment for Visual AI**](https://arxiv.org/abs/1712.05474) [**Arxiv 2022**] [[**Project page**](http://ai2thor.allenai.org/)] [[**Github**](https://github.com/allenai/ai2thor)]<br> 
+* [**AI2-THOR: An Interactive 3D Environment for Visual AI**](https://arxiv.org/abs/1712.05474) [**arXiv 2022**] [[**Project page**](http://ai2thor.allenai.org/)] [[**Github**](https://github.com/allenai/ai2thor)]<br> 
 Allen Institute for AI, University of Washington, Stanford University, Carnegie Mellon University<br>
 
 * [**iGibson, a Simulation Environment for Interactive Tasks in Large Realistic Scenes**](https://ieeexplore.ieee.org/document/9636667) [**IROS 2021**] [[**Project page**](https://svl.stanford.edu/igibson/)] [[**Github**](https://link.zhihu.com/?target=https%3A//github.com/StanfordVL/iGibson/releases/tag/1.0.0)]<br> 
@@ -373,13 +373,13 @@ Google Research, Brain Team
 Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du<sup>2</sup>, Izhak Shafran<sup>2</sup>, Karthik Narasimhan<sup>1</sup>, Yuan Cao<sup>2</sup> <br>
 <sup>1</sup>Department of Computer Science, Princeton University <sup>2</sup>, Google Research, Brain team
 
-* [**Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models**](https://arxiv.org/pdf/2308.10379.pdf) [**Arxiv 2023**] <br>
+* [**Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models**](https://arxiv.org/pdf/2308.10379.pdf) [**arXiv 2023**] <br>
 Virginia Tech, Microsoft
 
-* [**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**](https://arxiv.org/abs/2308.09687.pdf) [**Arxiv 2023**] <br>
+* [**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**](https://arxiv.org/abs/2308.09687.pdf) [**arXiv 2023**] <br>
 ETH Zurich, Cledar, Warsaw University of Technology
 
-* [**Tree of Thoughts: Deliberate Problem Solving with Large Language Models**](https://arxiv.org/pdf/2305.10601.pdf) [**Arxiv 2023**] <br>
+* [**Tree of Thoughts: Deliberate Problem Solving with Large Language Models**](https://arxiv.org/pdf/2305.10601.pdf) [**arXiv 2023**] <br>
 Shunyu Yao<sup>1</sup>, Dian Yu<sup>2</sup>, Jeffrey Zhao<sup>2</sup>, Izhak Shafran<sup>2</sup>, Thomas L. Griffiths<sup>1</sup>, Yuan Cao<sup>2</sup>, Karthik Narasimhan<sup>1</sup> <br>
 <sup>1</sup>Princeton University, <sup>2</sup>Google DeepMind
 
@@ -405,7 +405,7 @@ Haoyi Zhu<sup>5</sup>
 * [**Distilling Internet-Scale Vision-Language Models into Embodied Agents**](https://openreview.net/pdf?id=6vVkGnEpP7) [**ICML 2023**] <br>
 Theodore Sumers<sup>1∗</sup> Kenneth Marino<sup>2</sup> Arun Ahuja<sup>2</sup> Rob Fergus<sup>2</sup> Ishita Dasgupta<sup>2</sup> <br>
 
-* [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) [**Arxiv 2023**] [[**Github**](https://github.com/dvlab-research/LISA)] [[**Huggingface Models**](https://huggingface.co/xinlai)] [[**Dataset**](https://drive.google.com/drive/folders/125mewyg5Ao6tZ3ZdJ-1-E3n04LGVELqy?usp=sharing)] [[**Online Demo**](http://103.170.5.190:7860/)]     
+* [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) [**arXiv 2023**] [[**Github**](https://github.com/dvlab-research/LISA)] [[**Huggingface Models**](https://huggingface.co/xinlai)] [[**Dataset**](https://drive.google.com/drive/folders/125mewyg5Ao6tZ3ZdJ-1-E3n04LGVELqy?usp=sharing)] [[**Online Demo**](http://103.170.5.190:7860/)]     
 TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<sup>1</sup> Yuhui Yuan<sup>3</sup> Shu Liu<sup>2</sup> Jiaya Jia<sup>1,2</sup> <br>
 <sup>1</sup>The Chinese University of Hong Kong <sup>2</sup>SmartMore <sup>3</sup>MSRA<br>
 
