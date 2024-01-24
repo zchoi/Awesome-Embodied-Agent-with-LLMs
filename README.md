@@ -408,9 +408,9 @@ Theodore Sumers<sup>1∗</sup> Kenneth Marino<sup>2</sup> Arun Ahuja<sup>2</sup>
 TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<sup>1</sup> Yuhui Yuan<sup>3</sup> Shu Liu<sup>2</sup> Jiaya Jia<sup>1,2</sup> <br>
 <sup>1</sup>The Chinese University of Hong Kong <sup>2</sup>SmartMore <sup>3</sup>MSRA<br>
 
-## Star History
+<!--## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zchoi/Awesome-Embodied-Agent-with-LLMs&type=Date)](https://star-history.com/#zchoi/Awesome-Embodied-Agent-with-LLMs&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zchoi/Awesome-Embodied-Agent-with-LLMs&type=Date)](https://star-history.com/#zchoi/Awesome-Embodied-Agent-with-LLMs&Date)-->
 
 
 > ### Acknowledge
