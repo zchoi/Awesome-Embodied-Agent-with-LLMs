@@ -31,6 +31,9 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 > ### Survey
 
+* [**Agent AI: Surveying the Horizons of Multimodal Interaction**](https://arxiv.org/pdf/2401.03568.pdf) [**arXiv 2024**]<br>
+Stanford University, Microsoft Research, Redmond, University of California, Los Angeles, University of Washington, Microsoft Gaming
+
 * [**Igniting Language Intelligence: The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents**](https://arxiv.org/pdf/2311.11797.pdf) [**arXiv 2023**]<br>
 Shanghai Jiao Tong University, Amazon Web Services, Yale University
 
