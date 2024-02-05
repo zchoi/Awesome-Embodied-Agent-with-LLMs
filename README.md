@@ -50,8 +50,14 @@ Tencent
 
 > ### LLMs with RL or World Model
 
+* [**Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**](https://openreview.net/forum?id=zDbsSscmuj) [**NeurIPS 2023**] [[**Project Page**](https://guansuns.github.io/pages/llm-dm/)][[**Github**](https://github.com/GuanSuns/LLMs-World-Models-for-Planning)]<br>
+Lin_Guan<sup>1</sup>, Karthik Valmeekam<sup>1</sup>, Sarath Sreedharan<sup>2</sup>, Subbarao Kambhampati<sup>1</sup><br>
+<sup>1</sup>School of Computing & AI Arizona State University Tempe, AZ, <sup>2</sup>Department of Computer Science Colorado State University Fort Collins, CO
+
+
 * [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://eureka-research.github.io/assets/eureka_paper.pdf) [[**Project page**](https://eureka-research.github.io/)] [[**Github**](https://github.com/eureka-research/Eureka)] <br>
-Jason Ma<sup>1,2</sup>, William Liang<sup>2</sup>, Guanzhi Wang<sup>1,3</sup>, De-An Huang<sup>1</sup>, Osbert Bastani<sup>2</sup>, Dinesh Jayaraman<sup>2</sup>, Yuke Zhu<sup>1,4</sup>, Linxi "Jim" Fan<sup>1</sup>, Anima Anandkumar<sup>1</sup><br>
+Jason Ma<sup>1,2</sup>, William Liang<sup>2</sup>, Guanzhi Wang<sup>1,3</sup>, De-An Huang<sup>1</sup>,
+Osbert Bastani<sup>2</sup>, Dinesh Jayaraman<sup>2</sup>, Yuke Zhu<sup>1,4</sup>, Linxi "Jim" Fan<sup>1</sup>, Anima Anandkumar<sup>1,3</sup><br>
 <sup>1</sup>NVIDIA; <sup>2</sup>UPenn; <sup>3</sup>Caltech; <sup>4</sup>UT Austin
 
 * [**RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds**](https://openreview.net/pdf?id=3s4fZTr1ce) [**arXiv 2023**] <br>
