@@ -233,6 +233,9 @@ Wenlong Huang<sup>1</sup>, Chen Wang<sup>1</sup>, Ruohan Zhang<sup>1</sup>, Yunz
 Zirui Zhao Wee Sun Lee David Hsu <br>
 School of Computing National University of Singapore
 
+* [**LEO: An Embodied Generalist Agent in 3D World**](https://arxiv.org/abs/2311.12871) [**arXiv 2023**] <br>
+Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, Qing Li, Song-Chun Zhu, Baoxiong Jia, Siyuan Huang
+Beijing Institute for General Artificial Intelligence (BIGAI)   
 
 > ###  Multi-Agent Learning and Coordination
 
@@ -275,6 +278,10 @@ Siyuan Huang<sup>1,2</sup> Zhengkai Jiang<sup>4</sup> Hao Dong<sup>3</sup> Yu Qi
 <sup>1</sup>Shanghai Jiao Tong University, <sup>2</sup>Shanghai AI Laboratory, <sup>3</sup>CFCS, School of CS, PKU,
 <sup>4</sup>University of Chinese Academy of Sciences, <sup>5</sup>The Chinese University of Hong Kong
 
+* [**LEO: An Embodied Generalist Agent in 3D World**](https://arxiv.org/abs/2311.12871) [**arXiv 2023**] <br>
+Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, Qing Li, Song-Chun Zhu, Baoxiong Jia, Siyuan Huang
+Beijing Institute for General Artificial Intelligence (BIGAI)   
+
 > ### Detection
 * [**DetGPT: Detect What You Need via Reasoning**](https://arxiv.org/pdf/2305.14167.pdf) [**arXiv 2023**] <br>
 Renjie Pi<sup>1∗</sup> Jiahui Gao<sup>2*</sup> Shizhe Diao<sup>1∗</sup> Rui Pan<sup>1</sup> Hanze Dong<sup>1</sup> Jipeng Zhang<sup>1</sup> Lewei Yao<sup>1</sup> Jianhua Han<sup>3</sup> Hang Xu<sup>2</sup>
@@ -285,6 +292,14 @@ Lingpeng Kong<sup>2</sup> Tong Zhang<sup>1</sup> <br>
 * [**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**](https://arxiv.org/pdf/2309.12311.pdf) [**arXiv 2023**]  <br>
 Jianing Yang<sup>1,*</sup>, Xuweiyi Chen<sup>1,*</sup>, Shengyi Qian<sup>1</sup>, Nikhil Madaan, Madhavan Iyengar<sup>1</sup>, David F. Fouhey<sup>1,2</sup>, Joyce Chai<sup>1</sup><br>
 <sup>1</sup>University of Michigan, <sup>2</sup>New York University
+
+* [**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**](https://arxiv.org/abs/2308.04352) [**ICCV 2023**] <br>
+Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, Qing Li
+Beijing Institute for General Artificial Intelligence (BIGAI) 
+
+* [**LEO: An Embodied Generalist Agent in 3D World**](https://arxiv.org/abs/2311.12871) [**arXiv 2023**] <br>
+Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, Qing Li, Song-Chun Zhu, Baoxiong Jia, Siyuan Huang
+Beijing Institute for General Artificial Intelligence (BIGAI) 
 
 > ### Interactive Embodied Learning
 
