@@ -31,6 +31,9 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 > ### Survey
 
+* [**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116v1.pdf) [**arXiv 2024**]<br>
+The Chinese University of Hong Kong, Shenzhen, Shenzhen Research Institute of Big Data, Sun Yat-sen University
+
 * [**Agent AI: Surveying the Horizons of Multimodal Interaction**](https://arxiv.org/pdf/2401.03568.pdf) [**arXiv 2024**]<br>
 Stanford University, Microsoft Research, Redmond, University of California, Los Angeles, University of Washington, Microsoft Gaming
 
