@@ -239,6 +239,10 @@ Beijing Institute for General Artificial Intelligence (BIGAI)
 
 > ###  Multi-Agent Learning and Coordination
 
+* [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://openreview.net/forum?id=EnXJfQqy0K) [**ICLR 2024**] [[**Project page**](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] [[**Github**](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]<br>
+Hongxin Zhang<sup>1*</sup>, Weihua Du<sup>2*</sup>, Jiaming Shan<sup>3</sup>, Qinhong Zhou<sup>1</sup>, Yilun Du<sup>4</sup>, Joshua B. Tenenbaum<sup>4</sup>, Tianmin Shu<sup>4</sup>, Chuang Gan<sup>1,5</sup><br>
+<sup>1</sup>University of Massachusetts Amherst, <sup>2</sup>Tsinghua University, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>MIT, <sup>5</sup>MIT-IBM Watson AI Lab
+
 
 * [**War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars**](https://arxiv.org/pdf/2311.17227.pdf) [**arXiv 2023**]<br>
 Wenyue Hua<sup>1*</sup>, Lizhou Fan<sup>2*</sup>, Lingyao Li<sup>2</sup>, Kai Mei<sup>1</sup>, Jianchao Ji<sup>1</sup>, Yingqiang Ge<sup>1</sup>, Libby Hemphill<sup>2</sup>, Yongfeng Zhang<sup>1</sup><br>
