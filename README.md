@@ -4,7 +4,8 @@
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 ## News🔥
-**[2024/3/13]** Add the paper CRADLE! An interesting paper exploring LLM-based agent in Red Dead Redemption II！
+**[2024/4/15]** Add the paper MetaGPT, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category.
+**[2024/3/13]** Add the paper CRADLE. An interesting paper exploring LLM-based agent in Red Dead Redemption II！
 
 
 ## Table of Contents 🍃
@@ -246,6 +247,11 @@ Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, 
 Beijing Institute for General Artificial Intelligence (BIGAI)   
 
 > ###  Multi-Agent Learning and Coordination
+
+* [**MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**](https://openreview.net/forum?id=VtmBAGCN7o) [**ICLR 2024 (oral)**]<br>
+DeepWisdom, AI Initiative, King Abdullah University of Science and Technology, Xiamen University, The Chinese University of Hong Kong, Shenzhen, Nanjing University, University of Pennsylvania, University of California, Berkeley, The Swiss AI Lab IDSIA/USI/SUPSI
+
+
 
 * [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://openreview.net/forum?id=EnXJfQqy0K) [**ICLR 2024**] [[**Project page**](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] [[**Github**](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]<br>
 Hongxin Zhang<sup>1*</sup>, Weihua Du<sup>2*</sup>, Jiaming Shan<sup>3</sup>, Qinhong Zhou<sup>1</sup>, Yilun Du<sup>4</sup>, Joshua B. Tenenbaum<sup>4</sup>, Tianmin Shu<sup>4</sup>, Chuang Gan<sup>1,5</sup><br>
