@@ -4,7 +4,7 @@
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 ## News🔥
-**[2024/4/15]** Add the paper MetaGPT, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category.
+**[2024/4/15]** Add the paper MetaGPT, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. <br>
 **[2024/3/13]** Add the paper CRADLE. An interesting paper exploring LLM-based agent in Red Dead Redemption II！
 
 
