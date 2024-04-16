@@ -4,6 +4,7 @@
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 ## News🔥
+**[2024/4/16]** Add some CVPR 2024 papers.
 **[2024/4/15]** Add the paper MetaGPT, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. <br>
 **[2024/3/13]** Add the paper CRADLE. An interesting paper exploring LLM-based agent in Red Dead Redemption II！
 
@@ -52,16 +53,23 @@ Fudan NLP Group, miHoYo Inc
 Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Advanced Agent Applications
+
+* [**MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**](https://openreview.net/forum?id=VtmBAGCN7o) [**ICLR 2024 (oral)**]<br>
+DeepWisdom, AI Initiative, King Abdullah University of Science and Technology, Xiamen University, The Chinese University of Hong Kong, Shenzhen, Nanjing University, University of Pennsylvania, University of California, Berkeley, The Swiss AI Lab IDSIA/USI/SUPSI
+
 * [**AppAgent: Multimodal Agents as Smartphone Users**](https://arxiv.org/pdf/2312.13771.pdf) [[**Project page**](https://appagent-official.github.io/)] [[**Github**](https://github.com/mnotgod96/AppAgent)] <br>
 Chi Zhang∗ ZhaoYang∗ JiaxuanLiu∗ YuchengHan XinChen Zebiao Huang BinFu GangYu†<br>
 Tencent
 
 > ### LLMs with RL or World Model
 
+* [**Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld**](https://arxiv.org/pdf/2311.16714.pdf) [**CVPR 2024**] [[**Github**](https://github.com/stevenyangyj/Emma-Alfworld)]<br>
+Yijun Yang<sup>154</sup>, Tianyi Zhou<sup>2</sup>, Kanxue Li<sup>3</sup>, Dapeng Tao<sup>3</sup>, Lvsong Li<sup>4</sup>, Li Shen<sup>4</sup>, Xiaodong He<sup>4</sup>, Jing Jiang<sup>5</sup>, Yuhui Shi<sup>1</sup><br>
+<sup>1</sup>Southern University of Science and Technology, <sup>2</sup>University of Maryland, College Park, <sup>3</sup>Yunnan University, <sup>4</sup>JD Explore Academy, <sup>5</sup>University of Technology Sydney
+
 * [**Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning**](https://openreview.net/forum?id=zDbsSscmuj) [**NeurIPS 2023**] [[**Project Page**](https://guansuns.github.io/pages/llm-dm/)][[**Github**](https://github.com/GuanSuns/LLMs-World-Models-for-Planning)]<br>
 Lin_Guan<sup>1</sup>, Karthik Valmeekam<sup>1</sup>, Sarath Sreedharan<sup>2</sup>, Subbarao Kambhampati<sup>1</sup><br>
 <sup>1</sup>School of Computing & AI Arizona State University Tempe, AZ, <sup>2</sup>Department of Computer Science Colorado State University Fort Collins, CO
-
 
 * [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://eureka-research.github.io/assets/eureka_paper.pdf) [[**Project page**](https://eureka-research.github.io/)] [[**Github**](https://github.com/eureka-research/Eureka)] <br>
 Jason Ma<sup>1,2</sup>, William Liang<sup>2</sup>, Guanzhi Wang<sup>1,3</sup>, De-An Huang<sup>1</sup>,
@@ -247,11 +255,6 @@ Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, 
 Beijing Institute for General Artificial Intelligence (BIGAI)   
 
 > ###  Multi-Agent Learning and Coordination
-
-* [**MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**](https://openreview.net/forum?id=VtmBAGCN7o) [**ICLR 2024 (oral)**]<br>
-DeepWisdom, AI Initiative, King Abdullah University of Science and Technology, Xiamen University, The Chinese University of Hong Kong, Shenzhen, Nanjing University, University of Pennsylvania, University of California, Berkeley, The Swiss AI Lab IDSIA/USI/SUPSI
-
-
 
 * [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://openreview.net/forum?id=EnXJfQqy0K) [**ICLR 2024**] [[**Project page**](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] [[**Github**](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]<br>
 Hongxin Zhang<sup>1*</sup>, Weihua Du<sup>2*</sup>, Jiaming Shan<sup>3</sup>, Qinhong Zhou<sup>1</sup>, Yilun Du<sup>4</sup>, Joshua B. Tenenbaum<sup>4</sup>, Tianmin Shu<sup>4</sup>, Chuang Gan<sup>1,5</sup><br>
