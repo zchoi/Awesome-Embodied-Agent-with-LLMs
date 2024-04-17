@@ -116,7 +116,7 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
-* [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**] [**CVPR 2024**] <br>
+* [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**](https://peihaochen.github.io/files/publications/RILA.pdf) [**CVPR 2024**] <br>
 Zeyuan Yang<sup>1</sup>, LIU JIAGENG, Peihao Chen<sup>2</sup>, Anoop Cherian<sup>3</sup>, Tim Marks, Jonathan Le Roux<sup>4</sup>, Chuang Gan<sup>5</sup>
 <sup>1</sup>Tsinghua University, <sup>2</sup>South China University of Technology, <sup>3</sup>Mitsubishi Electric Research Labs (MERL), <sup>4</sup>Mitsubishi Electric Research Labs, <sup>5</sup>MIT-IBM Watson AI Lab 
 
