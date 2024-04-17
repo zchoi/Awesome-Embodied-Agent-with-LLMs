@@ -116,6 +116,10 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**] [**CVPR 2024**] <br>
+Zeyuan Yang<sup>1</sup>, LIU JIAGENG, Peihao Chen<sup>2</sup>, Anoop Cherian<sup>3</sup>, Tim Marks, Jonathan Le Roux<sup>4</sup>, Chuang Gan<sup>5</sup>
+<sup>1</sup>Tsinghua University, <sup>2</sup>South China University of Technology, <sup>3</sup>Mitsubishi Electric Research Labs (MERL), <sup>4</sup>Mitsubishi Electric Research Labs, <sup>5</sup>MIT-IBM Watson AI Lab 
+
 * [**Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study**](https://arxiv.org/pdf/2403.03186.pdf) [**arXiv 2024**] [[**Project Page**]](https://baai-agents.github.io/Cradle/) [[**Code**]](https://baai-agents.github.io/Cradle/) <br>
 Weihao Tan<sup>2</sup>, Ziluo Ding<sup>1</sup>, Wentao Zhang<sup>2</sup>, Boyu Li<sup>1</sup>, Bohan Zhou<sup>3</sup>, Junpeng Yue<sup>3</sup>, Haochong Xia<sup>2</sup>, Jiechuan Jiang<sup>3</sup>, Longtao Zheng<sup>2</sup>, Xinrun Xu1, Yifei Bi<sup>1</sup>, Pengjie Gu<sup>2</sup>,<br>
 <sup>1</sup>Beijing Academy of Artificial Intelligence (BAAI), China; <sup>2</sup>Nanyang Technological University, Singapore; <sup>3</sup>School of Computer Science, Peking University, China
