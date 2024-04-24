@@ -4,9 +4,10 @@
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 ## News🔥
+**[2024/4/24]** Add the paper "**A Survey on Self-Evolution of Large Language Models**", a systematic survey on self-evolution in LLMs!<br>
 **[2024/4/16]** Add some CVPR 2024 papers. <br>
-**[2024/4/15]** Add the paper MetaGPT, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. <br>
-**[2024/3/13]** Add the paper CRADLE. An interesting paper exploring LLM-based agent in Red Dead Redemption II！
+**[2024/4/15]** Add the paper **MetaGPT**, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. <br>
+**[2024/3/13]** Add the paper **CRADLE**, an interesting paper exploring LLM-based agent in Red Dead Redemption II！
 
 
 ## Table of Contents 🍃
@@ -37,8 +38,8 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 > ### Survey
 
-* [**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116v1.pdf) [**arXiv 2024**]<br>
-The Chinese University of Hong Kong, Shenzhen, Shenzhen Research Institute of Big Data, Sun Yat-sen University
+* [**A Survey on Self-Evolution of Large Language Models**](https://arxiv.org/pdf/2404.14387.pdf) [**arXiv 2024**]<br>
+Key Lab of HCST (PKU), MOE; School of Computer Science, Peking University, Alibaba Group, Nanyang Technological University
 
 * [**Agent AI: Surveying the Horizons of Multimodal Interaction**](https://arxiv.org/pdf/2401.03568.pdf) [**arXiv 2024**]<br>
 Stanford University, Microsoft Research, Redmond, University of California, Los Angeles, University of Washington, Microsoft Gaming
