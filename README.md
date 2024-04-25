@@ -117,6 +117,15 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**](https://arxiv.org/pdf/2403.12037.pdf) [**arXiv 2024**] [[**Project Page**](https://sites.google.com/view/minedreamer/main)] <br>
+  Enshen Zhou<sup>1,2</sup> Yiran Qin<sup>1,3</sup> Zhenfei Yin<sup>1,4</sup> Yuzhou Huang<sup>3</sup> Ruimao Zhang<sup>3</sup> Lu Sheng<sup>2</sup> Yu Qiao<sup>1</sup>  Jing Shao<sup>1</sup><br>
+  <sup>1</sup>Shanghai Artificial Intelligence Laboratory, <sup>2</sup>The Chinese University of Hong Kong, Shenzhen, <sup>3</sup>Beihang University, <sup>4</sup>The University of Sydney
+
+* [**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**](https://arxiv.org/pdf/2312.07472.pdf) [**CVPR 2024**] [[**Project Page**](https://iranqin.github.io/MP5.github.io/)] <br>
+  Yiran Qin<sup>1,2</sup> Enshen Zhou<sup>1,3</sup> Qichang Liu<sup>1,4</sup> Zhenfei Yin<sup>1,5</sup> Lu Sheng<sup>3</sup> Ruimao Zhang<sup>2</sup> Yu Qiao<sup>1</sup>  Jing Shao<sup>1</sup><br>
+  <sup>1</sup>Shanghai Artificial Intelligence Laboratory, <sup>2</sup>The Chinese University of Hong Kong, Shenzhen, <sup>3</sup>Beihang University, <sup>4</sup>Tsinghua University, <sup>5</sup>The University of Sydney
+
+
 * [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**](https://peihaochen.github.io/files/publications/RILA.pdf) [**CVPR 2024**] <br>
 Zeyuan Yang<sup>1</sup>, LIU JIAGENG, Peihao Chen<sup>2</sup>, Anoop Cherian<sup>3</sup>, Tim Marks, Jonathan Le Roux<sup>4</sup>, Chuang Gan<sup>5</sup>
 <sup>1</sup>Tsinghua University, <sup>2</sup>South China University of Technology, <sup>3</sup>Mitsubishi Electric Research Labs (MERL), <sup>4</sup>Mitsubishi Electric Research Labs, <sup>5</sup>MIT-IBM Watson AI Lab 
