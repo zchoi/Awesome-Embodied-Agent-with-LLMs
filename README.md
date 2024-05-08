@@ -63,6 +63,10 @@ Chi Zhang∗ ZhaoYang∗ JiaxuanLiu∗ YuchengHan XinChen Zebiao Huang BinFu Gan
 Tencent
 
 > ### LLMs with RL or World Model
+> 
+* [**Robust agents learn causal world models**](https://openreview.net/attachment?id=pOoKI3ouv1&name=pdf) [**ICLR 2024**]<br>
+Jonathan Richens*, TomEveritt <br>
+Google DeepMind
 
 * [**Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld**](https://arxiv.org/pdf/2311.16714.pdf) [**CVPR 2024**] [[**Github**](https://github.com/stevenyangyj/Emma-Alfworld)]<br>
 Yijun Yang<sup>154</sup>, Tianyi Zhou<sup>2</sup>, Kanxue Li<sup>3</sup>, Dapeng Tao<sup>3</sup>, Lvsong Li<sup>4</sup>, Li Shen<sup>4</sup>, Xiaodong He<sup>4</sup>, Jing Jiang<sup>5</sup>, Yuhui Shi<sup>1</sup><br>
