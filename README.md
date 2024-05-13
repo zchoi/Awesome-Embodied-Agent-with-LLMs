@@ -4,6 +4,7 @@
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 ## News🔥
+**[2024/5/13]** Add the paper "**Learning Interactive Real-World Simulators**"——outstanding paper award in ICLR 2024 🥇.<br>
 **[2024/4/24]** Add the paper "**A Survey on Self-Evolution of Large Language Models**", a systematic survey on self-evolution in LLMs!<br>
 **[2024/4/16]** Add some CVPR 2024 papers. <br>
 **[2024/4/15]** Add the paper **MetaGPT**, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. <br>
@@ -64,7 +65,7 @@ Tencent
 
 > ### LLMs with RL or World Model
 
-* [**Learning Interactive Real-World Simulators**](https://openreview.net/attachment?id=sFyTZEqmUY&name=pdf) [**ICLR 2024 (Outstanding Papers 🥇)**] [[**Project Page**](https://universal-simulator.github.io/unisim/)]<br>
+* [**Learning Interactive Real-World Simulators**](https://openreview.net/attachment?id=sFyTZEqmUY&name=pdf) [**ICLR 2024 (Outstanding Papers)**] [[**Project Page**](https://universal-simulator.github.io/unisim/)]<br>
 Sherry Yang<sup>1,2</sup>, Yilun Du<sup>3</sup>, Kamyar Ghasemipour<sup>2</sup>, Jonathan Tompson<sup>2</sup>, Leslie Kaelbling<sup>3</sup>, Dale Schuurmans<sup>2</sup>, Pieter Abbeel<sup>1</sup><br>
 <sup>1</sup>UC Berkeley, <sup>2</sup>Google DeepMind, <sup>3</sup>MIT
 
