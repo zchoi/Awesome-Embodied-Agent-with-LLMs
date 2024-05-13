@@ -63,7 +63,11 @@ Chi Zhang∗ ZhaoYang∗ JiaxuanLiu∗ YuchengHan XinChen Zebiao Huang BinFu Gan
 Tencent
 
 > ### LLMs with RL or World Model
-> 
+
+* [**Learning Interactive Real-World Simulators**](https://openreview.net/attachment?id=sFyTZEqmUY&name=pdf) [**ICLR 2024 (Outstanding Papers 🥇)**] [[**Project Page**](https://universal-simulator.github.io/unisim/)]<br>
+Sherry Yang<sup>1,2</sup>, Yilun Du<sup>3</sup>, Kamyar Ghasemipour<sup>2</sup>, Jonathan Tompson<sup>2</sup>, Leslie Kaelbling<sup>3</sup>, Dale Schuurmans<sup>2</sup>, Pieter Abbeel<sup>1</sup><br>
+<sup>1</sup>UC Berkeley, <sup>2</sup>Google DeepMind, <sup>3</sup>MIT
+
 * [**Robust agents learn causal world models**](https://openreview.net/attachment?id=pOoKI3ouv1&name=pdf) [**ICLR 2024**]<br>
 Jonathan Richens*, TomEveritt <br>
 Google DeepMind
