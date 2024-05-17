@@ -56,6 +56,11 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Advanced Agent Applications
 
+* [**DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model**](https://arxiv.org/pdf/2404.01342) [**CVPR 2024**] [[**Github**](https://github.com/OpenGVLab/DiffAgent)] <br>
+Lirui Zhao<sup>1,2</sup> Yue Yang<sup>2,4</sup> Kaipeng Zhang<sup>2</sup> Wenqi Shao<sup>2</sup>, Yuxin Zhang<sup>1</sup>, Yu Qiao<sup>2</sup>, Ping Luo<sup>2,3</sup> Rongrong Ji<sup>1</sup><br>
+<sup>1</sup>Xiamen University, <sup>2</sup>OpenGVLab, Shanghai AI Laboratory <sup>3</sup>The University of Hong Kong, <sup>4</sup>Shanghai Jiao Tong University
+
+
 * [**MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**](https://openreview.net/forum?id=VtmBAGCN7o) [**ICLR 2024 (oral)**]<br>
 DeepWisdom, AI Initiative, King Abdullah University of Science and Technology, Xiamen University, The Chinese University of Hong Kong, Shenzhen, Nanjing University, University of Pennsylvania, University of California, Berkeley, The Swiss AI Lab IDSIA/USI/SUPSI
 
