@@ -130,6 +130,9 @@ Yuqing Du<sup>1*</sup>, Olivia Watkins<sup>1*</sup>, Zihan Wang<sup>2</sup>, Ced
 Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
+* [**Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization**](https://arxiv.org/abs/2402.17574) [**ACL 2024**][[**Github**](https://github.com/zwq2018/Agent-Pro)] Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu
+
+* [**Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**](https://arxiv.org/abs/2401.02009) [**ACL 2024**] Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu
 
 * [**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**](https://arxiv.org/pdf/2403.12037.pdf) [**arXiv 2024**] [[**Project Page**](https://sites.google.com/view/minedreamer/main)] <br>
   Enshen Zhou<sup>1,2</sup> Yiran Qin<sup>1,3</sup> Zhenfei Yin<sup>1,4</sup> Yuzhou Huang<sup>3</sup> Ruimao Zhang<sup>3</sup> Lu Sheng<sup>2</sup> Yu Qiao<sup>1</sup>  Jing Shao<sup>1</sup><br>
