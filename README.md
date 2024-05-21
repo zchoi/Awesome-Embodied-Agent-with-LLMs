@@ -281,7 +281,7 @@ Wenlong Huang<sup>1</sup>, Chen Wang<sup>1</sup>, Ruohan Zhang<sup>1</sup>, Yunz
 Zirui Zhao Wee Sun Lee David Hsu <br>
 School of Computing National University of Singapore
 
-* [**LEO: An Embodied Generalist Agent in 3D World**](https://arxiv.org/abs/2311.12871) [**arXiv 2023**] <br>
+* [**An Embodied Generalist Agent in 3D World**](https://arxiv.org/abs/2311.12871) [**ICML 2024**] <br>
 Jiangyong Huang, Silong Yong, Xiaojian Ma, Xiongkun Linghu, Puhao Li, Yan Wang, Qing Li, Song-Chun Zhu, Baoxiong Jia, Siyuan Huang
 Beijing Institute for General Artificial Intelligence (BIGAI)   
 
