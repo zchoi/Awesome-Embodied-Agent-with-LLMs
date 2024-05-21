@@ -86,7 +86,7 @@ Yijun Yang<sup>154</sup>, Tianyi Zhou<sup>2</sup>, Kanxue Li<sup>3</sup>, Dapeng
 Lin_Guan<sup>1</sup>, Karthik Valmeekam<sup>1</sup>, Sarath Sreedharan<sup>2</sup>, Subbarao Kambhampati<sup>1</sup><br>
 <sup>1</sup>School of Computing & AI Arizona State University Tempe, AZ, <sup>2</sup>Department of Computer Science Colorado State University Fort Collins, CO
 
-* [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://eureka-research.github.io/assets/eureka_paper.pdf) [[**Project page**](https://eureka-research.github.io/)] [[**Github**](https://github.com/eureka-research/Eureka)] <br>
+* [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://eureka-research.github.io/assets/eureka_paper.pdf) [**NeurIPS 2023 Workshop ALOE Spotlight**] [[**Project page**](https://eureka-research.github.io/)] [[**Github**](https://github.com/eureka-research/Eureka)] <br>
 Jason Ma<sup>1,2</sup>, William Liang<sup>2</sup>, Guanzhi Wang<sup>1,3</sup>, De-An Huang<sup>1</sup>,
 Osbert Bastani<sup>2</sup>, Dinesh Jayaraman<sup>2</sup>, Yuke Zhu<sup>1,4</sup>, Linxi "Jim" Fan<sup>1</sup>, Anima Anandkumar<sup>1,3</sup><br>
 <sup>1</sup>NVIDIA; <sup>2</sup>UPenn; <sup>3</sup>Caltech; <sup>4</sup>UT Austin
@@ -130,9 +130,16 @@ Yuqing Du<sup>1*</sup>, Olivia Watkins<sup>1*</sup>, Zihan Wang<sup>2</sup>, Ced
 Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
-* [**Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization**](https://arxiv.org/abs/2402.17574) [**ACL 2024**][[**Github**](https://github.com/zwq2018/Agent-Pro)] Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu
 
-* [**Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**](https://arxiv.org/abs/2401.02009) [**ACL 2024**] Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu
+* [**Voyager: An Open-Ended Embodied Agent with Large Language Models**](https://openreview.net/attachment?id=pAMNKGwja6&name=pdf) [**NeurIPS 2023 Workshop ALOE Spotlight**] [[**Project page**](https://voyager.minedojo.org/)] [[**Github**]](https://github.com/MineDojo/Voyager) <br>
+Guanzhi Wang<sup>1,2</sup>, Yuqi Xie<sup>3</sup>, Yunfan Jiang<sup>4</sup>, Ajay Mandlekar<sup>1</sup>, Chaowei Xiao<sup>1,5</sup>, Yuke Zhu<sup>1,3</sup>, Linxi Fan<sup>1</sup>, Anima Anandkumar<sup>1,2</sup>
+<sup>1</sup>NVIDIA, <sup>2</sup>Caltech, <sup>3</sup>UT Austin, <sup>4</sup>Stanford, <sup>5</sup>UW Madison
+
+* [**Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization**](https://arxiv.org/abs/2402.17574) [**ACL 2024**][[**Github**](https://github.com/zwq2018/Agent-Pro)] <br>
+Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu
+
+* [**Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**](https://arxiv.org/abs/2401.02009) [**ACL 2024**] <br>
+Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu
 
 * [**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**](https://arxiv.org/pdf/2403.12037.pdf) [**arXiv 2024**] [[**Project Page**](https://sites.google.com/view/minedreamer/main)] <br>
   Enshen Zhou<sup>1,2</sup> Yiran Qin<sup>1,3</sup> Zhenfei Yin<sup>1,4</sup> Yuzhou Huang<sup>3</sup> Ruimao Zhang<sup>3</sup> Lu Sheng<sup>2</sup> Yu Qiao<sup>1</sup>  Jing Shao<sup>1</sup><br>
