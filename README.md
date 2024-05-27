@@ -41,6 +41,10 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 > ### Survey
 
+* [**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116) [**arXiv 2024**]<br>
+Junlin Xie<sup>♣♡</sup> Zhihong Chen<sup>♣♡</sup> Ruifei Zhang<sup>♣♡</sup> Xiang Wan<sup>♣</sup> Guanbin Li<sup>♠</sup><br>
+<sup>♡</sup>The Chinese University of Hong Kong, Shenzhen <sup>♣</sup>Shenzhen Research Institute of Big Data, <sup>♠</sup>Sun Yat-sen University
+
 * [**A Survey on Self-Evolution of Large Language Models**](https://arxiv.org/pdf/2404.14387.pdf) [**arXiv 2024**]<br>
 Key Lab of HCST (PKU), MOE; School of Computer Science, Peking University, Alibaba Group, Nanyang Technological University
 
