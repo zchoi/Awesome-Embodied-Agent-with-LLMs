@@ -394,6 +394,9 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 
 > ### Benchmark
 
+* [**SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS**](https://openreview.net/pdf?id=0IOX0YcCdTn) [**ICLR 2024**]  [[**Github**](https://github.com/microsoft/SmartPlay)] <br> 
+Yue Wu<sup>1,2</sup>, Xuan Tang<sup>1</sup>, Tom Mitchell<sup>1</sup>, Yuanzhi Li<sup>1,2</sup>
+<sup>1</sup>Carnegie Mellon University, <sup>2</sup>Microsoft Research
 
 * [**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**](https://arxiv.org/pdf/2311.01455.pdf) [**arXiv 2023**] [[**Project page**](https://robogen-ai.github.io/)] [[**Github**](https://github.com/Genesis-Embodied-AI/RoboGen)] <br> 
 Yufei Wang<sup>1</sup>, Zhou Xian<sup>1</sup>, Feng Chen<sup>2</sup>, Tsun-Hsuan Wang<sup>3</sup>, Yian Wang<sup>4</sup>, Katerina Fragkiadaki<sup>1</sup>, Zackory Erickson<sup>1</sup>, David Held<sup>1</sup>, Chuang Gan<sup>4,5</sup> <br>
