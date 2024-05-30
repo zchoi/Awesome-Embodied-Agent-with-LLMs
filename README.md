@@ -394,7 +394,7 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 
 > ### Benchmark
 
-* [**SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS**](https://openreview.net/pdf?id=0IOX0YcCdTn) [**ICLR 2024**]  [[**Github**](https://github.com/microsoft/SmartPlay)] <br> 
+* [**SmartPlay: A Benchmark for LLMs as Intelligent Agents**](https://openreview.net/pdf?id=0IOX0YcCdTn) [**ICLR 2024**]  [[**Github**](https://github.com/microsoft/SmartPlay)] <br> 
 Yue Wu<sup>1,2</sup>, Xuan Tang<sup>1</sup>, Tom Mitchell<sup>1</sup>, Yuanzhi Li<sup>1,2</sup>
 <sup>1</sup>Carnegie Mellon University, <sup>2</sup>Microsoft Research
 
