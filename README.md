@@ -6,6 +6,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 
 ## News🔥
+**[2024/6/07]** Add the **Mobile-Agent-v2**, a mobile device operation assistant with effective navigation via multi-agent collaboration.<br>
 **[2024/5/13]** Add the paper "**Learning Interactive Real-World Simulators**"——outstanding paper award in ICLR 2024 🥇.<br>
 **[2024/4/24]** Add the paper "**A Survey on Self-Evolution of Large Language Models**", a systematic survey on self-evolution in LLMs!<br>
 **[2024/4/16]** Add some CVPR 2024 papers. <br>
@@ -44,7 +45,6 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 * [**A Survey on Vision-Language-Action Models for Embodied AI**](https://arxiv.org/pdf/2405.14093) [**arXiv 2024.03**]<br>
 The Chinese University of Hong Kong, Huawei Noah’s Ark Lab
 
-
 * [**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116) [**arXiv 2024.02**] [[**Github**](https://github.com/jun0wanan/awesome-large-multimodal-agents)]<br>
 Junlin Xie<sup>♣♡</sup> Zhihong Chen<sup>♣♡</sup> Ruifei Zhang<sup>♣♡</sup> Xiang Wan<sup>♣</sup> Guanbin Li<sup>♠</sup><br>
 <sup>♡</sup>The Chinese University of Hong Kong, Shenzhen <sup>♣</sup>Shenzhen Research Institute of Big Data, <sup>♠</sup>Sun Yat-sen University
@@ -66,8 +66,12 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Advanced Agent Applications
 
-* [**Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration**](https://arxiv.org/pdf/2406.01014) [**arXiv 2024**] [[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2)] <br>
+* [**Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration**](https://arxiv.org/pdf/2406.01014) [**arXiv 2024**] [[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2)]<br>
 Junyang Wang<sup>1</sup>, Haiyang Xu<sup>2</sup>, Haitao Jia<sup>1</sup>, Xi Zhang<sup>2</sup>, Ming Yan<sup>2</sup>, Weizhou Shen<sup>2</sup>, Ji Zhang<sup>2</sup>, Fei Huang<sup>2</sup>, Jitao Sang<sup>1</sup><br>
+<sup>1</sup>Beijing Jiaotong University <sup>2</sup>Alibaba Group
+
+* [**Mobile-Agent: The Powerful Mobile Device Operation Assistant Family**](https://arxiv.org/pdf/2406.01014) [**ICLR 2024 Workshop LLM Agents**] [[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2)]<br>
+Junyang Wang<sup>1</sup>, Haiyang Xu<sup>2</sup>, Jiabo Ye<sup>2</sup>, Ming Yan<sup>2</sup>, Weizhou Shen<sup>2</sup>, Ji Zhang<sup>2</sup>, Fei Huang<sup>2</sup>, Jitao Sang<sup>1</sup><br>
 <sup>1</sup>Beijing Jiaotong University <sup>2</sup>Alibaba Group
 
 * [**Machinascript-for-robots**] [[**Github**](https://github.com/babycommando/machinascript-for-robots)] <br>
