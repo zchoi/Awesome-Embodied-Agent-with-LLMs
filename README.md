@@ -66,6 +66,13 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Advanced Agent Applications
 
+* [**Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration**](https://arxiv.org/pdf/2406.01014) [**arXiv 2024**] [[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2)] <br>
+Junyang Wang<sup>1</sup>, Haiyang Xu<sup>2</sup>, Haitao Jia<sup>1</sup>, Xi Zhang<sup>2</sup>, Ming Yan<sup>2</sup>, Weizhou Shen<sup>2</sup>, Ji Zhang<sup>2</sup>, Fei Huang<sup>2</sup>, Jitao Sang<sup>1</sup><br>
+<sup>1</sup>Beijing Jiaotong University <sup>2</sup>Alibaba Group
+
+* [**Machinascript-for-robots**] [[**Github**](https://github.com/babycommando/machinascript-for-robots)] <br>
+Build LLM-powered robots in your garage with MachinaScript For Robots!
+
 * [**DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model**](https://arxiv.org/pdf/2404.01342) [**CVPR 2024**] [[**Github**](https://github.com/OpenGVLab/DiffAgent)] <br>
 Lirui Zhao<sup>1,2</sup> Yue Yang<sup>2,4</sup> Kaipeng Zhang<sup>2</sup> Wenqi Shao<sup>2</sup>, Yuxin Zhang<sup>1</sup>, Yu Qiao<sup>2</sup>, Ping Luo<sup>2,3</sup> Rongrong Ji<sup>1</sup><br>
 <sup>1</sup>Xiamen University, <sup>2</sup>OpenGVLab, Shanghai AI Laboratory <sup>3</sup>The University of Hong Kong, <sup>4</sup>Shanghai Jiao Tong University
