@@ -41,23 +41,27 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 > ### Survey
 
-* [**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116) [**arXiv 2024**] [[**Github**](https://github.com/jun0wanan/awesome-large-multimodal-agents)]<br>
+* [**A Survey on Vision-Language-Action Models for Embodied AI**](https://arxiv.org/pdf/2405.14093) [**arXiv 2024.03**]<br>
+The Chinese University of Hong Kong, Huawei Noah’s Ark Lab
+
+
+* [**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116) [**arXiv 2024.02**] [[**Github**](https://github.com/jun0wanan/awesome-large-multimodal-agents)]<br>
 Junlin Xie<sup>♣♡</sup> Zhihong Chen<sup>♣♡</sup> Ruifei Zhang<sup>♣♡</sup> Xiang Wan<sup>♣</sup> Guanbin Li<sup>♠</sup><br>
 <sup>♡</sup>The Chinese University of Hong Kong, Shenzhen <sup>♣</sup>Shenzhen Research Institute of Big Data, <sup>♠</sup>Sun Yat-sen University
 
-* [**A Survey on Self-Evolution of Large Language Models**](https://arxiv.org/pdf/2404.14387.pdf) [**arXiv 2024**]<br>
+* [**A Survey on Self-Evolution of Large Language Models**](https://arxiv.org/pdf/2404.14387.pdf) [**arXiv 2024.01**]<br>
 Key Lab of HCST (PKU), MOE; School of Computer Science, Peking University, Alibaba Group, Nanyang Technological University
 
-* [**Agent AI: Surveying the Horizons of Multimodal Interaction**](https://arxiv.org/pdf/2401.03568.pdf) [**arXiv 2024**]<br>
+* [**Agent AI: Surveying the Horizons of Multimodal Interaction**](https://arxiv.org/pdf/2401.03568.pdf) [**arXiv 2024.01**]<br>
 Stanford University, Microsoft Research, Redmond, University of California, Los Angeles, University of Washington, Microsoft Gaming
 
-* [**Igniting Language Intelligence: The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents**](https://arxiv.org/pdf/2311.11797.pdf) [**arXiv 2023**]<br>
+* [**Igniting Language Intelligence: The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents**](https://arxiv.org/pdf/2311.11797.pdf) [**arXiv 2023.11**]<br>
 Shanghai Jiao Tong University, Amazon Web Services, Yale University
 
-* [**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://arxiv.org/pdf/2309.07864.pdf) [**arXiv 2023**]<br>
+* [**The Rise and Potential of Large Language Model Based Agents: A Survey**](https://arxiv.org/pdf/2309.07864.pdf) [**arXiv 2023.09**]<br>
 Fudan NLP Group, miHoYo Inc
 
-* [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**arXiv 2023**] <br>
+* [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**arXiv 2023,08**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Advanced Agent Applications
