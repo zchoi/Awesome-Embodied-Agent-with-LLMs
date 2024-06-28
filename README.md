@@ -6,13 +6,13 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 
 ## News🔥
-[2024/6/28] 🤖 Created a new board about agent self-evolutionary research. <br>
-[2024/6/07] 🚀 Add **Mobile-Agent-v2**, a mobile device operation assistant with effective navigation via multi-agent collaboration.<br>
-[2024/5/13] 📑 Add "**Learning Interactive Real-World Simulators**"——outstanding paper award in ICLR 2024 🥇.<br>
-[2024/4/24] 📑 Add "**A Survey on Self-Evolution of Large Language Models**", a systematic survey on self-evolution in LLMs!<br>
+[2024/6/28] Created a new board about agent self-evolutionary research. 🤖 <br>
+[2024/6/07] Add **Mobile-Agent-v2**, a mobile device operation assistant with effective navigation via multi-agent collaboration. 🚀 <br>
+[2024/5/13] Add "**Learning Interactive Real-World Simulators**"——outstanding paper award in ICLR 2024 🥇.<br>
+[2024/4/24] Add "**A Survey on Self-Evolution of Large Language Models**", a systematic survey on self-evolution in LLMs! 💥<br>
 [2024/4/16] Add some CVPR 2024 papers. <br>
-[2024/4/15] 🚀 Add **MetaGPT**, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. <br>
-[2024/3/13] 🎮 Add **CRADLE**, an interesting paper exploring LLM-based agent in Red Dead Redemption II！
+[2024/4/15] Add **MetaGPT**, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. 🚀 <br>
+[2024/3/13] Add **CRADLE**, an interesting paper exploring LLM-based agent in Red Dead Redemption II！🎮
 
 
 ## Table of Contents 🍃
