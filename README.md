@@ -6,16 +6,18 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 
 ## News🔥
-**[2024/6/07]** Add the **Mobile-Agent-v2**, a mobile device operation assistant with effective navigation via multi-agent collaboration.<br>
-**[2024/5/13]** Add the paper "**Learning Interactive Real-World Simulators**"——outstanding paper award in ICLR 2024 🥇.<br>
-**[2024/4/24]** Add the paper "**A Survey on Self-Evolution of Large Language Models**", a systematic survey on self-evolution in LLMs!<br>
-**[2024/4/16]** Add some CVPR 2024 papers. <br>
-**[2024/4/15]** Add the paper **MetaGPT**, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. <br>
-**[2024/3/13]** Add the paper **CRADLE**, an interesting paper exploring LLM-based agent in Red Dead Redemption II！
+[2024/6/28] 🤖 Created a new board about agent self-evolutionary research. <br>
+[2024/6/07] 🚀 Add **Mobile-Agent-v2**, a mobile device operation assistant with effective navigation via multi-agent collaboration.<br>
+[2024/5/13] 📑 Add "**Learning Interactive Real-World Simulators**"——outstanding paper award in ICLR 2024 🥇.<br>
+[2024/4/24] 📑 Add "**A Survey on Self-Evolution of Large Language Models**", a systematic survey on self-evolution in LLMs!<br>
+[2024/4/16] Add some CVPR 2024 papers. <br>
+[2024/4/15] 🚀 Add **MetaGPT**, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. <br>
+[2024/3/13] 🎮 Add **CRADLE**, an interesting paper exploring LLM-based agent in Red Dead Redemption II！
 
 
 ## Table of Contents 🍃
 - [Survey](#survey)
+- [Self-Evolving Agents](#self-evolving-agents)
 - [Advanced Agent Applications](#advanced-agent-applications)
 - [LLMs with RL or World Model](#llms-with-rl-or-world-model)
 - [Planning and Manipulation or Pretraining](#planning-and-manipulation-or-pretraining)
@@ -63,6 +65,13 @@ Fudan NLP Group, miHoYo Inc
 
 * [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**arXiv 2023,08**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
+
+
+> ### Self-Evolving Agents
+
+* [**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532) [**arXiv 2024.06**] [[**Github**](https://github.com/aiwaves-cn/agents)]<br>
+Wangchunshu Zhou, Yixin Ou, Shengwei Ding, Long Li, Jialong Wu, Tiannan Wang, Jiamin Chen, Shuai Wang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang<br>
+AIWaves Inc.
 
 > ### Advanced Agent Applications
 
