@@ -69,6 +69,9 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Self-Evolving Agents
 
+* [**AGENTGYM: Evolving Large Language Model-based Agents across Diverse Environments**](https://arxiv.org/pdf/2406.04151) [**arXiv 2024.06**] [[**Github**](https://github.com/WooooDyy/AgentGym)] [[**Project page**](https://agentgym.github.io/)] <br>
+Fudan NLP Lab & Fudan Vision and Learning Lab
+
 * [**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532) [**arXiv 2024.06**] [[**Github**](https://github.com/aiwaves-cn/agents)]<br>
 Wangchunshu Zhou, Yixin Ou, Shengwei Ding, Long Li, Jialong Wu, Tiannan Wang, Jiamin Chen, Shuai Wang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang<br>
 AIWaves Inc.
