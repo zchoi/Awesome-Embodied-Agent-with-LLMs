@@ -468,6 +468,9 @@ Institute of Computing Technology, CAS,
 <sup>2</sup>University of Chinese Academy of Sciences, <sup>3</sup>Beijing Academy of Artificial Intelligence
 
 > ### Simulator
+* [**LEGENT: Open Platform for Embodied Agents**](https://arxiv.org/pdf/2404.18243) [**ACL 2024**] [[**Project page**](https://docs.legent.ai/)] [[**Github**](https://github.com/thunlp/LEGENT)]<br>
+Tsinghua University<br>
+
 * [**AI2-THOR: An Interactive 3D Environment for Visual AI**](https://arxiv.org/abs/1712.05474) [**arXiv 2022**] [[**Project page**](http://ai2thor.allenai.org/)] [[**Github**](https://github.com/allenai/ai2thor)]<br> 
 Allen Institute for AI, University of Washington, Stanford University, Carnegie Mellon University<br>
 
