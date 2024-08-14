@@ -86,6 +86,9 @@ AIWaves Inc.
 
 > ### Advanced Agent Applications
 
+* [**Embodied-agents**] [[**Github**](https://github.com/mbodiai/embodied-agents)] <br>
+Seamlessly integrate state-of-the-art transformer models into robotics stacks.
+
 * [**Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration**](https://arxiv.org/pdf/2406.01014) [**arXiv 2024**] [[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2)]<br>
 Junyang Wang<sup>1</sup>, Haiyang Xu<sup>2</sup>, Haitao Jia<sup>1</sup>, Xi Zhang<sup>2</sup>, Ming Yan<sup>2</sup>, Weizhou Shen<sup>2</sup>, Ji Zhang<sup>2</sup>, Fei Huang<sup>2</sup>, Jitao Sang<sup>1</sup><br>
 <sup>1</sup>Beijing Jiaotong University <sup>2</sup>Alibaba Group
