@@ -114,6 +114,10 @@ Tencent
 
 > ### LLMs with RL or World Model
 
+* [**KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts**](https://openreview.net/attachment?id=sFyTZEqmUY&name=pdf) [**NeurIPS 2024**] [[**Project Page**](https://kalmneurips2024.github.io)]<br>
+Jing-Cheng Pang, Si-Hang Yang, Kaiyuan Li, Jiaji Zhang, Xiong-Hui Chen, Nan Tang, Yang Yu<br>
+<sup>1</sup>Nanjing University, <sup>2</sup>Polixir.ai
+
 * [**Learning Interactive Real-World Simulators**](https://openreview.net/attachment?id=sFyTZEqmUY&name=pdf) [**ICLR 2024 (Outstanding Papers)**] [[**Project Page**](https://universal-simulator.github.io/unisim/)]<br>
 Sherry Yang<sup>1,2</sup>, Yilun Du<sup>3</sup>, Kamyar Ghasemipour<sup>2</sup>, Jonathan Tompson<sup>2</sup>, Leslie Kaelbling<sup>3</sup>, Dale Schuurmans<sup>2</sup>, Pieter Abbeel<sup>1</sup><br>
 <sup>1</sup>UC Berkeley, <sup>2</sup>Google DeepMind, <sup>3</sup>MIT
