@@ -73,6 +73,11 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Self-Evolving Agents
 
+* [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
+Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup><br>
+<sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
+
+
 * [**AGENTGYM: Evolving Large Language Model-based Agents across Diverse Environments**](https://arxiv.org/pdf/2406.04151) [**arXiv 2024.06**] [[**Github**](https://github.com/WooooDyy/AgentGym)] [[**Project page**](https://agentgym.github.io/)] <br>
 Fudan NLP Lab & Fudan Vision and Learning Lab
 
@@ -83,8 +88,13 @@ Fangzhi Xu<sup>♢♡</sup>, Qiushi Sun<sup>2, ♡</sup>, Kanzhi Cheng<sup>1</su
 * [**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532) [**arXiv 2024.06**] [[**Github**](https://github.com/aiwaves-cn/agents)]<br>
 Wangchunshu Zhou, Yixin Ou, Shengwei Ding, Long Li, Jialong Wu, Tiannan Wang, Jiamin Chen, Shuai Wang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang<br>
 AIWaves Inc.
-
+https://meta-control-paper.github.io/
 > ### Advanced Agent Applications
+
+* [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
+Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup>
+<sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
+
 
 * [**Embodied-agents**] [[**Github**](https://github.com/mbodiai/embodied-agents)] <br>
 Seamlessly integrate state-of-the-art transformer models into robotics stacks.
@@ -178,6 +188,10 @@ Yuqing Du<sup>1*</sup>, Olivia Watkins<sup>1*</sup>, Zihan Wang<sup>2</sup>, Ced
 Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
+
+* [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
+Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup>
+<sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
 
 * [**Voyager: An Open-Ended Embodied Agent with Large Language Models**](https://openreview.net/attachment?id=pAMNKGwja6&name=pdf) [**NeurIPS 2023 Workshop ALOE Spotlight**] [[**Project page**](https://voyager.minedojo.org/)] [[**Github**]](https://github.com/MineDojo/Voyager) <br>
 Guanzhi Wang<sup>1,2</sup>, Yuqi Xie<sup>3</sup>, Yunfan Jiang<sup>4</sup>, Ajay Mandlekar<sup>1</sup>, Chaowei Xiao<sup>1,5</sup>, Yuke Zhu<sup>1,3</sup>, Linxi Fan<sup>1</sup>, Anima Anandkumar<sup>1,2</sup>
@@ -403,6 +417,11 @@ Beijing Institute for General Artificial Intelligence (BIGAI)
 
 > ### Interactive Embodied Learning
 
+* [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
+Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup>
+<sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
+
+
 * [**Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning**](https://openreview.net/attachment?id=feXm8GbxWU&name=pdf) [**ICML 2023**]  <br>
 Thomas Carta<sup>1*</sup>, Clement Romac ´<sup>1,2</sup>, Thomas Wolf<sup>2</sup>, Sylvain Lamprier<sup>3</sup>, Olivier Sigaud<sup>4</sup>, Pierre-Yves Oudeyer<sup>1</sup><br>
 <sup>1</sup>Inria (Flowers), University of Bordeaux, <sup>2</sup>Hugging Face, <sup>3</sup>Univ Angers, LERIA, SFR MATHSTIC,
@@ -538,6 +557,10 @@ Theodore Sumers<sup>1∗</sup> Kenneth Marino<sup>2</sup> Arun Ahuja<sup>2</sup>
 * [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) [**arXiv 2023**] [[**Github**](https://github.com/dvlab-research/LISA)] [[**Huggingface Models**](https://huggingface.co/xinlai)] [[**Dataset**](https://drive.google.com/drive/folders/125mewyg5Ao6tZ3ZdJ-1-E3n04LGVELqy?usp=sharing)] [[**Online Demo**](http://103.170.5.190:7860/)]     
 TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<sup>1</sup> Yuhui Yuan<sup>3</sup> Shu Liu<sup>2</sup> Jiaya Jia<sup>1,2</sup> <br>
 <sup>1</sup>The Chinese University of Hong Kong <sup>2</sup>SmartMore <sup>3</sup>MSRA<br>
+
+* [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
+Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup>
+<sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
 
 <!--## Star History
 
