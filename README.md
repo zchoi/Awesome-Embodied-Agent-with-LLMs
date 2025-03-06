@@ -196,6 +196,10 @@ Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang,
 * [**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**](https://arxiv.org/pdf/2312.07472.pdf) [**CVPR 2024**] [[**Project Page**](https://iranqin.github.io/MP5.github.io/)] <br>
   Yiran Qin<sup>1,2</sup> Enshen Zhou<sup>1,3</sup> Qichang Liu<sup>1,4</sup> Zhenfei Yin<sup>1,5</sup> Lu Sheng<sup>3</sup> Ruimao Zhang<sup>2</sup> Yu Qiao<sup>1</sup>  Jing Shao<sup>1</sup><br>
   <sup>1</sup>Shanghai Artificial Intelligence Laboratory, <sup>2</sup>The Chinese University of Hong Kong, Shenzhen, <sup>3</sup>Beihang University, <sup>4</sup>Tsinghua University, <sup>5</sup>The University of Sydney
+  
+* [**Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**](https://arxiv.org/abs/2412.04455) [**CVPR 2025**] [[**Project Page**](https://zhoues.github.io/Code-as-Monitor/)] <br>
+Enshen Zhou<sup>1*</sup> Qi Su<sup>2*</sup> Cheng Chi<sup>3*;</sup> Zhizheng Zhang<sup>4</sup> Zhongyuan Wang<sup>3</sup> Tiejun Huang<sup>2,3</sup> Lu Sheng<sup>1;</sup> He Wang<sup>2,3,4;</sup><br>
+<sup>1</sup>Beihang University, <sup>2</sup>Peking University, <sup>3</sup>Beijing Academy of Artificial Intelligence, <sup>4</sup>GalBot
 
 
 * [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**](https://peihaochen.github.io/files/publications/RILA.pdf) [**CVPR 2024**] <br>
