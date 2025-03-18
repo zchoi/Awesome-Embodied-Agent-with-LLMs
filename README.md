@@ -7,7 +7,6 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 ## News🔥
 [2025/03/18] Add some popular vision-language action (VLA) model. 🦾 <br>
-[2024/08/01] Created a new board about social agent and role-playing. 🧑‍🧑‍🧒‍🧒  <br>
 [2024/06/28] Created a new board about agent self-evolutionary research. 🤖 <br>
 [2024/06/07] Add **Mobile-Agent-v2**, a mobile device operation assistant with effective navigation via multi-agent collaboration. 🚀 <br>
 [2024/05/13] Add "**Learning Interactive Real-World Simulators**"——outstanding paper award in ICLR 2024 🥇.<br>
@@ -20,7 +19,6 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 ## Table of Contents 🍃
 - [Survey](#survey)
 - [Vision-Language Model](#vision-language-model)
-- [Social Agent](#social-agent)
 - [Self-Evolving Agents](#self-evolving-agents)
 - [Advanced Agent Applications](#advanced-agent-applications)
 - [LLMs with RL or World Model](#llms-with-rl-or-world-model)
@@ -77,7 +75,6 @@ Physical Intelligence
 * [**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**](https://arxiv.org/pdf/2502.19417) [**arXiv 2025.02**] [[**Project page**](https://www.pi.website/research/hirobot)]<br>
 Physical Intelligence
 
-> ### Social Agent
 
 > ### Self-Evolving Agents
 
