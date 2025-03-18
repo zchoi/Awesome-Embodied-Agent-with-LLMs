@@ -5,8 +5,6 @@
 --->
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
-
-
 ## News🔥
 [2025/03/18] Add some popular vision-language action (VLA) models. 🦾 <br>
 [2024/06/28] Created a new board about agent self-evolutionary research. 🤖 <br>
@@ -43,8 +41,8 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 </tr>
 </table>
 
-
 ![image](https://github.com/user-attachments/assets/cad48f94-e8dc-4792-a716-a52d099ba4ac)
+* Video demo and figure from [1] and [2].
 
 <!---
 <p align="center">
@@ -609,8 +607,8 @@ Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Z
 
 
 > ### Acknowledge
-[1] Figure from this [project](https://robotics-transformer-x.github.io/) <br>
-[2] Figure from this paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
+[1] Video demo from this [project](https://www.physicalintelligence.company/blog/pi0) <br>
+[2] Figure from this [project][https://robotics-transformer-x.github.io/)
 <!---
 [1] Trend pic from this [repo](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main).<br>
 [2] Figure from this paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf).
