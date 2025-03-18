@@ -6,7 +6,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 
 ## News🔥
-[2025/03/18] Add some popular vision-language action (VLA) model. 🦾 <br>
+[2025/03/18] Add some popular vision-language action (VLA) models. 🦾 <br>
 [2024/06/28] Created a new board about agent self-evolutionary research. 🤖 <br>
 [2024/06/07] Add **Mobile-Agent-v2**, a mobile device operation assistant with effective navigation via multi-agent collaboration. 🚀 <br>
 [2024/05/13] Add "**Learning Interactive Real-World Simulators**"——outstanding paper award in ICLR 2024 🥇.<br>
