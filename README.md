@@ -74,6 +74,9 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 * [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/abs/2410.24164) [**arXiv 2024.10**] [[**Project page**](https://www.physicalintelligence.company/blog/pi0)]<br>
 Physical Intelligence
 
+* [**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**](https://arxiv.org/pdf/2502.19417) [**arXiv 2025.02**] [[**Project page**](https://www.pi.website/research/hirobot)]<br>
+Physical Intelligence
+
 > ### Social Agent
 
 > ### Self-Evolving Agents
