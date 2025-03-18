@@ -1,8 +1,10 @@
 # 🤖 Awesome Embodied Robotics and Agent [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a curated list of "Embodied robotics or agent with Vision-Language Models (VLMs) and Large Language Models (LLMs)" research which is maintained by [haonan](https://github.com/zchoi).
+<!---
 <img src="https://user-images.githubusercontent.com/7837172/44953557-0fb54e80-aec9-11e8-9d38-2388bc70c5c5.png" width=15% align="right" /> 
-
+--->
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
+
 
 
 ## News🔥
@@ -14,6 +16,45 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 [2024/04/16] Add some CVPR 2024 papers. <br>
 [2024/04/15] Add **MetaGPT**, accepted for oral presentation (top 1.2%) at ICLR 2024, **ranking #1** in the LLM-based Agent category. 🚀 <br>
 [2024/03/13] Add **CRADLE**, an interesting paper exploring LLM-based agent in Red Dead Redemption II！🎮
+
+<!---
+## Trend and Imagination of Embodied Robotics and Agent
+--->
+
+## Development of Embodied Robotics and Benchmarks
+
+<table>
+<tr>
+<td align="center">
+
+[π0-video-1](https://github.com/user-attachments/assets/d0fb7c8f-fd79-40ad-9606-cc60af8a5491)
+
+</td>
+<td align="center">
+
+[π0-video-2](https://github.com/user-attachments/assets/569316e8-9dd8-426b-a35c-9fd9a4ba9d89)
+
+</td>
+<td align="center">
+
+[π0-video-3](https://github.com/user-attachments/assets/7e83919e-fd90-4544-878e-853ba92ab8f6)
+
+</td>
+</tr>
+</table>
+
+
+![image](https://github.com/user-attachments/assets/cad48f94-e8dc-4792-a716-a52d099ba4ac)
+
+<!---
+<p align="center">
+    <img src="trend.png" width="54%">
+    <img src="Genshin.jpg" width="43%">
+    <span><b>Figure 1. Trend of Embodied Agent with LLMs.<sup>[1]</sup></b></span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <span><b>Figure 2. An envisioned Agent society.<sup>[2]</sup></b></span>
+</p>
+--->
 
 
 ## Table of Contents 🍃
@@ -33,14 +74,6 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 - [Simulator](#simulator)
 - [Others](#others)
 
-## Trend and Imagination of LLM-based Embodied Agent
-<p align="center">
-    <img src="trend.png" width="54%">
-    <img src="Genshin.jpg" width="43%">
-    <span><b>Figure 1. Trend of Embodied Agent with LLMs.<sup>[1]</sup></b></span>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <span><b>Figure 2. An envisioned Agent society.<sup>[2]</sup></b></span>
-</p>
 
 ## Methods
 
@@ -81,7 +114,6 @@ Physical Intelligence
 * [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
 Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup><br>
 <sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
-
 
 * [**AGENTGYM: Evolving Large Language Model-based Agents across Diverse Environments**](https://arxiv.org/pdf/2406.04151) [**arXiv 2024.06**] [[**Github**](https://github.com/WooooDyy/AgentGym)] [[**Project page**](https://agentgym.github.io/)] <br>
 Fudan NLP Lab & Fudan Vision and Learning Lab
@@ -577,6 +609,9 @@ Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Z
 
 
 > ### Acknowledge
-
+[1] Figure from this [project](https://robotics-transformer-x.github.io/) <br>
+[2] Figure from this paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
+<!---
 [1] Trend pic from this [repo](https://github.com/Paitesanshi/LLM-Agent-Survey/tree/main).<br>
 [2] Figure from this paper: [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf).
+--->
