@@ -6,6 +6,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 
 ## News🔥
+[2025/03/18] Add some popular vision-language action (VLA) model. 🦾 <br>
 [2024/08/01] Created a new board about social agent and role-playing. 🧑‍🧑‍🧒‍🧒  <br>
 [2024/06/28] Created a new board about agent self-evolutionary research. 🤖 <br>
 [2024/06/07] Add **Mobile-Agent-v2**, a mobile device operation assistant with effective navigation via multi-agent collaboration. 🚀 <br>
@@ -18,6 +19,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 ## Table of Contents 🍃
 - [Survey](#survey)
+- [Vision-Language Model](#vision-language-model)
 - [Social Agent](#social-agent)
 - [Self-Evolving Agents](#self-evolving-agents)
 - [Advanced Agent Applications](#advanced-agent-applications)
@@ -68,6 +70,9 @@ Fudan NLP Group, miHoYo Inc
 * [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**arXiv 2023,08**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
 
+> ### Vision-Language Model
+* [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/abs/2410.24164) [**arXiv 2024.10**] [[**Project page**](https://www.physicalintelligence.company/blog/pi0)]<br>
+Physical Intelligence
 
 > ### Social Agent
 
